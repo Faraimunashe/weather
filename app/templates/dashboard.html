@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+    <nav class="text-sm text-gray-600">
+        <a href="#" class="hover:text-blue-600">Home</a> &gt; 
+        <a href="#" class="hover:text-blue-600">Dashboard</a> &gt; 
+        <span class="text-gray-800">Weather Forecasts</span>
+    </nav>
+
+    <h2 class="text-3xl font-semibold text-gray-800 mt-4">Weather Forecasts for Key Sectors</h2>
+
+
+    <section id="dashboard" class="bg-white shadow-md rounded-lg p-6 mb-8 mt-10">
+        <h2 class="text-2xl font-semibold text-gray-800">Dashboard</h2>
+        <p class="mt-2 text-gray-600">Real-time weather updates and insights for different sectors.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-4">
+            <div class="bg-blue-500 text-white p-4 rounded-lg shadow-lg">
+                <h3 class="text-lg font-bold">Agriculture</h3>
+                <p>Weather impact on crops & soil moisture.</p>
+            </div>
+            <div class="bg-green-500 text-white p-4 rounded-lg shadow-lg">
+                <h3 class="text-lg font-bold">Mining</h3>
+                <p>Weather conditions affecting mining operations.</p>
+            </div>
+            <div class="bg-yellow-500 text-white p-4 rounded-lg shadow-lg">
+                <h3 class="text-lg font-bold">Aviation</h3>
+                <p>Flight safety and turbulence predictions.</p>
+            </div>
+            <div class="bg-red-500 text-white p-4 rounded-lg shadow-lg">
+                <h3 class="text-lg font-bold">Transportation</h3>
+                <p>Road safety and logistics weather updates.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="settings" class="bg-white shadow-md rounded-lg p-6 mb-8">
+        <h2 class="text-2xl font-semibold text-gray-800">Settings</h2>
+        <p class="mt-2 text-gray-600">Customize your notifications and system preferences.</p>
+    </section>
+{% endblock %}
