@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block content %}
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto px-6 py-12 space-y-12">
+
+    <!-- Title -->
+    <section>
+      <h2 class="text-3xl font-bold text-gray-800 mb-2">✈️ Flight Weather Intelligence</h2>
+      <p class="text-gray-600 text-lg max-w-3xl">Monitor critical weather conditions affecting air traffic, runway safety, and turbulence using aviation-focused forecasting tools.</p>
+    </section>
+
+    <!-- Metrics -->
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🛫 Wind Shear</p>
+        <h2 class="text-2xl font-bold">Moderate</h2>
+        <p class="text-xs text-gray-400 mt-1">Risk of instability during take-off and landing</p>
+      </div>
+      <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">☁️ Ceiling</p>
+        <h2 class="text-2xl font-bold">1500 ft</h2>
+        <p class="text-xs text-gray-400 mt-1">Low visibility for smaller aircraft</p>
+      </div>
+      <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌩️ Storm Alert</p>
+        <h2 class="text-2xl font-bold">Yes</h2>
+        <p class="text-xs text-gray-400 mt-1">High chance of delays and reroutes</p>
+      </div>
+      <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">📡 Visibility</p>
+        <h2 class="text-2xl font-bold">3 km</h2>
+        <p class="text-xs text-gray-400 mt-1">Below optimal for final approach</p>
+      </div>
+    </section>
+
+    <!-- Forecast Table -->
+    <section>
+      <h3 class="text-xl font-semibold mb-4">📅 3-Day Aviation Forecast</h3>
+      <div class="overflow-x-auto">
+        <table class="w-full bg-white border border-gray-200 shadow rounded-lg text-sm">
+          <thead class="bg-blue-100 text-blue-900">
+            <tr>
+              <th class="px-4 py-3 text-left">Date</th>
+              <th class="px-4 py-3 text-left">Ceiling</th>
+              <th class="px-4 py-3 text-left">Wind</th>
+              <th class="px-4 py-3 text-left">Visibility</th>
+              <th class="px-4 py-3 text-left">Condition</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-100">
+            <tr>
+              <td class="px-4 py-3">24 Apr 2025</td>
+              <td class="px-4 py-3">1200 ft</td>
+              <td class="px-4 py-3">25 km/h</td>
+              <td class="px-4 py-3">3.2 km</td>
+              <td class="px-4 py-3">Showers & Wind Shear</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">25 Apr 2025</td>
+              <td class="px-4 py-3">1800 ft</td>
+              <td class="px-4 py-3">20 km/h</td>
+              <td class="px-4 py-3">5.0 km</td>
+              <td class="px-4 py-3">Cloudy</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">26 Apr 2025</td>
+              <td class="px-4 py-3">2000 ft</td>
+              <td class="px-4 py-3">18 km/h</td>
+              <td class="px-4 py-3">6.5 km</td>
+              <td class="px-4 py-3">Clearing Skies</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Insight Section -->
+    <section class="bg-white p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-semibold mb-3">🧠 Aviation Operational Insights</h4>
+      <ul class="list-disc list-inside space-y-2 text-gray-700">
+        <li><strong>Pre-flight Checks:</strong> Ensure updated METARs are shared with all pilots pre-departure.</li>
+        <li><strong>Landing Protocol:</strong> Plan alternate landing paths for storm-prone hours.</li>
+        <li><strong>Fuel Planning:</strong> Adjust fuel loads for potential reroutes or delays.</li>
+        <li><strong>Low Visibility:</strong> Use ILS landing systems for all flights arriving during dusk hours.</li>
+      </ul>
+    </section>
+
+  </main>
+
+{% endblock %}

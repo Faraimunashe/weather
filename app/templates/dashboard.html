@@ -1,39 +1,54 @@
 {% extends "base.html" %}
 {% block content %}
-    <nav class="text-sm text-gray-600">
-        <a href="#" class="hover:text-blue-600">Home</a> &gt; 
-        <a href="#" class="hover:text-blue-600">Dashboard</a> &gt; 
-        <span class="text-gray-800">Weather Forecasts</span>
+<div class="max-w-7xl mx-auto px-6 py-5 space-y-10">
+
+    <!-- Breadcrumbs -->
+    <nav class="text-sm text-gray-500 flex items-center space-x-2">
+        <a href="#" class="hover:text-emerald-600 transition">Home</a>
+        <span>/</span>
+        <a href="#" class="hover:text-emerald-600 transition">Dashboard</a>
+        <span>/</span>
+        <span class="text-gray-700 font-semibold">Weather Forecasts</span>
     </nav>
 
-    <h2 class="text-3xl font-semibold text-gray-800 mt-4">Weather Forecasts for Key Sectors</h2>
+    <!-- Header -->
+    <div class="flex justify-between items-center">
+        <div>
+            <h1 class="text-4xl font-extrabold text-gray-800">Sector-Based Weather Forecasts</h1>
+            <p class="text-gray-600 mt-2">Get real-time, localised insights for each industry.</p>
+        </div>
+    </div>
 
-
-    <section id="dashboard" class="bg-white shadow-md rounded-lg p-6 mb-8 mt-10">
-        <h2 class="text-2xl font-semibold text-gray-800">Dashboard</h2>
-        <p class="mt-2 text-gray-600">Real-time weather updates and insights for different sectors.</p>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-4">
-            <div class="bg-blue-500 text-white p-4 rounded-lg shadow-lg">
-                <h3 class="text-lg font-bold">Agriculture</h3>
-                <p>Weather impact on crops & soil moisture.</p>
-            </div>
-            <div class="bg-green-500 text-white p-4 rounded-lg shadow-lg">
-                <h3 class="text-lg font-bold">Mining</h3>
-                <p>Weather conditions affecting mining operations.</p>
-            </div>
-            <div class="bg-yellow-500 text-white p-4 rounded-lg shadow-lg">
-                <h3 class="text-lg font-bold">Aviation</h3>
-                <p>Flight safety and turbulence predictions.</p>
-            </div>
-            <div class="bg-red-500 text-white p-4 rounded-lg shadow-lg">
-                <h3 class="text-lg font-bold">Transportation</h3>
-                <p>Road safety and logistics weather updates.</p>
-            </div>
+    <!-- Dashboard Cards -->
+    <section id="dashboard" class="bg-white shadow-xl rounded-2xl p-8">
+        <h2 class="text-2xl font-semibold text-gray-800 mb-4">Dashboard</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Card Template -->
+            <a href="#agriculture" class="block bg-gradient-to-br from-blue-500 to-blue-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300">
+                <h3 class="text-xl font-bold mb-1">🌱 Agriculture</h3>
+                <p class="text-sm">Crop health, soil moisture, and rainfall alerts.</p>
+            </a>
+            <a href="#mining" class="block bg-gradient-to-br from-green-500 to-green-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300">
+                <h3 class="text-xl font-bold mb-1">⛏️ Mining</h3>
+                <p class="text-sm">Forecasts to mitigate weather-related mining risks.</p>
+            </a>
+            <a href="#aviation" class="block bg-gradient-to-br from-yellow-500 to-yellow-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300">
+                <h3 class="text-xl font-bold mb-1">✈️ Aviation</h3>
+                <p class="text-sm">Flight safety data & turbulence predictions.</p>
+            </a>
+            <a href="#transport" class="block bg-gradient-to-br from-red-500 to-red-600 text-white p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300">
+                <h3 class="text-xl font-bold mb-1">🚚 Transportation</h3>
+                <p class="text-sm">Road weather alerts & logistics safety updates.</p>
+            </a>
         </div>
     </section>
 
-    <section id="settings" class="bg-white shadow-md rounded-lg p-6 mb-8">
+    <!-- Settings Section -->
+    <section id="settings" class="bg-white shadow-xl rounded-2xl p-8">
         <h2 class="text-2xl font-semibold text-gray-800">Settings</h2>
-        <p class="mt-2 text-gray-600">Customize your notifications and system preferences.</p>
+        <p class="text-gray-600 mt-2">Configure alert preferences, forecast regions, and more.</p>
+        <!-- Future form or links can go here -->
     </section>
+
+</div>
 {% endblock %}

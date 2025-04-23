@@ -32,9 +32,13 @@ def create_app():
     # Register blueprints
     from .auth import auth_bp
     from .dashboard import dashboard_bp
+    from .profile import profile_bp
+    from .forecast import forecast_bp
 
     app.register_blueprint(auth_bp)
     app.register_blueprint(dashboard_bp)
+    app.register_blueprint(profile_bp)
+    app.register_blueprint(forecast_bp)
 
     from app.models import User
 

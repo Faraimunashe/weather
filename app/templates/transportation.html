@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block content %}
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto px-6 py-12 space-y-12">
+
+    <!-- Title -->
+    <section>
+      <h2 class="text-3xl font-bold text-gray-800 mb-2">🚚 Logistics Weather Intelligence</h2>
+      <p class="text-gray-600 text-lg max-w-3xl">Optimise fleet safety, route efficiency, and cargo delivery using tailored weather insights for transportation and logistics planning.</p>
+    </section>
+
+    <!-- Metrics -->
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="bg-white border-l-4 border-amber-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🛣️ Road Wetness</p>
+        <h2 class="text-2xl font-bold">High</h2>
+        <p class="text-xs text-gray-400 mt-1">Slippery roads — reduce speeds in rural areas</p>
+      </div>
+      <div class="bg-white border-l-4 border-amber-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌫️ Fog Zones</p>
+        <h2 class="text-2xl font-bold">3</h2>
+        <p class="text-xs text-gray-400 mt-1">Expected between 4AM – 7AM in lowland routes</p>
+      </div>
+      <div class="bg-white border-l-4 border-amber-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🚦 Delay Risk</p>
+        <h2 class="text-2xl font-bold">Severe</h2>
+        <p class="text-xs text-gray-400 mt-1">Congestion on highways and industrial zones</p>
+      </div>
+      <div class="bg-white border-l-4 border-amber-500 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">⛽ Fuel Demand Spike</p>
+        <h2 class="text-2xl font-bold">+20%</h2>
+        <p class="text-xs text-gray-400 mt-1">Due to reroutes and increased urban logistics</p>
+      </div>
+    </section>
+
+    <!-- Forecast Table -->
+    <section>
+      <h3 class="text-xl font-semibold mb-4">📅 3-Day Transport Forecast</h3>
+      <div class="overflow-x-auto">
+        <table class="w-full bg-white border border-gray-200 shadow rounded-lg text-sm">
+          <thead class="bg-amber-100 text-amber-900">
+            <tr>
+              <th class="px-4 py-3 text-left">Date</th>
+              <th class="px-4 py-3 text-left">Road Risk</th>
+              <th class="px-4 py-3 text-left">Delays Expected</th>
+              <th class="px-4 py-3 text-left">Fuel Impact</th>
+              <th class="px-4 py-3 text-left">Recommendation</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-100">
+            <tr>
+              <td class="px-4 py-3">24 Apr 2025</td>
+              <td class="px-4 py-3">Wet Roads</td>
+              <td class="px-4 py-3">High</td>
+              <td class="px-4 py-3">+15%</td>
+              <td class="px-4 py-3">Delay long-haul logistics</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">25 Apr 2025</td>
+              <td class="px-4 py-3">Dense Fog</td>
+              <td class="px-4 py-3">Moderate</td>
+              <td class="px-4 py-3">+20%</td>
+              <td class="px-4 py-3">Dispatch only in daylight hours</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">26 Apr 2025</td>
+              <td class="px-4 py-3">Clear</td>
+              <td class="px-4 py-3">Low</td>
+              <td class="px-4 py-3">Stable</td>
+              <td class="px-4 py-3">Optimise deliveries</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Insight Section -->
+    <section class="bg-white p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-semibold mb-3">🚦 Transport Operations Advice</h4>
+      <ul class="list-disc list-inside space-y-2 text-gray-700">
+        <li><strong>Morning Deliveries:</strong> Avoid fog zones before 7AM — reroute where necessary.</li>
+        <li><strong>Fuel Strategy:</strong> Use larger tanks to reduce refuelling mid-route during congestion.</li>
+        <li><strong>Driver Safety:</strong> Issue fog lamps and hazard light protocols on wet or dark roads.</li>
+        <li><strong>Heavy Cargo:</strong> Delay until clearer forecasts to avoid unnecessary wear and rerouting.</li>
+      </ul>
+    </section>
+
+  </main>
+
+{% endblock %}

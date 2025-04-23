@@ -1,53 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sector-Based Weather Forecasting System</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sector-Based Weather Forecasting System</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#2563eb', // Tailwind blue-600
+          },
+        },
+      },
+    };
+  </script>
 </head>
-<body class="bg-gray-100">
-    <header class="bg-blue-600 text-white fixed w-full top-0 shadow-md z-50">
-        <div class="container mx-auto flex justify-between items-center py-4 px-6">
-            <div class="flex items-center space-x-3">
-                <img src="{{url_for('static', filename='images/weather.png')}}" alt="System Logo" class="h-10">
-                <h1 class="text-xl font-bold">Weather Forecasting System</h1>
+<body class="bg-gray-100 font-sans">
+
+  <!-- Header -->
+  <header class="bg-primary text-white fixed top-0 w-full shadow-md z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <!-- Logo and Title -->
+      <div class="flex items-center space-x-3">
+        <img src="{{url_for('static', filename='images/weather.png')}}" alt="System Logo" class="h-10 w-10 rounded-full shadow">
+        <span class="text-2xl font-bold">Sector-Based Weather Forecasting System</span>
+      </div>
+
+      <!-- Navigation -->
+      <nav class="flex items-center space-x-6 text-sm font-medium">
+        <a href="#dashboard" class="hover:underline hover:text-blue-200 transition">Dashboard</a>
+        <a href="#settings" class="hover:underline hover:text-blue-200 transition">Settings</a>
+
+        <!-- Profile Section -->
+        <div class="relative">
+          <button id="profileBtn" class="focus:outline-none">
+            <img src="{{ url_for('static', filename='images/profile.jpg') }}" alt="Profile" class="h-10 w-10 rounded-full border-2 border-white shadow-md hover:ring-2 hover:ring-white transition duration-300">
+          </button>
+
+          <!-- Profile Dropdown -->
+          <div id="profilePopup" class="hidden absolute right-0 mt-2 w-52 bg-white text-gray-800 shadow-xl rounded-xl overflow-hidden transition-all duration-300">
+            <div class="px-4 py-3 border-b border-gray-200">
+              <p class="font-semibold text-base">John Doe</p>
+              <p class="text-sm text-gray-500">johndoe@email.com</p>
             </div>
-            <nav class="flex items-center space-x-6">
-                <a href="#dashboard" class="hover:underline">Dashboard</a>
-                <a href="#settings" class="hover:underline">Settings</a>
-                <div class="relative">
-                    <button id="profileBtn" class="hover:underline focus:outline-none">Profile</button>
-                    <div id="profilePopup" class="hidden absolute right-0 mt-2 w-48 bg-white text-gray-800 shadow-lg rounded-lg py-2">
-                        <p class="px-4 py-2 font-semibold">John Doe</p>
-                        <a href="#" class="block px-4 py-2 hover:bg-gray-200">Change Password</a>
-                        <a href="#" class="block px-4 py-2 hover:bg-gray-200">Logout</a>
-                    </div>
-                </div>
-            </nav>
+            <a href="/profile" class="block px-4 py-2 text-sm hover:bg-gray-100">Profile</a>
+            <a href="#" class="block px-4 py-2 text-sm hover:bg-gray-100">Change Password</a>
+            <a href="#" class="block px-4 py-2 text-sm text-red-600 hover:bg-gray-100">Logout</a>
+          </div>
         </div>
-    </header>
-    
-    <main class="container mx-auto py-20 px-6 mt-20">
-        {% block content %}
+      </nav>
+    </div>
+  </header>
 
-        {% endblock %}
-    </main>
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto py-24 px-6">
+    {% block content %}
+    {% endblock %}
+  </main>
 
-    <footer class="bg-gray-800 text-white py-6 text-center mt-10">
-        <p class="text-sm">&copy; 2025 Sector-Based Weather Forecasting System. All rights reserved.</p>
-    </footer>
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-white text-center py-6 mt-20">
+    <p class="text-sm">&copy; 2025 Sector-Based Weather Forecasting System. All rights reserved.</p>
+  </footer>
 
-    <script>
-        document.getElementById('profileBtn').addEventListener('click', function() {
-            document.getElementById('profilePopup').classList.toggle('hidden');
-        });
-        document.addEventListener('click', function(event) {
-            var isClickInside = document.getElementById('profileBtn').contains(event.target) || document.getElementById('profilePopup').contains(event.target);
-            if (!isClickInside) {
-                document.getElementById('profilePopup').classList.add('hidden');
-            }
-        });
-    </script>
+  <!-- Profile Dropdown Logic -->
+  <script>
+    const profileBtn = document.getElementById('profileBtn');
+    const profilePopup = document.getElementById('profilePopup');
+
+    profileBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      profilePopup.classList.toggle('hidden');
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!profilePopup.contains(e.target) && !profileBtn.contains(e.target)) {
+        profilePopup.classList.add('hidden');
+      }
+    });
+  </script>
+
 </body>
 </html>

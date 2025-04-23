@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block content %}
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto px-6 py-12 space-y-12">
+
+    <!-- Title -->
+    <section>
+      <h2 class="text-3xl font-bold text-gray-800 mb-2">⛏ Operational Weather Intelligence</h2>
+      <p class="text-gray-600 text-lg max-w-3xl">Real-time weather metrics to enhance mining safety, reduce downtime, and plan operations efficiently.</p>
+    </section>
+
+    <!-- Metrics -->
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌡️ Heat Index</p>
+        <h2 class="text-2xl font-bold">41°C</h2>
+        <p class="text-xs text-gray-400 mt-1">May cause heat stress in underground operations</p>
+      </div>
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌬️ Dust Risk</p>
+        <h2 class="text-2xl font-bold">High</h2>
+        <p class="text-xs text-gray-400 mt-1">Limit outdoor blasting in high wind zones</p>
+      </div>
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">⛑️ Visibility</p>
+        <h2 class="text-2xl font-bold">Low</h2>
+        <p class="text-xs text-gray-400 mt-1">Extra lighting required in shift openings</p>
+      </div>
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">⚠️ Rain Delay</p>
+        <h2 class="text-2xl font-bold">Possible</h2>
+        <p class="text-xs text-gray-400 mt-1">Monitor for water ingress in open pits</p>
+      </div>
+    </section>
+
+    <!-- Forecast Table -->
+    <section>
+      <h3 class="text-xl font-semibold mb-4">📅 3-Day Hazard Forecast</h3>
+      <div class="overflow-x-auto">
+        <table class="w-full bg-white border border-gray-200 shadow rounded-lg text-sm">
+          <thead class="bg-gray-200 text-gray-800">
+            <tr>
+              <th class="px-4 py-3 text-left">Date</th>
+              <th class="px-4 py-3 text-left">Heat Index</th>
+              <th class="px-4 py-3 text-left">Rainfall</th>
+              <th class="px-4 py-3 text-left">Wind</th>
+              <th class="px-4 py-3 text-left">Hazards</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-100">
+            <tr>
+              <td class="px-4 py-3">24 Apr 2025</td>
+              <td class="px-4 py-3">41°C</td>
+              <td class="px-4 py-3">5.3 mm</td>
+              <td class="px-4 py-3">22 km/h</td>
+              <td class="px-4 py-3">Dust, Heat Stress</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">25 Apr 2025</td>
+              <td class="px-4 py-3">39°C</td>
+              <td class="px-4 py-3">8.0 mm</td>
+              <td class="px-4 py-3">18 km/h</td>
+              <td class="px-4 py-3">Water Logging</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3">26 Apr 2025</td>
+              <td class="px-4 py-3">37°C</td>
+              <td class="px-4 py-3">0.0 mm</td>
+              <td class="px-4 py-3">10 km/h</td>
+              <td class="px-4 py-3">Low Visibility</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Insight Section -->
+    <section class="bg-white p-6 rounded-xl shadow-md">
+      <h4 class="text-xl font-semibold mb-3">🔍 Safety & Operational Insights</h4>
+      <ul class="list-disc list-inside space-y-2 text-gray-700">
+        <li><strong>Dust Control:</strong> Use mist sprayers in high-exposure areas.</li>
+        <li><strong>Rain Watch:</strong> Secure slope walls and drainage before late shifts.</li>
+        <li><strong>Heat Stress:</strong> Rotate crews in 2-hour blocks. Provide electrolyte hydration.</li>
+        <li><strong>Hazard Forecast:</strong> Update crew heads with briefings every 12 hours.</li>
+      </ul>
+    </section>
+
+  </main>
+
+{% endblock %}
