@@ -30,8 +30,45 @@
 
       <!-- Navigation -->
       <nav class="flex items-center space-x-6 text-sm font-medium">
-        <a href="#dashboard" class="hover:underline hover:text-blue-200 transition">Dashboard</a>
-        <a href="#settings" class="hover:underline hover:text-blue-200 transition">Settings</a>
+        <a href="/" class="hover:underline hover:text-blue-200 transition">Dashboard</a>
+        <a href="/analytics" class="hover:underline hover:text-blue-200 transition">Analytics</a>
+        <a href="/feedback" class="hover:underline hover:text-blue-200 transition">Feedback</a>
+
+        <!-- Notifications -->
+        <div class="relative">
+          <button id="notifyBtn" class="relative text-white focus:outline-none">
+            <!-- Bell Icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 
+                    6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 
+                    6.165 6 8.388 6 11v3.159c0 .538-.214 
+                    1.055-.595 1.436L4 17h5m6 0v1a3 3 0 
+                    11-6 0v-1m6 0H9" />
+            </svg>
+            <!-- Badge -->
+            <span class="absolute -top-1 -right-1 bg-red-500 text-white text-xs w-4 h-4 rounded-full flex items-center justify-center">3</span>
+          </button>
+
+          <!-- Notifications Dropdown -->
+          <div id="notifyPopup" class="hidden absolute right-0 mt-2 w-80 bg-white text-gray-800 shadow-xl rounded-xl overflow-hidden transition-all duration-300 z-50">
+            <div class="p-4 border-b border-gray-200 font-semibold text-sm bg-blue-50 text-blue-800">
+              Weather Alerts
+            </div>
+            <ul class="divide-y divide-gray-100 max-h-64 overflow-y-auto text-sm">
+              <li class="px-4 py-3 hover:bg-gray-50">
+                ⚠️ Heavy Rainfall expected in Mutare tomorrow.
+              </li>
+              <li class="px-4 py-3 hover:bg-gray-50">
+                ⚠️ Strong Winds forecasted in Gweru (max 40km/h).
+              </li>
+              <li class="px-4 py-3 hover:bg-gray-50">
+                ⚠️ Heatwave alert for Beitbridge (up to 41°C).
+              </li>
+            </ul>
+          </div>
+        </div>
+
 
         <!-- Profile Section -->
         <div class="relative">
@@ -47,7 +84,7 @@
             </div>
             <a href="/profile" class="block px-4 py-2 text-sm hover:bg-gray-100">Profile</a>
             <a href="#" class="block px-4 py-2 text-sm hover:bg-gray-100">Change Password</a>
-            <a href="#" class="block px-4 py-2 text-sm text-red-600 hover:bg-gray-100">Logout</a>
+            <a href="{{ url_for('auth.logout') }}" class="block px-4 py-2 text-sm text-red-600 hover:bg-gray-100">Logout</a>
           </div>
         </div>
       </nav>
@@ -81,6 +118,23 @@
       }
     });
   </script>
+  <script>
+    const notifyBtn = document.getElementById('notifyBtn');
+    const notifyPopup = document.getElementById('notifyPopup');
+  
+    notifyBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      notifyPopup.classList.toggle('hidden');
+      profilePopup.classList.add('hidden'); // close profile if open
+    });
+  
+    document.addEventListener('click', function (e) {
+      if (!notifyPopup.contains(e.target) && !notifyBtn.contains(e.target)) {
+        notifyPopup.classList.add('hidden');
+      }
+    });
+  </script>
+  
 
 </body>
 </html>

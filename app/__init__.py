@@ -34,11 +34,15 @@ def create_app():
     from .dashboard import dashboard_bp
     from .profile import profile_bp
     from .forecast import forecast_bp
+    from .feedback import feedback_bp
+    from .datascience import analytic_bp
 
     app.register_blueprint(auth_bp)
     app.register_blueprint(dashboard_bp)
     app.register_blueprint(profile_bp)
     app.register_blueprint(forecast_bp)
+    app.register_blueprint(feedback_bp)
+    app.register_blueprint(analytic_bp)
 
     from app.models import User
 

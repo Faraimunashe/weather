@@ -8,6 +8,7 @@ from app.models import User
 auth_bp = Blueprint('auth', __name__)
 
 @auth_bp.route('/', methods=['GET', 'POST'])
+@login_required
 def index():
     
     return render_template('dashboard.html')
@@ -50,7 +51,7 @@ def register():
         if user:
             flash('Error email already exists!')
             return redirect(url_for('auth.register'))
-        new_user = User(branch_id=1, email=email, password=passwordata, name=name, role=1)
+        new_user = User(email=email, password=passwordata, name=name, role=1)
         db.session.add(new_user)
         db.session.commit()
 

@@ -1,0 +1,1001 @@
+Date,Location,Weather_Condition,Temperature_C,Humidity_%,Wind_Speed_kph,Rainfall_mm,Transport_Tip
+2022-01-01,Gweru,Windy,25.2,28.1,15.2,1.6,Secure light cargo and tarpaulins.
+2022-01-02,Kwekwe,Thunderstorms,30.5,37.3,34.6,0.3,Monitor GPS tracking for route disruptions.
+2022-01-03,Harare,Windy,41.1,49.0,14.9,1.1,High profile vehicles should avoid exposed highways.
+2022-01-04,Masvingo,Thunderstorms,21.5,34.7,43.3,16.6,Monitor GPS tracking for route disruptions.
+2022-01-05,Karoi,Thunderstorms,28.6,65.1,1.4,2.5,Suspend passenger routes through open terrain — lightning hazard.
+2022-01-06,Masvingo,Rain,35.4,63.2,41.7,10.6,Increase braking distance — roads may be slippery.
+2022-01-07,Chiredzi,Clear,20.9,63.7,21.8,0.1,Encourage daytime deliveries to maximize clear skies.
+2022-01-08,Bulawayo,Rain,32.9,45.7,1.2,12.2,Increase braking distance — roads may be slippery.
+2022-01-09,Beitbridge,Clear,31.5,63.9,31.2,0.7,Encourage daytime deliveries to maximize clear skies.
+2022-01-10,Masvingo,Clear,20.0,58.8,17.0,1.9,Encourage daytime deliveries to maximize clear skies.
+2022-01-11,Karoi,Hot,19.4,86.3,29.4,1.6,Avoid overheating — inspect engine components before departure.
+2022-01-12,Masvingo,Rain,31.4,47.6,20.2,9.4,Increase braking distance — roads may be slippery.
+2022-01-13,Gweru,Partly Cloudy,20.1,55.4,24.1,1.8,Minor visibility concerns — monitor local weather alerts.
+2022-01-14,Harare,Thunderstorms,29.2,54.9,36.2,23.8,Monitor GPS tracking for route disruptions.
+2022-01-15,Chiredzi,Hot,23.2,70.7,30.6,1.3,Check coolant and tire pressure regularly.
+2022-01-16,Chiredzi,Windy,18.9,57.1,16.4,0.1,High profile vehicles should avoid exposed highways.
+2022-01-17,Kwekwe,Rain,19.4,63.5,11.5,0.6,Delay low-priority routes in flood-prone areas.
+2022-01-18,Gweru,Rain,29.6,41.6,20.8,6.9,Delay low-priority routes in flood-prone areas.
+2022-01-19,Hwange,Rain,35.1,58.0,14.9,21.9,Increase braking distance — roads may be slippery.
+2022-01-20,Hwange,Rain,29.0,36.3,18.8,12.9,Check wiper and tire conditions before dispatch.
+2022-01-21,Beitbridge,Thunderstorms,22.5,75.8,4.2,14.3,Check communication systems for all vehicles.
+2022-01-22,Harare,Thunderstorms,33.1,37.0,0.5,16.4,Monitor GPS tracking for route disruptions.
+2022-01-23,Kwekwe,Rain,20.6,54.3,31.5,3.4,Check wiper and tire conditions before dispatch.
+2022-01-24,Masvingo,Thunderstorms,31.7,64.3,30.7,23.7,Monitor GPS tracking for route disruptions.
+2022-01-25,Chiredzi,Partly Cloudy,31.7,51.5,23.3,0.7,Ensure headlights and signals are functioning for all routes.
+2022-01-26,Bulawayo,Clear,21.5,50.9,1.3,0.4,Encourage daytime deliveries to maximize clear skies.
+2022-01-27,Mutare,Windy,23.4,45.5,17.4,1.5,Secure light cargo and tarpaulins.
+2022-01-28,Hwange,Rain,32.3,48.6,43.9,13.5,Increase braking distance — roads may be slippery.
+2022-01-29,Mutare,Rain,26.3,80.1,37.7,17.7,Increase braking distance — roads may be slippery.
+2022-01-30,Karoi,Partly Cloudy,26.3,41.9,30.7,1.2,Plan detours ahead in case of isolated showers.
+2022-01-31,Mutare,Partly Cloudy,40.0,71.3,21.8,1.2,Plan detours ahead in case of isolated showers.
+2022-02-01,Hwange,Windy,40.4,46.3,14.1,0.6,High profile vehicles should avoid exposed highways.
+2022-02-02,Bulawayo,Hot,35.5,41.6,19.7,1.2,Check coolant and tire pressure regularly.
+2022-02-03,Beitbridge,Partly Cloudy,32.4,42.0,42.5,1.7,Minor visibility concerns — monitor local weather alerts.
+2022-02-04,Kwekwe,Partly Cloudy,23.9,59.6,4.7,1.3,Minor visibility concerns — monitor local weather alerts.
+2022-02-05,Kwekwe,Thunderstorms,41.1,75.3,5.7,19.7,Suspend passenger routes through open terrain — lightning hazard.
+2022-02-06,Harare,Windy,31.9,64.9,0.2,1.3,Secure light cargo and tarpaulins.
+2022-02-07,Masvingo,Rain,33.2,50.3,23.1,6.2,Increase braking distance — roads may be slippery.
+2022-02-08,Gweru,Rain,36.3,42.1,15.7,10.2,Check wiper and tire conditions before dispatch.
+2022-02-09,Beitbridge,Rain,29.8,88.3,12.0,5.2,Delay low-priority routes in flood-prone areas.
+2022-02-10,Hwange,Windy,18.3,58.5,25.5,0.5,Train drivers on crosswind handling techniques.
+2022-02-11,Karoi,Rain,40.7,42.7,13.6,3.2,Delay low-priority routes in flood-prone areas.
+2022-02-12,Karoi,Thunderstorms,38.4,37.7,1.6,7.5,Suspend passenger routes through open terrain — lightning hazard.
+2022-02-13,Karoi,Partly Cloudy,19.7,72.4,16.1,0.7,Minor visibility concerns — monitor local weather alerts.
+2022-02-14,Karoi,Hot,23.3,50.2,1.9,1.3,Check coolant and tire pressure regularly.
+2022-02-15,Kwekwe,Clear,24.7,43.7,24.1,1.6,Ideal conditions — operate full transport schedule.
+2022-02-16,Harare,Rain,31.4,50.2,31.2,16.5,Check wiper and tire conditions before dispatch.
+2022-02-17,Harare,Hot,30.0,39.5,36.4,1.9,Schedule heavy traffic routes early morning or evening.
+2022-02-18,Karoi,Partly Cloudy,21.7,72.5,28.5,0.5,Minor visibility concerns — monitor local weather alerts.
+2022-02-19,Chiredzi,Rain,23.1,52.4,17.4,16.1,Delay low-priority routes in flood-prone areas.
+2022-02-20,Chiredzi,Windy,40.4,37.6,12.1,0.8,High profile vehicles should avoid exposed highways.
+2022-02-21,Beitbridge,Rain,25.8,69.1,21.2,7.3,Check wiper and tire conditions before dispatch.
+2022-02-22,Gweru,Windy,26.2,34.1,20.4,0.8,High profile vehicles should avoid exposed highways.
+2022-02-23,Gweru,Partly Cloudy,25.6,62.6,29.2,1.6,Minor visibility concerns — monitor local weather alerts.
+2022-02-24,Karoi,Windy,21.0,62.5,21.7,1.7,Secure light cargo and tarpaulins.
+2022-02-25,Mutare,Thunderstorms,31.6,30.7,38.9,2.7,Monitor GPS tracking for route disruptions.
+2022-02-26,Karoi,Clear,19.9,63.3,9.3,0.3,Ideal conditions — operate full transport schedule.
+2022-02-27,Masvingo,Hot,28.5,74.9,16.2,1.1,Schedule heavy traffic routes early morning or evening.
+2022-02-28,Harare,Clear,26.6,48.4,41.3,1.3,Ideal conditions — operate full transport schedule.
+2022-03-01,Mutare,Hot,21.8,27.7,16.3,1.5,Schedule heavy traffic routes early morning or evening.
+2022-03-02,Masvingo,Thunderstorms,41.0,44.1,39.8,19.1,Monitor GPS tracking for route disruptions.
+2022-03-03,Harare,Thunderstorms,29.9,64.5,2.1,18.3,Monitor GPS tracking for route disruptions.
+2022-03-04,Beitbridge,Windy,40.7,47.3,36.2,0.7,Secure light cargo and tarpaulins.
+2022-03-05,Masvingo,Partly Cloudy,29.5,69.3,1.0,1.2,Minor visibility concerns — monitor local weather alerts.
+2022-03-06,Harare,Partly Cloudy,35.9,48.4,32.4,0.9,Plan detours ahead in case of isolated showers.
+2022-03-07,Beitbridge,Thunderstorms,18.1,76.0,5.1,22.4,Suspend passenger routes through open terrain — lightning hazard.
+2022-03-08,Mutare,Hot,41.6,71.9,5.8,0.6,Schedule heavy traffic routes early morning or evening.
+2022-03-09,Chiredzi,Clear,38.9,46.4,8.5,0.6,Ideal conditions — operate full transport schedule.
+2022-03-10,Gweru,Rain,33.7,40.4,44.1,7.3,Increase braking distance — roads may be slippery.
+2022-03-11,Hwange,Thunderstorms,24.8,33.1,38.6,20.3,Check communication systems for all vehicles.
+2022-03-12,Mutare,Rain,41.5,76.4,23.6,24.6,Check wiper and tire conditions before dispatch.
+2022-03-13,Beitbridge,Rain,27.9,34.3,26.3,16.1,Delay low-priority routes in flood-prone areas.
+2022-03-14,Masvingo,Windy,32.4,61.0,35.1,1.1,Secure light cargo and tarpaulins.
+2022-03-15,Hwange,Clear,37.4,29.0,22.0,1.6,Encourage daytime deliveries to maximize clear skies.
+2022-03-16,Karoi,Partly Cloudy,35.4,72.4,10.3,1.6,Plan detours ahead in case of isolated showers.
+2022-03-17,Chiredzi,Windy,27.9,31.1,16.8,0.5,Secure light cargo and tarpaulins.
+2022-03-18,Hwange,Partly Cloudy,41.7,71.0,44.9,0.9,Minor visibility concerns — monitor local weather alerts.
+2022-03-19,Beitbridge,Clear,36.7,72.6,22.4,1.3,Optimal visibility for long-distance haulage.
+2022-03-20,Bulawayo,Windy,22.0,67.8,38.8,1.4,High profile vehicles should avoid exposed highways.
+2022-03-21,Beitbridge,Clear,38.5,73.3,44.8,1.4,Encourage daytime deliveries to maximize clear skies.
+2022-03-22,Mutare,Clear,35.3,40.9,27.4,1.2,Encourage daytime deliveries to maximize clear skies.
+2022-03-23,Gweru,Clear,22.9,86.3,6.1,1.3,Encourage daytime deliveries to maximize clear skies.
+2022-03-24,Beitbridge,Clear,40.4,73.4,27.2,0.7,Encourage daytime deliveries to maximize clear skies.
+2022-03-25,Masvingo,Hot,37.5,35.3,8.0,0.6,Avoid overheating — inspect engine components before departure.
+2022-03-26,Gweru,Clear,21.2,28.7,20.6,0.3,Encourage daytime deliveries to maximize clear skies.
+2022-03-27,Kwekwe,Clear,24.7,85.3,18.6,0.7,Ideal conditions — operate full transport schedule.
+2022-03-28,Hwange,Clear,24.1,60.0,18.4,1.5,Encourage daytime deliveries to maximize clear skies.
+2022-03-29,Gweru,Clear,25.3,88.2,20.4,2.0,Encourage daytime deliveries to maximize clear skies.
+2022-03-30,Hwange,Rain,38.9,52.8,35.1,21.3,Delay low-priority routes in flood-prone areas.
+2022-03-31,Mutare,Rain,22.3,48.0,33.9,24.8,Delay low-priority routes in flood-prone areas.
+2022-04-01,Hwange,Thunderstorms,35.6,89.8,7.0,10.1,Suspend passenger routes through open terrain — lightning hazard.
+2022-04-02,Karoi,Thunderstorms,36.5,64.6,34.1,16.6,Monitor GPS tracking for route disruptions.
+2022-04-03,Gweru,Thunderstorms,22.1,50.1,43.4,14.4,Check communication systems for all vehicles.
+2022-04-04,Masvingo,Thunderstorms,33.2,80.1,39.0,7.8,Suspend passenger routes through open terrain — lightning hazard.
+2022-04-05,Beitbridge,Partly Cloudy,19.5,45.8,42.5,0.3,Minor visibility concerns — monitor local weather alerts.
+2022-04-06,Gweru,Windy,36.3,38.6,19.9,1.4,Train drivers on crosswind handling techniques.
+2022-04-07,Kwekwe,Partly Cloudy,24.4,64.4,5.1,0.6,Minor visibility concerns — monitor local weather alerts.
+2022-04-08,Bulawayo,Windy,19.0,66.3,43.1,0.8,High profile vehicles should avoid exposed highways.
+2022-04-09,Hwange,Windy,28.4,60.0,9.7,0.8,Train drivers on crosswind handling techniques.
+2022-04-10,Kwekwe,Partly Cloudy,36.4,88.3,37.7,0.4,Plan detours ahead in case of isolated showers.
+2022-04-11,Beitbridge,Clear,36.3,58.9,39.8,0.7,Ideal conditions — operate full transport schedule.
+2022-04-12,Mutare,Thunderstorms,38.0,72.8,34.5,8.5,Monitor GPS tracking for route disruptions.
+2022-04-13,Kwekwe,Thunderstorms,23.1,61.0,26.0,9.0,Monitor GPS tracking for route disruptions.
+2022-04-14,Kwekwe,Clear,29.8,45.3,1.7,0.1,Optimal visibility for long-distance haulage.
+2022-04-15,Kwekwe,Rain,34.6,40.0,7.0,8.9,Check wiper and tire conditions before dispatch.
+2022-04-16,Harare,Partly Cloudy,38.1,35.7,8.6,1.3,Minor visibility concerns — monitor local weather alerts.
+2022-04-17,Kwekwe,Clear,35.3,56.1,38.2,1.5,Optimal visibility for long-distance haulage.
+2022-04-18,Beitbridge,Partly Cloudy,28.0,77.6,40.4,1.0,Ensure headlights and signals are functioning for all routes.
+2022-04-19,Beitbridge,Clear,28.6,28.8,42.1,1.4,Encourage daytime deliveries to maximize clear skies.
+2022-04-20,Harare,Windy,29.5,48.0,17.1,0.3,Secure light cargo and tarpaulins.
+2022-04-21,Bulawayo,Windy,25.5,85.7,17.3,1.7,High profile vehicles should avoid exposed highways.
+2022-04-22,Kwekwe,Windy,28.0,31.4,19.2,1.2,Secure light cargo and tarpaulins.
+2022-04-23,Hwange,Thunderstorms,38.6,80.3,19.3,5.8,Monitor GPS tracking for route disruptions.
+2022-04-24,Kwekwe,Thunderstorms,19.5,61.1,9.8,0.7,Check communication systems for all vehicles.
+2022-04-25,Hwange,Windy,20.5,44.4,34.6,1.4,Secure light cargo and tarpaulins.
+2022-04-26,Mutare,Thunderstorms,29.9,78.4,38.0,22.5,Check communication systems for all vehicles.
+2022-04-27,Bulawayo,Partly Cloudy,33.6,74.1,44.3,0.4,Minor visibility concerns — monitor local weather alerts.
+2022-04-28,Chiredzi,Partly Cloudy,37.1,81.5,42.5,0.1,Plan detours ahead in case of isolated showers.
+2022-04-29,Karoi,Hot,25.0,73.5,22.6,2.0,Check coolant and tire pressure regularly.
+2022-04-30,Masvingo,Windy,23.7,40.7,21.2,0.4,Train drivers on crosswind handling techniques.
+2022-05-01,Hwange,Partly Cloudy,24.7,30.0,24.3,1.8,Plan detours ahead in case of isolated showers.
+2022-05-02,Masvingo,Partly Cloudy,38.0,78.1,31.9,1.2,Ensure headlights and signals are functioning for all routes.
+2022-05-03,Karoi,Hot,22.9,61.3,27.0,1.1,Avoid overheating — inspect engine components before departure.
+2022-05-04,Bulawayo,Hot,19.6,86.2,39.4,1.5,Check coolant and tire pressure regularly.
+2022-05-05,Karoi,Thunderstorms,22.0,43.5,8.6,16.0,Check communication systems for all vehicles.
+2022-05-06,Chiredzi,Partly Cloudy,27.4,64.1,37.8,1.5,Ensure headlights and signals are functioning for all routes.
+2022-05-07,Beitbridge,Windy,21.0,63.5,5.3,0.8,Train drivers on crosswind handling techniques.
+2022-05-08,Hwange,Windy,23.0,79.8,1.5,1.6,High profile vehicles should avoid exposed highways.
+2022-05-09,Beitbridge,Hot,41.5,66.9,12.6,1.1,Avoid overheating — inspect engine components before departure.
+2022-05-10,Masvingo,Windy,20.5,73.1,41.4,1.3,Secure light cargo and tarpaulins.
+2022-05-11,Harare,Clear,26.0,31.2,26.7,1.6,Ideal conditions — operate full transport schedule.
+2022-05-12,Beitbridge,Clear,24.3,62.4,37.3,0.3,Encourage daytime deliveries to maximize clear skies.
+2022-05-13,Hwange,Clear,24.8,65.3,13.8,1.5,Optimal visibility for long-distance haulage.
+2022-05-14,Harare,Windy,18.7,27.0,27.0,1.2,Train drivers on crosswind handling techniques.
+2022-05-15,Beitbridge,Windy,34.5,70.5,3.2,0.1,Train drivers on crosswind handling techniques.
+2022-05-16,Kwekwe,Rain,19.7,66.8,37.9,14.1,Increase braking distance — roads may be slippery.
+2022-05-17,Gweru,Windy,32.6,45.9,2.1,1.1,High profile vehicles should avoid exposed highways.
+2022-05-18,Beitbridge,Rain,19.6,55.9,34.4,13.8,Check wiper and tire conditions before dispatch.
+2022-05-19,Masvingo,Windy,36.6,41.3,34.3,1.5,Train drivers on crosswind handling techniques.
+2022-05-20,Harare,Clear,29.5,81.2,4.0,1.0,Encourage daytime deliveries to maximize clear skies.
+2022-05-21,Masvingo,Clear,37.2,75.7,20.1,0.2,Optimal visibility for long-distance haulage.
+2022-05-22,Hwange,Rain,23.5,66.0,18.7,5.6,Delay low-priority routes in flood-prone areas.
+2022-05-23,Gweru,Hot,41.3,69.0,39.5,1.0,Schedule heavy traffic routes early morning or evening.
+2022-05-24,Beitbridge,Hot,21.9,62.8,4.8,1.8,Avoid overheating — inspect engine components before departure.
+2022-05-25,Beitbridge,Rain,37.6,68.2,10.1,10.1,Delay low-priority routes in flood-prone areas.
+2022-05-26,Gweru,Rain,24.6,80.5,32.7,6.9,Increase braking distance — roads may be slippery.
+2022-05-27,Mutare,Hot,30.3,85.7,16.9,0.5,Avoid overheating — inspect engine components before departure.
+2022-05-28,Gweru,Windy,19.9,57.6,43.0,1.1,High profile vehicles should avoid exposed highways.
+2022-05-29,Beitbridge,Rain,36.7,84.3,14.8,13.6,Increase braking distance — roads may be slippery.
+2022-05-30,Harare,Clear,41.3,37.5,6.9,0.1,Optimal visibility for long-distance haulage.
+2022-05-31,Chiredzi,Thunderstorms,38.5,55.3,10.9,18.0,Suspend passenger routes through open terrain — lightning hazard.
+2022-06-01,Kwekwe,Partly Cloudy,30.9,53.5,39.5,0.1,Ensure headlights and signals are functioning for all routes.
+2022-06-02,Mutare,Clear,23.3,78.7,35.0,0.7,Optimal visibility for long-distance haulage.
+2022-06-03,Bulawayo,Thunderstorms,18.3,58.2,32.0,17.9,Suspend passenger routes through open terrain — lightning hazard.
+2022-06-04,Chiredzi,Thunderstorms,25.7,71.7,4.0,1.2,Monitor GPS tracking for route disruptions.
+2022-06-05,Beitbridge,Partly Cloudy,32.7,48.0,26.0,1.9,Plan detours ahead in case of isolated showers.
+2022-06-06,Gweru,Partly Cloudy,27.9,56.1,30.3,0.6,Plan detours ahead in case of isolated showers.
+2022-06-07,Harare,Partly Cloudy,36.0,85.0,8.3,0.6,Plan detours ahead in case of isolated showers.
+2022-06-08,Beitbridge,Windy,37.6,89.0,15.7,1.4,Train drivers on crosswind handling techniques.
+2022-06-09,Masvingo,Thunderstorms,41.5,33.4,17.4,1.9,Check communication systems for all vehicles.
+2022-06-10,Hwange,Clear,37.7,56.6,26.4,0.5,Encourage daytime deliveries to maximize clear skies.
+2022-06-11,Harare,Rain,19.1,58.8,23.5,10.5,Increase braking distance — roads may be slippery.
+2022-06-12,Gweru,Windy,28.1,64.0,7.1,0.2,Train drivers on crosswind handling techniques.
+2022-06-13,Gweru,Rain,35.6,65.6,33.1,15.4,Delay low-priority routes in flood-prone areas.
+2022-06-14,Masvingo,Clear,27.4,69.5,8.0,1.8,Ideal conditions — operate full transport schedule.
+2022-06-15,Karoi,Clear,27.4,71.9,37.0,1.9,Ideal conditions — operate full transport schedule.
+2022-06-16,Mutare,Partly Cloudy,24.1,57.4,35.9,0.2,Ensure headlights and signals are functioning for all routes.
+2022-06-17,Chiredzi,Windy,18.1,27.2,10.2,1.7,High profile vehicles should avoid exposed highways.
+2022-06-18,Karoi,Clear,21.1,64.3,7.4,1.6,Optimal visibility for long-distance haulage.
+2022-06-19,Chiredzi,Partly Cloudy,21.9,57.0,9.1,0.5,Minor visibility concerns — monitor local weather alerts.
+2022-06-20,Chiredzi,Thunderstorms,40.4,49.6,19.3,9.7,Monitor GPS tracking for route disruptions.
+2022-06-21,Karoi,Clear,30.9,61.8,5.5,1.2,Encourage daytime deliveries to maximize clear skies.
+2022-06-22,Bulawayo,Thunderstorms,27.0,54.2,44.8,5.2,Suspend passenger routes through open terrain — lightning hazard.
+2022-06-23,Mutare,Windy,20.6,42.2,5.9,0.7,Train drivers on crosswind handling techniques.
+2022-06-24,Mutare,Clear,31.2,51.8,34.7,1.0,Encourage daytime deliveries to maximize clear skies.
+2022-06-25,Kwekwe,Rain,39.9,34.1,24.3,2.6,Check wiper and tire conditions before dispatch.
+2022-06-26,Chiredzi,Rain,28.0,85.7,29.4,10.0,Check wiper and tire conditions before dispatch.
+2022-06-27,Kwekwe,Thunderstorms,35.6,29.8,41.9,9.7,Check communication systems for all vehicles.
+2022-06-28,Karoi,Clear,29.2,54.9,40.5,1.3,Ideal conditions — operate full transport schedule.
+2022-06-29,Gweru,Thunderstorms,37.1,43.2,32.0,4.8,Monitor GPS tracking for route disruptions.
+2022-06-30,Hwange,Rain,41.4,83.7,40.2,10.4,Increase braking distance — roads may be slippery.
+2022-07-01,Mutare,Rain,37.6,40.0,10.1,6.0,Check wiper and tire conditions before dispatch.
+2022-07-02,Gweru,Thunderstorms,24.5,67.2,37.0,2.4,Check communication systems for all vehicles.
+2022-07-03,Harare,Windy,38.8,39.6,32.4,1.6,High profile vehicles should avoid exposed highways.
+2022-07-04,Gweru,Rain,36.0,89.0,0.8,21.7,Delay low-priority routes in flood-prone areas.
+2022-07-05,Beitbridge,Hot,35.1,87.3,5.4,1.6,Schedule heavy traffic routes early morning or evening.
+2022-07-06,Gweru,Rain,39.0,54.7,14.5,1.0,Delay low-priority routes in flood-prone areas.
+2022-07-07,Masvingo,Thunderstorms,33.9,32.8,21.8,21.1,Monitor GPS tracking for route disruptions.
+2022-07-08,Chiredzi,Clear,38.1,78.6,11.3,0.1,Encourage daytime deliveries to maximize clear skies.
+2022-07-09,Karoi,Thunderstorms,18.3,29.3,26.1,1.8,Suspend passenger routes through open terrain — lightning hazard.
+2022-07-10,Mutare,Partly Cloudy,22.0,67.4,33.0,0.8,Minor visibility concerns — monitor local weather alerts.
+2022-07-11,Bulawayo,Windy,35.5,63.4,18.8,1.3,Secure light cargo and tarpaulins.
+2022-07-12,Beitbridge,Clear,32.6,84.8,31.5,1.7,Encourage daytime deliveries to maximize clear skies.
+2022-07-13,Harare,Windy,37.1,57.3,24.9,2.0,Train drivers on crosswind handling techniques.
+2022-07-14,Beitbridge,Hot,40.2,57.9,29.1,0.8,Check coolant and tire pressure regularly.
+2022-07-15,Mutare,Windy,36.1,82.6,4.4,1.7,Train drivers on crosswind handling techniques.
+2022-07-16,Masvingo,Rain,24.0,78.1,34.7,8.0,Delay low-priority routes in flood-prone areas.
+2022-07-17,Karoi,Rain,19.7,81.6,6.1,1.2,Check wiper and tire conditions before dispatch.
+2022-07-18,Karoi,Clear,33.7,64.8,2.3,0.7,Encourage daytime deliveries to maximize clear skies.
+2022-07-19,Harare,Windy,33.9,62.7,35.6,0.1,Train drivers on crosswind handling techniques.
+2022-07-20,Masvingo,Windy,40.8,32.0,8.9,2.0,Train drivers on crosswind handling techniques.
+2022-07-21,Karoi,Rain,24.9,71.4,41.3,3.8,Increase braking distance — roads may be slippery.
+2022-07-22,Hwange,Partly Cloudy,37.0,64.3,28.4,0.8,Plan detours ahead in case of isolated showers.
+2022-07-23,Harare,Hot,23.6,26.2,0.9,1.7,Avoid overheating — inspect engine components before departure.
+2022-07-24,Karoi,Rain,21.1,66.0,30.7,17.2,Delay low-priority routes in flood-prone areas.
+2022-07-25,Mutare,Hot,33.7,30.4,21.8,0.9,Avoid overheating — inspect engine components before departure.
+2022-07-26,Gweru,Windy,25.4,68.5,37.2,0.0,Train drivers on crosswind handling techniques.
+2022-07-27,Gweru,Partly Cloudy,18.9,25.9,2.6,1.4,Ensure headlights and signals are functioning for all routes.
+2022-07-28,Mutare,Partly Cloudy,39.6,42.7,29.5,1.3,Ensure headlights and signals are functioning for all routes.
+2022-07-29,Gweru,Rain,26.8,87.6,22.6,24.4,Check wiper and tire conditions before dispatch.
+2022-07-30,Mutare,Thunderstorms,36.3,61.7,17.8,11.0,Monitor GPS tracking for route disruptions.
+2022-07-31,Kwekwe,Thunderstorms,23.6,39.4,16.3,10.9,Check communication systems for all vehicles.
+2022-08-01,Harare,Rain,26.6,74.0,27.9,11.8,Increase braking distance — roads may be slippery.
+2022-08-02,Bulawayo,Hot,29.2,85.1,30.2,2.0,Schedule heavy traffic routes early morning or evening.
+2022-08-03,Beitbridge,Hot,26.6,59.5,38.1,1.9,Schedule heavy traffic routes early morning or evening.
+2022-08-04,Kwekwe,Windy,24.9,55.0,29.6,0.4,Secure light cargo and tarpaulins.
+2022-08-05,Masvingo,Windy,21.0,61.0,2.2,1.4,Secure light cargo and tarpaulins.
+2022-08-06,Gweru,Hot,33.8,67.6,5.0,1.4,Avoid overheating — inspect engine components before departure.
+2022-08-07,Hwange,Thunderstorms,19.5,61.3,31.4,24.6,Suspend passenger routes through open terrain — lightning hazard.
+2022-08-08,Hwange,Partly Cloudy,23.8,88.7,12.2,0.7,Minor visibility concerns — monitor local weather alerts.
+2022-08-09,Masvingo,Clear,40.3,46.7,44.2,1.7,Ideal conditions — operate full transport schedule.
+2022-08-10,Beitbridge,Partly Cloudy,39.2,30.5,20.1,0.9,Plan detours ahead in case of isolated showers.
+2022-08-11,Masvingo,Hot,33.8,86.3,13.0,0.1,Check coolant and tire pressure regularly.
+2022-08-12,Chiredzi,Windy,23.0,37.0,22.3,0.0,Secure light cargo and tarpaulins.
+2022-08-13,Masvingo,Thunderstorms,32.6,31.4,31.7,1.4,Check communication systems for all vehicles.
+2022-08-14,Harare,Thunderstorms,19.4,72.7,35.7,15.5,Monitor GPS tracking for route disruptions.
+2022-08-15,Gweru,Windy,28.2,27.6,8.5,0.9,High profile vehicles should avoid exposed highways.
+2022-08-16,Mutare,Windy,22.1,33.8,31.2,1.7,Train drivers on crosswind handling techniques.
+2022-08-17,Gweru,Clear,19.9,89.9,21.9,0.0,Encourage daytime deliveries to maximize clear skies.
+2022-08-18,Chiredzi,Clear,23.5,81.8,16.8,0.9,Encourage daytime deliveries to maximize clear skies.
+2022-08-19,Karoi,Rain,39.2,42.6,19.3,8.1,Increase braking distance — roads may be slippery.
+2022-08-20,Kwekwe,Rain,33.4,69.4,31.8,0.1,Delay low-priority routes in flood-prone areas.
+2022-08-21,Harare,Clear,18.2,58.9,11.6,1.8,Optimal visibility for long-distance haulage.
+2022-08-22,Beitbridge,Clear,33.5,31.2,13.4,1.6,Encourage daytime deliveries to maximize clear skies.
+2022-08-23,Karoi,Hot,26.2,89.0,6.6,1.1,Avoid overheating — inspect engine components before departure.
+2022-08-24,Mutare,Clear,20.7,82.1,29.7,1.1,Encourage daytime deliveries to maximize clear skies.
+2022-08-25,Beitbridge,Partly Cloudy,32.4,35.1,16.4,2.0,Minor visibility concerns — monitor local weather alerts.
+2022-08-26,Masvingo,Clear,19.8,34.5,28.1,2.0,Encourage daytime deliveries to maximize clear skies.
+2022-08-27,Bulawayo,Rain,22.1,53.1,20.2,6.1,Delay low-priority routes in flood-prone areas.
+2022-08-28,Beitbridge,Thunderstorms,40.4,35.4,41.2,7.1,Monitor GPS tracking for route disruptions.
+2022-08-29,Masvingo,Windy,39.6,32.0,35.7,0.2,Train drivers on crosswind handling techniques.
+2022-08-30,Beitbridge,Rain,30.6,37.5,24.9,16.7,Check wiper and tire conditions before dispatch.
+2022-08-31,Beitbridge,Clear,31.7,66.3,29.4,1.2,Ideal conditions — operate full transport schedule.
+2022-09-01,Chiredzi,Clear,39.1,73.3,7.1,0.7,Encourage daytime deliveries to maximize clear skies.
+2022-09-02,Mutare,Thunderstorms,27.2,74.9,28.4,22.2,Monitor GPS tracking for route disruptions.
+2022-09-03,Mutare,Windy,20.4,78.0,14.9,0.9,Secure light cargo and tarpaulins.
+2022-09-04,Gweru,Windy,27.6,37.4,21.9,0.6,Train drivers on crosswind handling techniques.
+2022-09-05,Kwekwe,Clear,25.5,68.9,14.6,1.3,Encourage daytime deliveries to maximize clear skies.
+2022-09-06,Kwekwe,Thunderstorms,18.1,47.0,29.7,8.7,Check communication systems for all vehicles.
+2022-09-07,Hwange,Thunderstorms,22.0,87.1,27.2,19.1,Suspend passenger routes through open terrain — lightning hazard.
+2022-09-08,Mutare,Partly Cloudy,18.9,45.5,36.2,1.4,Minor visibility concerns — monitor local weather alerts.
+2022-09-09,Mutare,Partly Cloudy,18.1,81.7,14.0,0.9,Ensure headlights and signals are functioning for all routes.
+2022-09-10,Gweru,Partly Cloudy,35.2,80.5,21.7,0.2,Minor visibility concerns — monitor local weather alerts.
+2022-09-11,Masvingo,Hot,30.7,44.5,18.7,0.7,Avoid overheating — inspect engine components before departure.
+2022-09-12,Bulawayo,Hot,23.1,83.0,9.8,0.0,Avoid overheating — inspect engine components before departure.
+2022-09-13,Masvingo,Windy,33.5,38.9,24.7,0.8,Train drivers on crosswind handling techniques.
+2022-09-14,Gweru,Hot,29.6,86.1,21.8,1.9,Check coolant and tire pressure regularly.
+2022-09-15,Bulawayo,Thunderstorms,27.7,86.0,30.8,13.8,Check communication systems for all vehicles.
+2022-09-16,Karoi,Thunderstorms,27.7,64.9,42.9,16.5,Suspend passenger routes through open terrain — lightning hazard.
+2022-09-17,Beitbridge,Hot,26.5,89.5,21.6,0.5,Check coolant and tire pressure regularly.
+2022-09-18,Chiredzi,Hot,18.5,44.3,20.2,0.5,Schedule heavy traffic routes early morning or evening.
+2022-09-19,Gweru,Thunderstorms,23.8,80.4,36.2,20.9,Suspend passenger routes through open terrain — lightning hazard.
+2022-09-20,Beitbridge,Thunderstorms,29.4,65.9,44.6,3.6,Suspend passenger routes through open terrain — lightning hazard.
+2022-09-21,Kwekwe,Rain,27.5,49.5,18.7,0.6,Check wiper and tire conditions before dispatch.
+2022-09-22,Bulawayo,Windy,31.8,40.1,13.1,0.2,Train drivers on crosswind handling techniques.
+2022-09-23,Masvingo,Rain,31.2,52.4,8.7,19.1,Delay low-priority routes in flood-prone areas.
+2022-09-24,Beitbridge,Partly Cloudy,20.9,71.9,30.9,1.9,Minor visibility concerns — monitor local weather alerts.
+2022-09-25,Karoi,Hot,37.7,55.8,4.6,0.5,Schedule heavy traffic routes early morning or evening.
+2022-09-26,Beitbridge,Hot,26.9,48.2,28.1,1.7,Avoid overheating — inspect engine components before departure.
+2022-09-27,Mutare,Partly Cloudy,24.7,63.6,30.5,0.1,Minor visibility concerns — monitor local weather alerts.
+2022-09-28,Karoi,Clear,38.6,65.3,21.9,0.3,Optimal visibility for long-distance haulage.
+2022-09-29,Karoi,Windy,33.4,85.4,32.4,0.8,Train drivers on crosswind handling techniques.
+2022-09-30,Beitbridge,Hot,19.4,58.8,29.3,0.0,Avoid overheating — inspect engine components before departure.
+2022-10-01,Kwekwe,Clear,26.0,47.0,44.2,1.5,Encourage daytime deliveries to maximize clear skies.
+2022-10-02,Chiredzi,Thunderstorms,38.5,50.8,43.0,12.5,Check communication systems for all vehicles.
+2022-10-03,Gweru,Rain,35.9,69.1,25.8,7.4,Increase braking distance — roads may be slippery.
+2022-10-04,Kwekwe,Partly Cloudy,33.8,28.0,38.9,0.9,Minor visibility concerns — monitor local weather alerts.
+2022-10-05,Kwekwe,Thunderstorms,34.4,86.1,15.6,5.2,Suspend passenger routes through open terrain — lightning hazard.
+2022-10-06,Mutare,Rain,40.1,33.9,30.5,19.2,Increase braking distance — roads may be slippery.
+2022-10-07,Beitbridge,Hot,38.5,69.2,3.1,1.6,Avoid overheating — inspect engine components before departure.
+2022-10-08,Kwekwe,Thunderstorms,27.9,34.1,3.5,20.5,Check communication systems for all vehicles.
+2022-10-09,Beitbridge,Hot,31.2,29.1,14.7,0.5,Avoid overheating — inspect engine components before departure.
+2022-10-10,Beitbridge,Partly Cloudy,32.4,58.0,39.0,1.4,Ensure headlights and signals are functioning for all routes.
+2022-10-11,Bulawayo,Windy,32.5,79.0,17.7,0.7,Train drivers on crosswind handling techniques.
+2022-10-12,Bulawayo,Rain,32.7,71.0,17.3,19.1,Delay low-priority routes in flood-prone areas.
+2022-10-13,Karoi,Windy,23.9,47.5,6.5,0.5,Secure light cargo and tarpaulins.
+2022-10-14,Chiredzi,Rain,36.1,68.7,34.5,13.2,Delay low-priority routes in flood-prone areas.
+2022-10-15,Masvingo,Partly Cloudy,23.2,61.7,7.7,0.7,Plan detours ahead in case of isolated showers.
+2022-10-16,Karoi,Windy,27.6,67.8,36.8,1.6,Train drivers on crosswind handling techniques.
+2022-10-17,Hwange,Windy,26.5,35.1,40.3,1.0,High profile vehicles should avoid exposed highways.
+2022-10-18,Gweru,Thunderstorms,25.8,28.4,9.1,5.9,Monitor GPS tracking for route disruptions.
+2022-10-19,Chiredzi,Partly Cloudy,29.1,49.2,4.6,0.4,Minor visibility concerns — monitor local weather alerts.
+2022-10-20,Chiredzi,Hot,26.8,82.3,42.8,1.9,Avoid overheating — inspect engine components before departure.
+2022-10-21,Mutare,Hot,22.8,43.8,23.3,1.5,Avoid overheating — inspect engine components before departure.
+2022-10-22,Chiredzi,Clear,41.8,30.2,0.6,1.9,Ideal conditions — operate full transport schedule.
+2022-10-23,Masvingo,Rain,35.8,86.6,8.4,17.4,Delay low-priority routes in flood-prone areas.
+2022-10-24,Chiredzi,Clear,29.6,44.1,0.1,1.1,Encourage daytime deliveries to maximize clear skies.
+2022-10-25,Beitbridge,Thunderstorms,42.0,56.3,18.7,11.2,Check communication systems for all vehicles.
+2022-10-26,Masvingo,Hot,34.2,86.3,34.3,0.8,Check coolant and tire pressure regularly.
+2022-10-27,Masvingo,Rain,32.1,84.6,5.2,14.6,Check wiper and tire conditions before dispatch.
+2022-10-28,Chiredzi,Rain,37.1,36.9,19.8,7.5,Delay low-priority routes in flood-prone areas.
+2022-10-29,Chiredzi,Rain,32.2,48.8,40.9,4.6,Increase braking distance — roads may be slippery.
+2022-10-30,Kwekwe,Clear,22.2,56.7,22.9,0.2,Encourage daytime deliveries to maximize clear skies.
+2022-10-31,Harare,Windy,28.1,58.2,12.6,1.3,Secure light cargo and tarpaulins.
+2022-11-01,Mutare,Hot,33.5,28.6,24.6,1.8,Schedule heavy traffic routes early morning or evening.
+2022-11-02,Gweru,Clear,31.3,45.0,27.3,0.9,Optimal visibility for long-distance haulage.
+2022-11-03,Beitbridge,Clear,27.8,71.0,19.6,0.9,Encourage daytime deliveries to maximize clear skies.
+2022-11-04,Beitbridge,Clear,21.5,38.0,27.9,1.3,Optimal visibility for long-distance haulage.
+2022-11-05,Gweru,Hot,40.6,79.2,23.0,1.2,Avoid overheating — inspect engine components before departure.
+2022-11-06,Gweru,Thunderstorms,37.4,72.0,42.3,21.4,Check communication systems for all vehicles.
+2022-11-07,Hwange,Hot,29.9,70.2,10.7,1.5,Avoid overheating — inspect engine components before departure.
+2022-11-08,Kwekwe,Partly Cloudy,21.2,48.6,42.1,0.5,Minor visibility concerns — monitor local weather alerts.
+2022-11-09,Hwange,Windy,20.2,83.9,36.4,1.7,High profile vehicles should avoid exposed highways.
+2022-11-10,Kwekwe,Clear,24.7,59.5,2.3,1.2,Encourage daytime deliveries to maximize clear skies.
+2022-11-11,Chiredzi,Windy,28.3,40.2,14.1,0.4,Secure light cargo and tarpaulins.
+2022-11-12,Bulawayo,Partly Cloudy,19.3,77.8,42.7,0.7,Minor visibility concerns — monitor local weather alerts.
+2022-11-13,Hwange,Thunderstorms,28.4,80.7,26.9,7.4,Monitor GPS tracking for route disruptions.
+2022-11-14,Masvingo,Hot,19.8,85.3,43.3,0.7,Avoid overheating — inspect engine components before departure.
+2022-11-15,Mutare,Partly Cloudy,32.9,60.0,25.1,0.6,Ensure headlights and signals are functioning for all routes.
+2022-11-16,Harare,Windy,32.4,65.4,25.1,1.3,Secure light cargo and tarpaulins.
+2022-11-17,Kwekwe,Clear,36.7,67.0,26.9,0.6,Encourage daytime deliveries to maximize clear skies.
+2022-11-18,Harare,Partly Cloudy,41.7,57.6,19.0,1.0,Plan detours ahead in case of isolated showers.
+2022-11-19,Mutare,Hot,38.8,33.7,28.1,1.6,Check coolant and tire pressure regularly.
+2022-11-20,Gweru,Rain,38.4,45.4,41.6,10.2,Delay low-priority routes in flood-prone areas.
+2022-11-21,Kwekwe,Hot,30.5,59.8,14.8,0.2,Check coolant and tire pressure regularly.
+2022-11-22,Beitbridge,Thunderstorms,33.1,45.0,2.6,2.2,Monitor GPS tracking for route disruptions.
+2022-11-23,Mutare,Partly Cloudy,39.5,36.6,40.1,1.1,Minor visibility concerns — monitor local weather alerts.
+2022-11-24,Mutare,Partly Cloudy,24.4,65.1,14.0,0.9,Minor visibility concerns — monitor local weather alerts.
+2022-11-25,Harare,Hot,30.3,28.9,19.4,0.1,Schedule heavy traffic routes early morning or evening.
+2022-11-26,Karoi,Thunderstorms,31.7,45.6,35.2,2.5,Check communication systems for all vehicles.
+2022-11-27,Kwekwe,Hot,36.9,37.6,29.9,1.7,Avoid overheating — inspect engine components before departure.
+2022-11-28,Chiredzi,Partly Cloudy,41.7,48.3,13.3,1.3,Minor visibility concerns — monitor local weather alerts.
+2022-11-29,Harare,Thunderstorms,22.2,87.1,23.0,22.4,Suspend passenger routes through open terrain — lightning hazard.
+2022-11-30,Beitbridge,Thunderstorms,41.5,69.5,29.9,13.8,Suspend passenger routes through open terrain — lightning hazard.
+2022-12-01,Bulawayo,Windy,26.6,69.8,41.8,0.5,Secure light cargo and tarpaulins.
+2022-12-02,Mutare,Thunderstorms,26.6,45.3,11.6,22.1,Suspend passenger routes through open terrain — lightning hazard.
+2022-12-03,Kwekwe,Clear,25.5,81.9,15.3,0.1,Encourage daytime deliveries to maximize clear skies.
+2022-12-04,Harare,Clear,19.4,73.5,41.6,1.6,Encourage daytime deliveries to maximize clear skies.
+2022-12-05,Bulawayo,Partly Cloudy,27.9,57.2,11.1,1.8,Ensure headlights and signals are functioning for all routes.
+2022-12-06,Bulawayo,Partly Cloudy,19.2,50.1,21.3,0.7,Ensure headlights and signals are functioning for all routes.
+2022-12-07,Bulawayo,Hot,42.0,71.1,29.5,0.4,Avoid overheating — inspect engine components before departure.
+2022-12-08,Masvingo,Rain,39.3,25.9,37.6,1.6,Increase braking distance — roads may be slippery.
+2022-12-09,Masvingo,Windy,25.6,53.6,11.3,1.3,High profile vehicles should avoid exposed highways.
+2022-12-10,Chiredzi,Thunderstorms,39.0,83.2,30.3,9.2,Check communication systems for all vehicles.
+2022-12-11,Bulawayo,Clear,27.2,75.5,11.0,0.8,Ideal conditions — operate full transport schedule.
+2022-12-12,Chiredzi,Thunderstorms,37.0,39.2,32.6,19.6,Monitor GPS tracking for route disruptions.
+2022-12-13,Bulawayo,Partly Cloudy,34.0,29.8,16.1,1.6,Minor visibility concerns — monitor local weather alerts.
+2022-12-14,Chiredzi,Rain,19.9,87.3,33.8,17.6,Delay low-priority routes in flood-prone areas.
+2022-12-15,Kwekwe,Windy,25.0,80.6,18.9,1.4,High profile vehicles should avoid exposed highways.
+2022-12-16,Chiredzi,Thunderstorms,18.3,70.8,1.3,12.8,Suspend passenger routes through open terrain — lightning hazard.
+2022-12-17,Mutare,Partly Cloudy,25.4,39.1,16.9,1.7,Minor visibility concerns — monitor local weather alerts.
+2022-12-18,Hwange,Windy,37.8,41.1,4.4,1.9,Train drivers on crosswind handling techniques.
+2022-12-19,Mutare,Thunderstorms,28.9,28.3,27.1,8.9,Suspend passenger routes through open terrain — lightning hazard.
+2022-12-20,Gweru,Hot,32.4,57.8,35.7,1.2,Schedule heavy traffic routes early morning or evening.
+2022-12-21,Gweru,Partly Cloudy,24.0,82.2,20.2,0.5,Plan detours ahead in case of isolated showers.
+2022-12-22,Bulawayo,Windy,24.6,63.1,23.7,1.8,Train drivers on crosswind handling techniques.
+2022-12-23,Hwange,Hot,23.3,85.1,28.0,1.8,Schedule heavy traffic routes early morning or evening.
+2022-12-24,Bulawayo,Rain,38.7,36.2,24.5,18.2,Check wiper and tire conditions before dispatch.
+2022-12-25,Bulawayo,Rain,31.3,32.1,42.8,1.0,Increase braking distance — roads may be slippery.
+2022-12-26,Mutare,Rain,35.2,29.8,29.3,22.4,Delay low-priority routes in flood-prone areas.
+2022-12-27,Hwange,Windy,22.4,32.1,22.7,0.8,High profile vehicles should avoid exposed highways.
+2022-12-28,Hwange,Partly Cloudy,34.0,58.3,8.7,0.2,Plan detours ahead in case of isolated showers.
+2022-12-29,Kwekwe,Thunderstorms,22.9,32.5,5.2,6.6,Monitor GPS tracking for route disruptions.
+2022-12-30,Beitbridge,Windy,33.7,64.2,19.9,1.1,High profile vehicles should avoid exposed highways.
+2022-12-31,Bulawayo,Windy,21.8,57.5,2.1,0.2,Secure light cargo and tarpaulins.
+2023-01-01,Mutare,Thunderstorms,21.6,41.6,3.4,24.1,Check communication systems for all vehicles.
+2023-01-02,Hwange,Rain,36.0,34.8,36.4,13.8,Increase braking distance — roads may be slippery.
+2023-01-03,Mutare,Thunderstorms,28.6,30.9,37.7,19.9,Suspend passenger routes through open terrain — lightning hazard.
+2023-01-04,Masvingo,Thunderstorms,41.2,37.9,1.2,3.6,Monitor GPS tracking for route disruptions.
+2023-01-05,Beitbridge,Partly Cloudy,22.0,54.7,40.5,1.8,Ensure headlights and signals are functioning for all routes.
+2023-01-06,Kwekwe,Hot,29.5,87.9,28.7,1.8,Avoid overheating — inspect engine components before departure.
+2023-01-07,Karoi,Partly Cloudy,37.8,77.0,16.8,1.4,Minor visibility concerns — monitor local weather alerts.
+2023-01-08,Kwekwe,Clear,38.6,82.2,0.6,0.2,Optimal visibility for long-distance haulage.
+2023-01-09,Gweru,Rain,21.1,86.4,35.5,14.4,Check wiper and tire conditions before dispatch.
+2023-01-10,Beitbridge,Thunderstorms,27.4,32.1,19.4,24.1,Monitor GPS tracking for route disruptions.
+2023-01-11,Beitbridge,Thunderstorms,26.9,33.4,17.5,20.9,Suspend passenger routes through open terrain — lightning hazard.
+2023-01-12,Kwekwe,Windy,28.6,80.7,31.8,1.3,Train drivers on crosswind handling techniques.
+2023-01-13,Harare,Windy,32.6,33.6,20.0,1.8,High profile vehicles should avoid exposed highways.
+2023-01-14,Chiredzi,Windy,25.9,65.0,18.0,1.9,Train drivers on crosswind handling techniques.
+2023-01-15,Beitbridge,Rain,19.5,67.9,25.6,10.8,Check wiper and tire conditions before dispatch.
+2023-01-16,Chiredzi,Rain,20.9,54.8,7.8,17.6,Increase braking distance — roads may be slippery.
+2023-01-17,Mutare,Windy,24.8,35.0,30.1,1.5,Secure light cargo and tarpaulins.
+2023-01-18,Karoi,Partly Cloudy,28.7,87.1,39.3,0.7,Minor visibility concerns — monitor local weather alerts.
+2023-01-19,Chiredzi,Partly Cloudy,21.3,82.0,33.6,1.7,Minor visibility concerns — monitor local weather alerts.
+2023-01-20,Gweru,Windy,31.6,31.8,41.7,0.1,Train drivers on crosswind handling techniques.
+2023-01-21,Masvingo,Hot,35.5,77.6,40.7,0.2,Schedule heavy traffic routes early morning or evening.
+2023-01-22,Hwange,Clear,29.8,37.2,13.9,0.9,Encourage daytime deliveries to maximize clear skies.
+2023-01-23,Masvingo,Hot,18.2,67.0,31.2,0.2,Check coolant and tire pressure regularly.
+2023-01-24,Beitbridge,Hot,31.1,50.0,11.3,0.7,Avoid overheating — inspect engine components before departure.
+2023-01-25,Bulawayo,Partly Cloudy,19.4,38.1,41.8,0.7,Plan detours ahead in case of isolated showers.
+2023-01-26,Bulawayo,Partly Cloudy,29.7,37.4,0.7,1.0,Plan detours ahead in case of isolated showers.
+2023-01-27,Bulawayo,Rain,27.8,25.6,31.6,4.5,Check wiper and tire conditions before dispatch.
+2023-01-28,Kwekwe,Hot,21.9,73.0,34.6,1.3,Schedule heavy traffic routes early morning or evening.
+2023-01-29,Bulawayo,Thunderstorms,41.4,29.4,9.6,5.4,Check communication systems for all vehicles.
+2023-01-30,Hwange,Hot,31.4,27.8,8.2,2.0,Check coolant and tire pressure regularly.
+2023-01-31,Masvingo,Clear,36.5,41.4,38.1,1.4,Optimal visibility for long-distance haulage.
+2023-02-01,Mutare,Rain,40.8,72.6,23.4,16.0,Increase braking distance — roads may be slippery.
+2023-02-02,Masvingo,Clear,36.5,29.0,7.9,1.6,Optimal visibility for long-distance haulage.
+2023-02-03,Karoi,Hot,20.5,82.0,30.3,1.8,Check coolant and tire pressure regularly.
+2023-02-04,Bulawayo,Clear,36.7,81.2,42.7,0.3,Encourage daytime deliveries to maximize clear skies.
+2023-02-05,Karoi,Rain,31.6,81.0,8.5,19.2,Check wiper and tire conditions before dispatch.
+2023-02-06,Hwange,Partly Cloudy,31.0,79.2,38.6,0.6,Ensure headlights and signals are functioning for all routes.
+2023-02-07,Gweru,Hot,25.0,59.1,36.6,1.5,Check coolant and tire pressure regularly.
+2023-02-08,Karoi,Clear,39.0,75.2,11.5,1.1,Ideal conditions — operate full transport schedule.
+2023-02-09,Harare,Windy,40.0,35.1,5.1,0.6,Secure light cargo and tarpaulins.
+2023-02-10,Mutare,Thunderstorms,39.0,47.7,38.9,19.9,Suspend passenger routes through open terrain — lightning hazard.
+2023-02-11,Harare,Clear,39.2,57.3,26.8,0.6,Encourage daytime deliveries to maximize clear skies.
+2023-02-12,Harare,Rain,32.8,83.9,39.2,22.2,Check wiper and tire conditions before dispatch.
+2023-02-13,Harare,Rain,18.9,65.1,38.5,8.4,Increase braking distance — roads may be slippery.
+2023-02-14,Karoi,Windy,24.4,55.5,25.3,0.8,Secure light cargo and tarpaulins.
+2023-02-15,Kwekwe,Rain,32.0,57.0,19.5,0.9,Check wiper and tire conditions before dispatch.
+2023-02-16,Karoi,Thunderstorms,39.9,55.1,9.3,11.5,Check communication systems for all vehicles.
+2023-02-17,Bulawayo,Hot,18.0,58.0,34.4,0.8,Check coolant and tire pressure regularly.
+2023-02-18,Mutare,Clear,31.3,57.9,3.9,1.5,Encourage daytime deliveries to maximize clear skies.
+2023-02-19,Beitbridge,Partly Cloudy,35.7,40.0,37.3,1.4,Ensure headlights and signals are functioning for all routes.
+2023-02-20,Karoi,Thunderstorms,28.9,59.6,21.0,18.5,Monitor GPS tracking for route disruptions.
+2023-02-21,Gweru,Thunderstorms,36.4,73.8,27.4,8.4,Monitor GPS tracking for route disruptions.
+2023-02-22,Masvingo,Thunderstorms,37.3,32.6,27.0,1.8,Check communication systems for all vehicles.
+2023-02-23,Bulawayo,Hot,21.4,41.0,43.4,1.7,Check coolant and tire pressure regularly.
+2023-02-24,Harare,Windy,34.5,35.1,20.8,1.4,Secure light cargo and tarpaulins.
+2023-02-25,Mutare,Hot,20.9,69.2,18.0,0.6,Check coolant and tire pressure regularly.
+2023-02-26,Gweru,Thunderstorms,29.6,34.7,21.9,2.5,Suspend passenger routes through open terrain — lightning hazard.
+2023-02-27,Chiredzi,Thunderstorms,23.2,78.9,21.0,6.8,Suspend passenger routes through open terrain — lightning hazard.
+2023-02-28,Karoi,Rain,29.8,47.3,41.5,12.5,Delay low-priority routes in flood-prone areas.
+2023-03-01,Hwange,Windy,41.6,28.6,26.9,0.2,Train drivers on crosswind handling techniques.
+2023-03-02,Bulawayo,Thunderstorms,21.4,70.1,31.7,0.7,Suspend passenger routes through open terrain — lightning hazard.
+2023-03-03,Beitbridge,Hot,23.5,44.1,25.6,1.7,Schedule heavy traffic routes early morning or evening.
+2023-03-04,Gweru,Partly Cloudy,25.0,78.1,8.3,1.9,Ensure headlights and signals are functioning for all routes.
+2023-03-05,Kwekwe,Partly Cloudy,23.6,77.2,41.4,1.4,Plan detours ahead in case of isolated showers.
+2023-03-06,Mutare,Windy,26.8,31.6,4.9,0.1,Secure light cargo and tarpaulins.
+2023-03-07,Masvingo,Clear,26.9,72.4,28.0,0.9,Encourage daytime deliveries to maximize clear skies.
+2023-03-08,Chiredzi,Thunderstorms,36.0,79.1,34.3,23.6,Suspend passenger routes through open terrain — lightning hazard.
+2023-03-09,Hwange,Rain,33.2,44.0,25.4,24.9,Delay low-priority routes in flood-prone areas.
+2023-03-10,Bulawayo,Thunderstorms,29.7,46.8,33.5,19.2,Check communication systems for all vehicles.
+2023-03-11,Bulawayo,Partly Cloudy,39.0,34.2,19.7,1.1,Ensure headlights and signals are functioning for all routes.
+2023-03-12,Kwekwe,Thunderstorms,23.7,48.0,9.0,14.7,Suspend passenger routes through open terrain — lightning hazard.
+2023-03-13,Bulawayo,Partly Cloudy,24.3,44.6,37.5,1.3,Minor visibility concerns — monitor local weather alerts.
+2023-03-14,Harare,Partly Cloudy,22.7,74.4,30.5,0.8,Plan detours ahead in case of isolated showers.
+2023-03-15,Karoi,Thunderstorms,32.7,73.2,20.4,18.3,Suspend passenger routes through open terrain — lightning hazard.
+2023-03-16,Masvingo,Thunderstorms,21.2,87.0,5.9,12.4,Check communication systems for all vehicles.
+2023-03-17,Beitbridge,Partly Cloudy,20.5,72.5,35.1,1.4,Plan detours ahead in case of isolated showers.
+2023-03-18,Gweru,Rain,40.8,43.6,34.3,20.2,Check wiper and tire conditions before dispatch.
+2023-03-19,Bulawayo,Clear,33.8,54.3,18.6,0.8,Ideal conditions — operate full transport schedule.
+2023-03-20,Hwange,Hot,20.7,45.3,37.5,0.3,Schedule heavy traffic routes early morning or evening.
+2023-03-21,Harare,Hot,40.1,75.1,32.7,1.3,Avoid overheating — inspect engine components before departure.
+2023-03-22,Gweru,Windy,26.5,49.2,9.2,1.7,Secure light cargo and tarpaulins.
+2023-03-23,Kwekwe,Hot,31.9,62.8,22.0,1.9,Avoid overheating — inspect engine components before departure.
+2023-03-24,Bulawayo,Thunderstorms,31.9,31.4,31.1,4.6,Suspend passenger routes through open terrain — lightning hazard.
+2023-03-25,Beitbridge,Windy,18.1,78.1,6.4,0.3,Train drivers on crosswind handling techniques.
+2023-03-26,Mutare,Rain,20.4,54.7,19.0,21.5,Increase braking distance — roads may be slippery.
+2023-03-27,Kwekwe,Rain,33.2,77.7,39.7,20.5,Increase braking distance — roads may be slippery.
+2023-03-28,Hwange,Partly Cloudy,38.4,59.2,29.9,0.4,Plan detours ahead in case of isolated showers.
+2023-03-29,Bulawayo,Clear,24.1,89.8,20.3,1.4,Optimal visibility for long-distance haulage.
+2023-03-30,Gweru,Thunderstorms,36.1,76.3,13.7,0.7,Check communication systems for all vehicles.
+2023-03-31,Mutare,Rain,41.2,63.4,33.9,11.3,Increase braking distance — roads may be slippery.
+2023-04-01,Hwange,Hot,33.5,59.7,21.2,1.6,Check coolant and tire pressure regularly.
+2023-04-02,Karoi,Thunderstorms,22.7,85.4,26.3,1.1,Monitor GPS tracking for route disruptions.
+2023-04-03,Harare,Rain,40.0,81.1,31.8,19.3,Delay low-priority routes in flood-prone areas.
+2023-04-04,Gweru,Clear,39.1,62.9,44.3,0.4,Encourage daytime deliveries to maximize clear skies.
+2023-04-05,Beitbridge,Thunderstorms,34.4,27.7,5.3,8.7,Check communication systems for all vehicles.
+2023-04-06,Harare,Clear,28.4,63.1,42.7,0.3,Ideal conditions — operate full transport schedule.
+2023-04-07,Mutare,Windy,32.8,62.3,22.4,0.5,Train drivers on crosswind handling techniques.
+2023-04-08,Harare,Thunderstorms,34.1,79.1,13.0,12.7,Suspend passenger routes through open terrain — lightning hazard.
+2023-04-09,Chiredzi,Rain,36.0,78.6,25.9,20.5,Check wiper and tire conditions before dispatch.
+2023-04-10,Karoi,Clear,19.3,47.6,8.5,0.3,Ideal conditions — operate full transport schedule.
+2023-04-11,Harare,Rain,36.7,43.6,32.7,13.1,Increase braking distance — roads may be slippery.
+2023-04-12,Harare,Partly Cloudy,26.5,52.8,15.4,1.6,Minor visibility concerns — monitor local weather alerts.
+2023-04-13,Gweru,Clear,33.7,85.0,23.6,0.1,Optimal visibility for long-distance haulage.
+2023-04-14,Gweru,Clear,21.0,76.8,18.1,0.7,Optimal visibility for long-distance haulage.
+2023-04-15,Beitbridge,Partly Cloudy,20.5,63.5,22.8,1.9,Plan detours ahead in case of isolated showers.
+2023-04-16,Hwange,Partly Cloudy,35.3,43.1,43.0,1.6,Ensure headlights and signals are functioning for all routes.
+2023-04-17,Gweru,Windy,25.7,44.8,16.2,1.1,Train drivers on crosswind handling techniques.
+2023-04-18,Hwange,Rain,30.2,62.2,36.2,22.5,Increase braking distance — roads may be slippery.
+2023-04-19,Kwekwe,Rain,31.5,45.9,31.1,22.5,Increase braking distance — roads may be slippery.
+2023-04-20,Gweru,Rain,27.6,83.5,39.5,24.2,Delay low-priority routes in flood-prone areas.
+2023-04-21,Mutare,Rain,24.7,59.4,11.9,16.1,Delay low-priority routes in flood-prone areas.
+2023-04-22,Hwange,Windy,19.3,88.7,3.6,1.7,High profile vehicles should avoid exposed highways.
+2023-04-23,Gweru,Hot,23.7,82.9,33.5,0.6,Avoid overheating — inspect engine components before departure.
+2023-04-24,Karoi,Windy,41.9,60.1,35.2,0.2,Secure light cargo and tarpaulins.
+2023-04-25,Karoi,Windy,23.9,82.4,26.1,1.0,Secure light cargo and tarpaulins.
+2023-04-26,Hwange,Thunderstorms,18.4,42.7,24.0,10.4,Suspend passenger routes through open terrain — lightning hazard.
+2023-04-27,Beitbridge,Clear,41.8,49.5,13.7,0.9,Encourage daytime deliveries to maximize clear skies.
+2023-04-28,Beitbridge,Rain,41.0,36.8,16.3,21.3,Delay low-priority routes in flood-prone areas.
+2023-04-29,Gweru,Clear,40.5,47.2,27.1,1.7,Ideal conditions — operate full transport schedule.
+2023-04-30,Karoi,Clear,41.3,57.7,1.1,1.9,Optimal visibility for long-distance haulage.
+2023-05-01,Harare,Thunderstorms,35.5,27.4,26.0,16.4,Check communication systems for all vehicles.
+2023-05-02,Hwange,Hot,19.1,36.4,12.2,1.9,Avoid overheating — inspect engine components before departure.
+2023-05-03,Hwange,Windy,35.0,41.7,43.9,1.5,Train drivers on crosswind handling techniques.
+2023-05-04,Harare,Partly Cloudy,30.4,33.7,17.6,0.2,Minor visibility concerns — monitor local weather alerts.
+2023-05-05,Bulawayo,Partly Cloudy,26.7,61.9,4.4,0.9,Minor visibility concerns — monitor local weather alerts.
+2023-05-06,Kwekwe,Rain,32.0,56.1,18.2,17.3,Increase braking distance — roads may be slippery.
+2023-05-07,Karoi,Windy,25.3,71.5,39.9,0.1,Train drivers on crosswind handling techniques.
+2023-05-08,Gweru,Thunderstorms,39.7,87.1,36.6,17.6,Monitor GPS tracking for route disruptions.
+2023-05-09,Beitbridge,Clear,22.5,47.8,25.3,0.9,Optimal visibility for long-distance haulage.
+2023-05-10,Bulawayo,Hot,34.9,46.1,5.2,0.4,Check coolant and tire pressure regularly.
+2023-05-11,Bulawayo,Thunderstorms,28.7,49.5,34.1,12.2,Monitor GPS tracking for route disruptions.
+2023-05-12,Gweru,Hot,19.4,67.3,2.8,0.7,Schedule heavy traffic routes early morning or evening.
+2023-05-13,Masvingo,Windy,31.6,75.6,5.2,1.7,Train drivers on crosswind handling techniques.
+2023-05-14,Hwange,Clear,24.4,86.3,18.5,1.1,Ideal conditions — operate full transport schedule.
+2023-05-15,Beitbridge,Windy,26.0,26.7,25.5,1.6,Train drivers on crosswind handling techniques.
+2023-05-16,Beitbridge,Windy,19.0,26.4,42.7,0.5,Train drivers on crosswind handling techniques.
+2023-05-17,Bulawayo,Windy,29.6,70.2,0.6,1.5,Train drivers on crosswind handling techniques.
+2023-05-18,Karoi,Windy,18.2,62.2,25.0,1.5,Secure light cargo and tarpaulins.
+2023-05-19,Masvingo,Thunderstorms,22.2,61.7,8.9,12.9,Monitor GPS tracking for route disruptions.
+2023-05-20,Kwekwe,Partly Cloudy,41.9,67.1,5.3,1.5,Minor visibility concerns — monitor local weather alerts.
+2023-05-21,Chiredzi,Thunderstorms,34.8,34.2,40.5,6.3,Check communication systems for all vehicles.
+2023-05-22,Kwekwe,Clear,28.3,49.0,38.8,0.4,Encourage daytime deliveries to maximize clear skies.
+2023-05-23,Hwange,Hot,32.0,68.9,8.1,0.5,Avoid overheating — inspect engine components before departure.
+2023-05-24,Mutare,Windy,20.7,56.9,38.1,1.0,Train drivers on crosswind handling techniques.
+2023-05-25,Chiredzi,Hot,26.9,27.6,18.0,0.6,Check coolant and tire pressure regularly.
+2023-05-26,Bulawayo,Partly Cloudy,21.1,54.9,25.3,1.7,Plan detours ahead in case of isolated showers.
+2023-05-27,Mutare,Clear,22.9,48.2,5.6,0.1,Ideal conditions — operate full transport schedule.
+2023-05-28,Karoi,Partly Cloudy,18.9,50.8,39.9,1.4,Plan detours ahead in case of isolated showers.
+2023-05-29,Hwange,Clear,27.5,85.1,2.9,2.0,Encourage daytime deliveries to maximize clear skies.
+2023-05-30,Karoi,Rain,39.4,63.6,42.4,10.4,Increase braking distance — roads may be slippery.
+2023-05-31,Mutare,Clear,24.7,54.9,30.7,0.4,Encourage daytime deliveries to maximize clear skies.
+2023-06-01,Harare,Hot,30.5,44.7,11.1,1.2,Schedule heavy traffic routes early morning or evening.
+2023-06-02,Masvingo,Thunderstorms,27.2,74.4,14.2,2.3,Suspend passenger routes through open terrain — lightning hazard.
+2023-06-03,Harare,Windy,21.9,54.5,25.7,2.0,Secure light cargo and tarpaulins.
+2023-06-04,Mutare,Rain,27.4,32.2,22.3,22.1,Check wiper and tire conditions before dispatch.
+2023-06-05,Bulawayo,Thunderstorms,18.2,87.1,7.5,16.9,Suspend passenger routes through open terrain — lightning hazard.
+2023-06-06,Gweru,Hot,38.6,86.0,0.7,1.1,Schedule heavy traffic routes early morning or evening.
+2023-06-07,Karoi,Clear,37.8,67.0,15.4,1.5,Ideal conditions — operate full transport schedule.
+2023-06-08,Harare,Windy,23.8,74.8,6.3,0.3,Train drivers on crosswind handling techniques.
+2023-06-09,Harare,Rain,35.7,38.3,13.5,0.9,Check wiper and tire conditions before dispatch.
+2023-06-10,Mutare,Thunderstorms,23.6,48.5,30.0,20.5,Suspend passenger routes through open terrain — lightning hazard.
+2023-06-11,Kwekwe,Windy,39.0,87.6,15.7,0.0,High profile vehicles should avoid exposed highways.
+2023-06-12,Beitbridge,Windy,23.2,72.1,16.1,0.1,High profile vehicles should avoid exposed highways.
+2023-06-13,Gweru,Hot,40.6,47.9,8.3,1.5,Avoid overheating — inspect engine components before departure.
+2023-06-14,Kwekwe,Rain,28.2,69.6,23.2,8.1,Delay low-priority routes in flood-prone areas.
+2023-06-15,Karoi,Windy,26.6,47.8,2.8,0.3,High profile vehicles should avoid exposed highways.
+2023-06-16,Harare,Hot,37.9,70.0,25.2,1.2,Schedule heavy traffic routes early morning or evening.
+2023-06-17,Masvingo,Rain,39.5,69.7,16.0,12.4,Check wiper and tire conditions before dispatch.
+2023-06-18,Harare,Thunderstorms,28.5,50.1,25.9,20.6,Monitor GPS tracking for route disruptions.
+2023-06-19,Masvingo,Rain,30.2,58.7,3.8,15.6,Increase braking distance — roads may be slippery.
+2023-06-20,Beitbridge,Partly Cloudy,30.3,42.3,12.3,1.5,Plan detours ahead in case of isolated showers.
+2023-06-21,Masvingo,Clear,32.5,72.3,7.3,0.5,Encourage daytime deliveries to maximize clear skies.
+2023-06-22,Karoi,Hot,22.5,51.3,40.9,1.0,Check coolant and tire pressure regularly.
+2023-06-23,Beitbridge,Hot,41.6,61.8,19.5,1.3,Avoid overheating — inspect engine components before departure.
+2023-06-24,Harare,Rain,25.9,65.3,19.4,14.3,Increase braking distance — roads may be slippery.
+2023-06-25,Beitbridge,Rain,31.2,86.7,6.7,12.1,Delay low-priority routes in flood-prone areas.
+2023-06-26,Mutare,Partly Cloudy,22.2,57.3,0.1,0.4,Plan detours ahead in case of isolated showers.
+2023-06-27,Hwange,Thunderstorms,27.1,71.0,34.0,7.9,Check communication systems for all vehicles.
+2023-06-28,Harare,Thunderstorms,37.2,43.1,17.4,14.9,Check communication systems for all vehicles.
+2023-06-29,Bulawayo,Hot,28.3,50.0,32.8,1.0,Schedule heavy traffic routes early morning or evening.
+2023-06-30,Bulawayo,Hot,22.9,62.3,4.4,0.4,Check coolant and tire pressure regularly.
+2023-07-01,Kwekwe,Clear,31.2,58.8,25.5,1.5,Encourage daytime deliveries to maximize clear skies.
+2023-07-02,Harare,Clear,32.7,60.8,14.5,1.3,Optimal visibility for long-distance haulage.
+2023-07-03,Hwange,Partly Cloudy,41.7,44.9,14.4,0.6,Minor visibility concerns — monitor local weather alerts.
+2023-07-04,Gweru,Partly Cloudy,34.2,68.2,42.1,0.7,Plan detours ahead in case of isolated showers.
+2023-07-05,Harare,Clear,28.9,77.8,12.7,1.3,Optimal visibility for long-distance haulage.
+2023-07-06,Hwange,Partly Cloudy,26.7,29.4,43.9,0.6,Ensure headlights and signals are functioning for all routes.
+2023-07-07,Masvingo,Thunderstorms,19.4,28.4,1.9,18.7,Suspend passenger routes through open terrain — lightning hazard.
+2023-07-08,Kwekwe,Windy,37.0,78.5,25.1,0.3,High profile vehicles should avoid exposed highways.
+2023-07-09,Chiredzi,Partly Cloudy,27.3,76.6,10.8,0.3,Ensure headlights and signals are functioning for all routes.
+2023-07-10,Kwekwe,Thunderstorms,37.8,50.5,15.5,16.3,Monitor GPS tracking for route disruptions.
+2023-07-11,Masvingo,Clear,25.3,65.0,32.2,0.2,Optimal visibility for long-distance haulage.
+2023-07-12,Beitbridge,Rain,23.0,69.4,9.4,23.0,Check wiper and tire conditions before dispatch.
+2023-07-13,Hwange,Rain,18.5,83.8,35.5,13.8,Delay low-priority routes in flood-prone areas.
+2023-07-14,Harare,Windy,36.6,30.5,43.5,0.6,Train drivers on crosswind handling techniques.
+2023-07-15,Hwange,Thunderstorms,33.0,26.1,17.3,21.9,Monitor GPS tracking for route disruptions.
+2023-07-16,Beitbridge,Clear,28.7,88.7,16.2,1.2,Ideal conditions — operate full transport schedule.
+2023-07-17,Hwange,Thunderstorms,35.1,29.2,0.9,1.6,Monitor GPS tracking for route disruptions.
+2023-07-18,Hwange,Thunderstorms,38.6,39.6,13.7,0.9,Monitor GPS tracking for route disruptions.
+2023-07-19,Masvingo,Rain,29.7,85.3,31.5,17.8,Check wiper and tire conditions before dispatch.
+2023-07-20,Karoi,Thunderstorms,28.4,78.8,2.6,12.8,Check communication systems for all vehicles.
+2023-07-21,Masvingo,Rain,28.7,35.4,42.7,10.1,Delay low-priority routes in flood-prone areas.
+2023-07-22,Chiredzi,Clear,34.5,73.1,3.7,0.9,Encourage daytime deliveries to maximize clear skies.
+2023-07-23,Mutare,Rain,21.3,68.1,36.4,0.2,Delay low-priority routes in flood-prone areas.
+2023-07-24,Gweru,Rain,28.1,87.9,12.8,7.3,Delay low-priority routes in flood-prone areas.
+2023-07-25,Harare,Thunderstorms,39.2,36.9,43.3,10.8,Monitor GPS tracking for route disruptions.
+2023-07-26,Karoi,Clear,38.4,29.8,16.8,1.5,Optimal visibility for long-distance haulage.
+2023-07-27,Gweru,Clear,31.1,39.4,36.6,0.5,Ideal conditions — operate full transport schedule.
+2023-07-28,Chiredzi,Clear,32.0,71.2,2.3,0.1,Optimal visibility for long-distance haulage.
+2023-07-29,Gweru,Rain,28.1,51.3,24.6,7.4,Increase braking distance — roads may be slippery.
+2023-07-30,Harare,Rain,24.0,52.4,30.4,3.8,Increase braking distance — roads may be slippery.
+2023-07-31,Harare,Rain,35.4,26.5,1.4,11.1,Check wiper and tire conditions before dispatch.
+2023-08-01,Kwekwe,Clear,28.9,85.6,17.7,0.7,Ideal conditions — operate full transport schedule.
+2023-08-02,Hwange,Windy,28.6,49.5,33.7,1.7,Train drivers on crosswind handling techniques.
+2023-08-03,Bulawayo,Clear,26.0,27.8,19.0,0.2,Encourage daytime deliveries to maximize clear skies.
+2023-08-04,Karoi,Thunderstorms,41.6,42.0,4.9,14.0,Suspend passenger routes through open terrain — lightning hazard.
+2023-08-05,Kwekwe,Windy,33.3,52.7,35.4,1.7,Secure light cargo and tarpaulins.
+2023-08-06,Beitbridge,Rain,36.6,76.3,36.5,7.7,Increase braking distance — roads may be slippery.
+2023-08-07,Bulawayo,Windy,39.2,36.4,12.8,0.0,Train drivers on crosswind handling techniques.
+2023-08-08,Gweru,Thunderstorms,41.6,64.5,20.4,18.9,Check communication systems for all vehicles.
+2023-08-09,Mutare,Partly Cloudy,40.4,65.2,23.6,0.7,Ensure headlights and signals are functioning for all routes.
+2023-08-10,Gweru,Rain,26.7,30.2,32.7,7.1,Check wiper and tire conditions before dispatch.
+2023-08-11,Mutare,Rain,33.0,43.8,6.4,12.9,Delay low-priority routes in flood-prone areas.
+2023-08-12,Kwekwe,Rain,31.9,57.3,21.9,12.9,Check wiper and tire conditions before dispatch.
+2023-08-13,Chiredzi,Rain,34.8,71.0,30.6,24.4,Check wiper and tire conditions before dispatch.
+2023-08-14,Gweru,Rain,39.4,50.8,17.3,15.6,Delay low-priority routes in flood-prone areas.
+2023-08-15,Hwange,Rain,24.5,72.2,7.6,19.6,Check wiper and tire conditions before dispatch.
+2023-08-16,Mutare,Thunderstorms,33.4,59.1,25.2,23.7,Check communication systems for all vehicles.
+2023-08-17,Harare,Clear,27.6,54.2,31.1,0.7,Encourage daytime deliveries to maximize clear skies.
+2023-08-18,Bulawayo,Thunderstorms,34.6,32.3,3.1,9.2,Monitor GPS tracking for route disruptions.
+2023-08-19,Mutare,Rain,23.4,82.0,42.2,1.2,Increase braking distance — roads may be slippery.
+2023-08-20,Beitbridge,Windy,36.4,35.3,6.9,0.9,Secure light cargo and tarpaulins.
+2023-08-21,Kwekwe,Clear,29.6,55.4,24.5,1.8,Optimal visibility for long-distance haulage.
+2023-08-22,Beitbridge,Hot,19.9,32.9,25.0,0.2,Avoid overheating — inspect engine components before departure.
+2023-08-23,Gweru,Clear,34.4,75.3,32.3,1.1,Ideal conditions — operate full transport schedule.
+2023-08-24,Kwekwe,Windy,27.5,46.0,29.4,1.5,Secure light cargo and tarpaulins.
+2023-08-25,Gweru,Hot,32.9,28.4,12.0,1.7,Schedule heavy traffic routes early morning or evening.
+2023-08-26,Bulawayo,Hot,23.3,64.6,8.3,1.3,Schedule heavy traffic routes early morning or evening.
+2023-08-27,Gweru,Clear,25.2,83.3,14.5,0.8,Optimal visibility for long-distance haulage.
+2023-08-28,Bulawayo,Thunderstorms,21.1,34.9,0.4,20.5,Check communication systems for all vehicles.
+2023-08-29,Karoi,Clear,37.2,67.3,10.1,0.8,Ideal conditions — operate full transport schedule.
+2023-08-30,Masvingo,Rain,30.2,39.8,14.8,6.9,Check wiper and tire conditions before dispatch.
+2023-08-31,Chiredzi,Rain,28.2,86.9,13.4,23.4,Delay low-priority routes in flood-prone areas.
+2023-09-01,Kwekwe,Clear,18.5,78.0,13.4,0.9,Ideal conditions — operate full transport schedule.
+2023-09-02,Karoi,Hot,30.4,27.8,6.4,0.6,Avoid overheating — inspect engine components before departure.
+2023-09-03,Chiredzi,Clear,26.2,77.6,44.9,0.9,Optimal visibility for long-distance haulage.
+2023-09-04,Hwange,Hot,20.2,89.4,30.5,1.8,Avoid overheating — inspect engine components before departure.
+2023-09-05,Beitbridge,Windy,22.7,42.5,5.3,1.6,Train drivers on crosswind handling techniques.
+2023-09-06,Harare,Partly Cloudy,21.4,56.7,11.5,1.3,Plan detours ahead in case of isolated showers.
+2023-09-07,Kwekwe,Thunderstorms,24.1,65.0,36.2,15.2,Suspend passenger routes through open terrain — lightning hazard.
+2023-09-08,Kwekwe,Thunderstorms,19.3,29.2,44.9,5.8,Monitor GPS tracking for route disruptions.
+2023-09-09,Hwange,Partly Cloudy,29.0,39.4,28.2,0.1,Minor visibility concerns — monitor local weather alerts.
+2023-09-10,Mutare,Rain,25.7,70.4,44.0,2.5,Increase braking distance — roads may be slippery.
+2023-09-11,Bulawayo,Windy,25.9,57.8,25.7,1.4,Train drivers on crosswind handling techniques.
+2023-09-12,Beitbridge,Windy,23.1,39.0,24.7,0.0,Secure light cargo and tarpaulins.
+2023-09-13,Harare,Rain,33.5,36.8,3.5,19.4,Check wiper and tire conditions before dispatch.
+2023-09-14,Chiredzi,Clear,40.7,45.3,4.3,0.5,Ideal conditions — operate full transport schedule.
+2023-09-15,Chiredzi,Rain,24.3,44.0,8.3,21.0,Check wiper and tire conditions before dispatch.
+2023-09-16,Masvingo,Rain,26.0,28.4,26.0,5.2,Increase braking distance — roads may be slippery.
+2023-09-17,Karoi,Rain,21.2,79.2,0.9,9.0,Check wiper and tire conditions before dispatch.
+2023-09-18,Gweru,Thunderstorms,33.2,54.6,37.6,15.3,Suspend passenger routes through open terrain — lightning hazard.
+2023-09-19,Harare,Clear,34.6,29.4,4.3,1.2,Encourage daytime deliveries to maximize clear skies.
+2023-09-20,Kwekwe,Windy,26.3,38.3,16.0,1.2,High profile vehicles should avoid exposed highways.
+2023-09-21,Bulawayo,Rain,38.8,73.0,19.1,12.1,Check wiper and tire conditions before dispatch.
+2023-09-22,Harare,Thunderstorms,41.3,69.2,13.7,19.0,Check communication systems for all vehicles.
+2023-09-23,Beitbridge,Clear,29.5,88.3,21.6,0.8,Ideal conditions — operate full transport schedule.
+2023-09-24,Karoi,Partly Cloudy,31.2,71.4,42.2,0.9,Minor visibility concerns — monitor local weather alerts.
+2023-09-25,Chiredzi,Partly Cloudy,38.5,55.0,43.1,1.1,Plan detours ahead in case of isolated showers.
+2023-09-26,Kwekwe,Clear,36.5,65.8,6.1,0.9,Encourage daytime deliveries to maximize clear skies.
+2023-09-27,Karoi,Rain,38.0,45.0,15.6,13.9,Increase braking distance — roads may be slippery.
+2023-09-28,Bulawayo,Hot,29.4,68.2,41.9,1.4,Avoid overheating — inspect engine components before departure.
+2023-09-29,Kwekwe,Windy,19.2,55.4,10.3,0.9,Secure light cargo and tarpaulins.
+2023-09-30,Bulawayo,Hot,23.1,59.3,0.8,1.1,Schedule heavy traffic routes early morning or evening.
+2023-10-01,Karoi,Rain,21.7,86.3,39.8,15.4,Delay low-priority routes in flood-prone areas.
+2023-10-02,Mutare,Clear,26.0,66.9,24.6,0.9,Optimal visibility for long-distance haulage.
+2023-10-03,Karoi,Windy,20.7,87.3,30.1,1.6,High profile vehicles should avoid exposed highways.
+2023-10-04,Kwekwe,Hot,34.9,61.1,40.2,1.9,Avoid overheating — inspect engine components before departure.
+2023-10-05,Hwange,Clear,33.0,33.9,36.5,1.4,Encourage daytime deliveries to maximize clear skies.
+2023-10-06,Chiredzi,Hot,21.3,62.5,0.5,1.5,Avoid overheating — inspect engine components before departure.
+2023-10-07,Mutare,Hot,40.7,38.9,5.8,1.6,Schedule heavy traffic routes early morning or evening.
+2023-10-08,Mutare,Partly Cloudy,28.3,38.8,34.4,1.0,Ensure headlights and signals are functioning for all routes.
+2023-10-09,Harare,Hot,27.4,75.5,5.9,0.1,Avoid overheating — inspect engine components before departure.
+2023-10-10,Kwekwe,Thunderstorms,34.4,38.0,2.6,10.2,Suspend passenger routes through open terrain — lightning hazard.
+2023-10-11,Kwekwe,Partly Cloudy,19.0,88.5,18.9,0.7,Minor visibility concerns — monitor local weather alerts.
+2023-10-12,Hwange,Hot,24.8,77.1,16.9,1.0,Check coolant and tire pressure regularly.
+2023-10-13,Gweru,Rain,37.9,58.9,18.2,1.8,Increase braking distance — roads may be slippery.
+2023-10-14,Hwange,Windy,31.9,49.5,27.8,0.1,Secure light cargo and tarpaulins.
+2023-10-15,Gweru,Clear,33.9,41.1,12.6,0.1,Encourage daytime deliveries to maximize clear skies.
+2023-10-16,Beitbridge,Rain,26.3,56.6,9.4,15.3,Check wiper and tire conditions before dispatch.
+2023-10-17,Beitbridge,Clear,38.3,68.0,23.3,0.3,Ideal conditions — operate full transport schedule.
+2023-10-18,Mutare,Partly Cloudy,20.3,61.6,9.1,1.2,Ensure headlights and signals are functioning for all routes.
+2023-10-19,Harare,Rain,34.9,35.4,40.9,19.9,Check wiper and tire conditions before dispatch.
+2023-10-20,Karoi,Clear,26.5,62.2,13.2,1.7,Encourage daytime deliveries to maximize clear skies.
+2023-10-21,Kwekwe,Clear,35.1,74.4,9.9,1.5,Optimal visibility for long-distance haulage.
+2023-10-22,Chiredzi,Thunderstorms,26.8,35.0,19.8,21.4,Suspend passenger routes through open terrain — lightning hazard.
+2023-10-23,Karoi,Rain,39.6,75.2,33.0,20.7,Increase braking distance — roads may be slippery.
+2023-10-24,Masvingo,Windy,29.0,51.5,21.3,1.9,Secure light cargo and tarpaulins.
+2023-10-25,Karoi,Windy,34.7,55.6,13.5,1.3,Train drivers on crosswind handling techniques.
+2023-10-26,Mutare,Windy,35.7,62.2,26.9,0.9,High profile vehicles should avoid exposed highways.
+2023-10-27,Mutare,Thunderstorms,24.7,40.0,30.7,10.4,Check communication systems for all vehicles.
+2023-10-28,Hwange,Partly Cloudy,18.1,53.4,44.6,1.5,Plan detours ahead in case of isolated showers.
+2023-10-29,Karoi,Windy,21.3,67.7,40.8,0.1,High profile vehicles should avoid exposed highways.
+2023-10-30,Beitbridge,Clear,18.0,62.3,14.3,1.2,Optimal visibility for long-distance haulage.
+2023-10-31,Mutare,Partly Cloudy,19.2,58.5,4.4,0.8,Minor visibility concerns — monitor local weather alerts.
+2023-11-01,Harare,Thunderstorms,28.8,87.8,14.9,5.9,Suspend passenger routes through open terrain — lightning hazard.
+2023-11-02,Kwekwe,Thunderstorms,35.1,58.2,44.6,11.3,Check communication systems for all vehicles.
+2023-11-03,Beitbridge,Partly Cloudy,30.5,29.6,35.5,1.5,Minor visibility concerns — monitor local weather alerts.
+2023-11-04,Bulawayo,Thunderstorms,35.7,33.7,1.5,11.9,Monitor GPS tracking for route disruptions.
+2023-11-05,Bulawayo,Hot,21.5,68.3,13.9,1.0,Check coolant and tire pressure regularly.
+2023-11-06,Hwange,Clear,23.1,70.8,5.5,1.9,Optimal visibility for long-distance haulage.
+2023-11-07,Harare,Windy,31.1,44.4,9.0,0.2,High profile vehicles should avoid exposed highways.
+2023-11-08,Kwekwe,Clear,23.6,51.1,34.6,1.4,Encourage daytime deliveries to maximize clear skies.
+2023-11-09,Harare,Rain,20.3,56.7,26.0,15.7,Delay low-priority routes in flood-prone areas.
+2023-11-10,Hwange,Rain,33.4,71.2,34.6,12.4,Check wiper and tire conditions before dispatch.
+2023-11-11,Hwange,Windy,20.6,51.7,19.2,0.3,Secure light cargo and tarpaulins.
+2023-11-12,Beitbridge,Windy,41.7,45.9,24.0,0.1,Secure light cargo and tarpaulins.
+2023-11-13,Gweru,Hot,34.0,49.4,23.8,1.7,Schedule heavy traffic routes early morning or evening.
+2023-11-14,Karoi,Partly Cloudy,24.9,61.3,9.3,0.6,Plan detours ahead in case of isolated showers.
+2023-11-15,Masvingo,Partly Cloudy,20.0,77.5,6.7,1.5,Minor visibility concerns — monitor local weather alerts.
+2023-11-16,Bulawayo,Hot,19.2,38.0,2.9,0.8,Schedule heavy traffic routes early morning or evening.
+2023-11-17,Karoi,Rain,40.3,43.6,44.2,7.4,Check wiper and tire conditions before dispatch.
+2023-11-18,Kwekwe,Clear,19.9,69.2,19.3,1.4,Encourage daytime deliveries to maximize clear skies.
+2023-11-19,Kwekwe,Partly Cloudy,32.8,47.1,15.0,1.5,Ensure headlights and signals are functioning for all routes.
+2023-11-20,Gweru,Hot,33.1,70.6,38.3,0.3,Schedule heavy traffic routes early morning or evening.
+2023-11-21,Chiredzi,Clear,31.9,77.0,23.6,1.6,Encourage daytime deliveries to maximize clear skies.
+2023-11-22,Mutare,Hot,37.0,89.5,9.5,1.4,Check coolant and tire pressure regularly.
+2023-11-23,Mutare,Windy,29.1,29.1,27.4,2.0,Secure light cargo and tarpaulins.
+2023-11-24,Harare,Partly Cloudy,41.9,25.0,21.2,1.5,Ensure headlights and signals are functioning for all routes.
+2023-11-25,Mutare,Rain,35.3,32.2,33.5,14.3,Delay low-priority routes in flood-prone areas.
+2023-11-26,Masvingo,Windy,27.7,84.2,1.5,0.6,Secure light cargo and tarpaulins.
+2023-11-27,Beitbridge,Hot,22.9,58.0,18.6,1.7,Schedule heavy traffic routes early morning or evening.
+2023-11-28,Mutare,Rain,30.2,47.0,3.4,15.8,Check wiper and tire conditions before dispatch.
+2023-11-29,Harare,Hot,31.7,86.3,26.3,0.7,Avoid overheating — inspect engine components before departure.
+2023-11-30,Karoi,Thunderstorms,26.7,45.6,6.0,8.1,Suspend passenger routes through open terrain — lightning hazard.
+2023-12-01,Mutare,Thunderstorms,39.4,70.1,28.0,22.4,Suspend passenger routes through open terrain — lightning hazard.
+2023-12-02,Mutare,Partly Cloudy,40.0,49.5,12.3,1.5,Plan detours ahead in case of isolated showers.
+2023-12-03,Karoi,Clear,30.9,61.4,15.3,1.7,Encourage daytime deliveries to maximize clear skies.
+2023-12-04,Beitbridge,Rain,24.7,86.2,27.1,20.5,Delay low-priority routes in flood-prone areas.
+2023-12-05,Kwekwe,Thunderstorms,19.7,26.1,5.7,0.4,Monitor GPS tracking for route disruptions.
+2023-12-06,Beitbridge,Windy,27.7,27.2,1.5,0.8,Secure light cargo and tarpaulins.
+2023-12-07,Kwekwe,Rain,40.2,40.0,43.1,23.4,Delay low-priority routes in flood-prone areas.
+2023-12-08,Masvingo,Thunderstorms,23.4,34.0,4.5,5.5,Check communication systems for all vehicles.
+2023-12-09,Mutare,Hot,20.0,74.6,27.4,0.1,Avoid overheating — inspect engine components before departure.
+2023-12-10,Bulawayo,Thunderstorms,40.1,36.5,1.0,23.5,Suspend passenger routes through open terrain — lightning hazard.
+2023-12-11,Harare,Rain,18.2,86.7,40.3,0.2,Delay low-priority routes in flood-prone areas.
+2023-12-12,Kwekwe,Thunderstorms,21.5,80.5,25.3,5.4,Suspend passenger routes through open terrain — lightning hazard.
+2023-12-13,Karoi,Partly Cloudy,28.1,46.9,3.0,1.7,Plan detours ahead in case of isolated showers.
+2023-12-14,Kwekwe,Thunderstorms,31.0,87.2,9.1,17.7,Monitor GPS tracking for route disruptions.
+2023-12-15,Karoi,Thunderstorms,23.8,63.0,18.3,2.8,Monitor GPS tracking for route disruptions.
+2023-12-16,Mutare,Thunderstorms,39.7,27.2,1.5,3.4,Suspend passenger routes through open terrain — lightning hazard.
+2023-12-17,Harare,Clear,33.8,58.8,44.2,0.4,Optimal visibility for long-distance haulage.
+2023-12-18,Masvingo,Hot,27.3,72.8,33.0,1.7,Check coolant and tire pressure regularly.
+2023-12-19,Karoi,Clear,31.4,89.3,34.6,0.5,Optimal visibility for long-distance haulage.
+2023-12-20,Karoi,Windy,23.8,31.2,6.1,1.2,Secure light cargo and tarpaulins.
+2023-12-21,Kwekwe,Partly Cloudy,18.3,40.6,6.1,1.8,Minor visibility concerns — monitor local weather alerts.
+2023-12-22,Chiredzi,Clear,18.3,67.6,38.2,1.5,Encourage daytime deliveries to maximize clear skies.
+2023-12-23,Beitbridge,Clear,21.1,77.3,9.8,1.9,Ideal conditions — operate full transport schedule.
+2023-12-24,Hwange,Partly Cloudy,38.7,47.1,39.6,1.8,Minor visibility concerns — monitor local weather alerts.
+2023-12-25,Chiredzi,Rain,22.4,85.4,8.5,4.6,Check wiper and tire conditions before dispatch.
+2023-12-26,Harare,Thunderstorms,29.6,40.7,6.0,16.5,Monitor GPS tracking for route disruptions.
+2023-12-27,Harare,Hot,26.6,40.5,37.6,1.8,Schedule heavy traffic routes early morning or evening.
+2023-12-28,Masvingo,Windy,31.3,46.9,37.5,0.7,Train drivers on crosswind handling techniques.
+2023-12-29,Gweru,Partly Cloudy,34.8,28.4,23.2,1.4,Minor visibility concerns — monitor local weather alerts.
+2023-12-30,Mutare,Partly Cloudy,35.3,72.1,42.8,0.1,Minor visibility concerns — monitor local weather alerts.
+2023-12-31,Hwange,Clear,22.0,48.3,41.5,0.1,Optimal visibility for long-distance haulage.
+2024-01-01,Chiredzi,Partly Cloudy,27.6,62.1,25.4,0.9,Plan detours ahead in case of isolated showers.
+2024-01-02,Harare,Windy,37.0,69.5,34.5,1.0,Secure light cargo and tarpaulins.
+2024-01-03,Bulawayo,Clear,26.4,28.7,19.9,1.9,Encourage daytime deliveries to maximize clear skies.
+2024-01-04,Beitbridge,Hot,39.7,60.7,6.5,0.4,Avoid overheating — inspect engine components before departure.
+2024-01-05,Gweru,Thunderstorms,27.7,27.1,35.3,12.5,Check communication systems for all vehicles.
+2024-01-06,Mutare,Thunderstorms,28.7,42.1,39.5,0.5,Suspend passenger routes through open terrain — lightning hazard.
+2024-01-07,Mutare,Rain,41.6,38.2,16.4,4.9,Delay low-priority routes in flood-prone areas.
+2024-01-08,Hwange,Hot,38.5,54.4,24.2,1.6,Schedule heavy traffic routes early morning or evening.
+2024-01-09,Harare,Thunderstorms,22.5,82.3,5.0,4.9,Suspend passenger routes through open terrain — lightning hazard.
+2024-01-10,Hwange,Partly Cloudy,26.0,26.9,12.7,0.3,Minor visibility concerns — monitor local weather alerts.
+2024-01-11,Hwange,Hot,39.6,68.1,0.7,1.1,Avoid overheating — inspect engine components before departure.
+2024-01-12,Gweru,Partly Cloudy,29.5,80.5,21.4,0.7,Minor visibility concerns — monitor local weather alerts.
+2024-01-13,Hwange,Rain,40.5,30.7,30.7,23.4,Check wiper and tire conditions before dispatch.
+2024-01-14,Kwekwe,Partly Cloudy,29.1,36.0,3.5,1.9,Ensure headlights and signals are functioning for all routes.
+2024-01-15,Mutare,Partly Cloudy,31.0,65.7,28.8,0.8,Ensure headlights and signals are functioning for all routes.
+2024-01-16,Masvingo,Thunderstorms,22.3,33.7,41.7,11.9,Monitor GPS tracking for route disruptions.
+2024-01-17,Hwange,Partly Cloudy,18.4,43.6,16.5,1.0,Minor visibility concerns — monitor local weather alerts.
+2024-01-18,Beitbridge,Thunderstorms,27.8,70.7,23.2,4.5,Monitor GPS tracking for route disruptions.
+2024-01-19,Masvingo,Partly Cloudy,18.8,39.7,31.5,1.3,Plan detours ahead in case of isolated showers.
+2024-01-20,Gweru,Thunderstorms,39.7,36.0,29.2,24.2,Monitor GPS tracking for route disruptions.
+2024-01-21,Masvingo,Clear,22.3,51.7,10.8,0.0,Encourage daytime deliveries to maximize clear skies.
+2024-01-22,Masvingo,Hot,21.1,27.3,41.2,1.1,Avoid overheating — inspect engine components before departure.
+2024-01-23,Mutare,Clear,20.6,56.7,7.1,1.2,Ideal conditions — operate full transport schedule.
+2024-01-24,Gweru,Clear,22.1,30.0,18.3,0.2,Encourage daytime deliveries to maximize clear skies.
+2024-01-25,Hwange,Thunderstorms,19.8,66.7,24.0,24.2,Check communication systems for all vehicles.
+2024-01-26,Karoi,Rain,40.0,74.5,44.5,22.9,Increase braking distance — roads may be slippery.
+2024-01-27,Bulawayo,Hot,35.3,85.2,1.8,0.8,Check coolant and tire pressure regularly.
+2024-01-28,Harare,Thunderstorms,36.1,49.0,24.1,12.1,Monitor GPS tracking for route disruptions.
+2024-01-29,Bulawayo,Rain,20.6,46.6,18.9,21.9,Delay low-priority routes in flood-prone areas.
+2024-01-30,Beitbridge,Rain,24.6,79.9,11.2,11.2,Check wiper and tire conditions before dispatch.
+2024-01-31,Gweru,Thunderstorms,42.0,57.5,4.7,9.0,Monitor GPS tracking for route disruptions.
+2024-02-01,Harare,Rain,18.3,75.3,2.2,11.7,Delay low-priority routes in flood-prone areas.
+2024-02-02,Hwange,Windy,26.0,27.9,16.6,0.2,High profile vehicles should avoid exposed highways.
+2024-02-03,Karoi,Rain,41.4,72.2,8.8,15.8,Check wiper and tire conditions before dispatch.
+2024-02-04,Karoi,Thunderstorms,41.2,40.4,4.3,22.5,Check communication systems for all vehicles.
+2024-02-05,Hwange,Clear,41.1,35.4,27.0,0.5,Ideal conditions — operate full transport schedule.
+2024-02-06,Beitbridge,Thunderstorms,28.4,68.0,32.4,1.5,Check communication systems for all vehicles.
+2024-02-07,Karoi,Clear,18.1,69.1,9.0,1.4,Optimal visibility for long-distance haulage.
+2024-02-08,Bulawayo,Thunderstorms,23.8,50.9,44.0,13.1,Monitor GPS tracking for route disruptions.
+2024-02-09,Karoi,Partly Cloudy,32.6,83.4,12.3,1.0,Minor visibility concerns — monitor local weather alerts.
+2024-02-10,Mutare,Rain,33.1,66.8,12.7,0.3,Delay low-priority routes in flood-prone areas.
+2024-02-11,Mutare,Rain,30.3,50.6,37.9,16.1,Delay low-priority routes in flood-prone areas.
+2024-02-12,Chiredzi,Rain,32.3,78.3,1.9,0.1,Increase braking distance — roads may be slippery.
+2024-02-13,Chiredzi,Thunderstorms,24.9,57.2,43.8,1.5,Monitor GPS tracking for route disruptions.
+2024-02-14,Mutare,Rain,21.0,75.0,41.6,3.0,Delay low-priority routes in flood-prone areas.
+2024-02-15,Mutare,Hot,29.7,66.4,19.9,0.6,Avoid overheating — inspect engine components before departure.
+2024-02-16,Beitbridge,Windy,26.1,31.5,33.9,0.2,Secure light cargo and tarpaulins.
+2024-02-17,Beitbridge,Clear,26.3,78.1,42.2,0.3,Ideal conditions — operate full transport schedule.
+2024-02-18,Mutare,Windy,37.0,71.2,22.0,0.1,Train drivers on crosswind handling techniques.
+2024-02-19,Masvingo,Partly Cloudy,23.1,28.3,19.3,1.2,Plan detours ahead in case of isolated showers.
+2024-02-20,Harare,Clear,33.8,35.1,0.3,0.8,Optimal visibility for long-distance haulage.
+2024-02-21,Chiredzi,Clear,27.2,32.3,33.4,0.5,Optimal visibility for long-distance haulage.
+2024-02-22,Masvingo,Rain,24.6,59.8,8.6,7.7,Delay low-priority routes in flood-prone areas.
+2024-02-23,Bulawayo,Partly Cloudy,38.2,32.6,10.3,1.9,Plan detours ahead in case of isolated showers.
+2024-02-24,Hwange,Windy,36.9,65.7,3.2,0.1,High profile vehicles should avoid exposed highways.
+2024-02-25,Kwekwe,Thunderstorms,31.7,86.2,42.1,4.1,Monitor GPS tracking for route disruptions.
+2024-02-26,Masvingo,Hot,29.1,42.0,9.3,0.2,Avoid overheating — inspect engine components before departure.
+2024-02-27,Harare,Windy,31.6,51.0,15.5,1.1,Train drivers on crosswind handling techniques.
+2024-02-28,Chiredzi,Partly Cloudy,33.8,27.5,14.5,0.8,Minor visibility concerns — monitor local weather alerts.
+2024-02-29,Mutare,Hot,28.7,30.5,15.7,0.2,Avoid overheating — inspect engine components before departure.
+2024-03-01,Masvingo,Thunderstorms,31.6,66.1,35.8,21.7,Suspend passenger routes through open terrain — lightning hazard.
+2024-03-02,Beitbridge,Thunderstorms,27.0,88.8,29.2,13.2,Check communication systems for all vehicles.
+2024-03-03,Mutare,Rain,30.1,77.2,4.3,19.4,Increase braking distance — roads may be slippery.
+2024-03-04,Bulawayo,Rain,22.9,25.6,20.2,8.6,Increase braking distance — roads may be slippery.
+2024-03-05,Harare,Hot,18.3,43.8,4.8,0.3,Schedule heavy traffic routes early morning or evening.
+2024-03-06,Bulawayo,Hot,34.7,34.5,9.0,2.0,Check coolant and tire pressure regularly.
+2024-03-07,Karoi,Thunderstorms,27.7,62.8,6.0,14.5,Check communication systems for all vehicles.
+2024-03-08,Hwange,Partly Cloudy,20.9,61.2,20.7,1.4,Plan detours ahead in case of isolated showers.
+2024-03-09,Chiredzi,Windy,37.0,76.5,0.0,1.6,Train drivers on crosswind handling techniques.
+2024-03-10,Karoi,Hot,41.9,56.1,4.1,0.9,Avoid overheating — inspect engine components before departure.
+2024-03-11,Gweru,Partly Cloudy,19.7,64.5,15.1,1.2,Ensure headlights and signals are functioning for all routes.
+2024-03-12,Bulawayo,Rain,28.3,28.1,21.9,14.6,Delay low-priority routes in flood-prone areas.
+2024-03-13,Beitbridge,Thunderstorms,36.5,82.3,30.4,5.2,Check communication systems for all vehicles.
+2024-03-14,Mutare,Hot,36.4,53.9,28.1,0.0,Check coolant and tire pressure regularly.
+2024-03-15,Karoi,Thunderstorms,34.0,79.7,13.6,17.7,Monitor GPS tracking for route disruptions.
+2024-03-16,Masvingo,Partly Cloudy,19.4,82.1,12.2,0.6,Minor visibility concerns — monitor local weather alerts.
+2024-03-17,Gweru,Windy,33.3,36.3,23.2,1.5,Secure light cargo and tarpaulins.
+2024-03-18,Chiredzi,Windy,20.5,28.4,38.5,1.5,High profile vehicles should avoid exposed highways.
+2024-03-19,Beitbridge,Windy,20.8,86.8,12.3,1.8,Train drivers on crosswind handling techniques.
+2024-03-20,Harare,Hot,33.8,46.1,44.3,0.2,Schedule heavy traffic routes early morning or evening.
+2024-03-21,Gweru,Partly Cloudy,30.3,37.9,11.1,1.8,Plan detours ahead in case of isolated showers.
+2024-03-22,Bulawayo,Clear,39.3,59.2,21.2,1.7,Ideal conditions — operate full transport schedule.
+2024-03-23,Masvingo,Rain,31.1,58.3,1.0,8.5,Delay low-priority routes in flood-prone areas.
+2024-03-24,Masvingo,Thunderstorms,22.3,42.0,33.2,16.4,Check communication systems for all vehicles.
+2024-03-25,Beitbridge,Thunderstorms,39.8,60.8,14.2,24.6,Suspend passenger routes through open terrain — lightning hazard.
+2024-03-26,Harare,Hot,36.5,67.9,40.1,0.5,Check coolant and tire pressure regularly.
+2024-03-27,Gweru,Clear,18.9,31.9,19.9,1.3,Optimal visibility for long-distance haulage.
+2024-03-28,Gweru,Thunderstorms,19.1,38.3,16.8,17.2,Monitor GPS tracking for route disruptions.
+2024-03-29,Chiredzi,Clear,24.4,45.6,42.3,0.4,Optimal visibility for long-distance haulage.
+2024-03-30,Chiredzi,Windy,21.4,54.0,1.8,0.7,High profile vehicles should avoid exposed highways.
+2024-03-31,Chiredzi,Windy,22.5,88.0,5.3,0.7,Train drivers on crosswind handling techniques.
+2024-04-01,Chiredzi,Rain,18.5,30.6,35.5,15.9,Increase braking distance — roads may be slippery.
+2024-04-02,Beitbridge,Clear,27.8,41.6,39.7,0.1,Ideal conditions — operate full transport schedule.
+2024-04-03,Masvingo,Thunderstorms,25.5,70.0,15.3,23.8,Suspend passenger routes through open terrain — lightning hazard.
+2024-04-04,Harare,Rain,41.0,75.5,8.2,11.4,Increase braking distance — roads may be slippery.
+2024-04-05,Kwekwe,Clear,25.7,64.7,30.3,0.2,Encourage daytime deliveries to maximize clear skies.
+2024-04-06,Chiredzi,Rain,38.3,30.4,24.1,15.8,Delay low-priority routes in flood-prone areas.
+2024-04-07,Gweru,Hot,26.6,69.0,43.6,1.6,Check coolant and tire pressure regularly.
+2024-04-08,Harare,Partly Cloudy,30.4,53.7,36.2,1.1,Plan detours ahead in case of isolated showers.
+2024-04-09,Bulawayo,Windy,28.2,28.4,39.5,1.2,Train drivers on crosswind handling techniques.
+2024-04-10,Chiredzi,Partly Cloudy,32.9,50.1,31.6,0.3,Ensure headlights and signals are functioning for all routes.
+2024-04-11,Beitbridge,Partly Cloudy,38.6,64.4,20.1,1.8,Plan detours ahead in case of isolated showers.
+2024-04-12,Karoi,Partly Cloudy,31.9,68.6,35.3,0.6,Minor visibility concerns — monitor local weather alerts.
+2024-04-13,Hwange,Hot,34.3,42.1,33.2,0.4,Avoid overheating — inspect engine components before departure.
+2024-04-14,Kwekwe,Partly Cloudy,20.7,59.4,19.4,0.1,Plan detours ahead in case of isolated showers.
+2024-04-15,Chiredzi,Partly Cloudy,34.8,53.9,25.9,0.6,Ensure headlights and signals are functioning for all routes.
+2024-04-16,Beitbridge,Hot,38.1,86.8,13.1,1.3,Schedule heavy traffic routes early morning or evening.
+2024-04-17,Kwekwe,Thunderstorms,33.9,80.8,40.3,4.2,Monitor GPS tracking for route disruptions.
+2024-04-18,Harare,Windy,28.3,37.2,21.4,1.4,Train drivers on crosswind handling techniques.
+2024-04-19,Bulawayo,Partly Cloudy,22.5,69.9,39.4,1.7,Ensure headlights and signals are functioning for all routes.
+2024-04-20,Masvingo,Partly Cloudy,27.8,87.7,3.8,1.9,Plan detours ahead in case of isolated showers.
+2024-04-21,Gweru,Rain,21.1,56.6,36.8,13.8,Delay low-priority routes in flood-prone areas.
+2024-04-22,Harare,Thunderstorms,40.8,70.0,35.5,22.8,Check communication systems for all vehicles.
+2024-04-23,Karoi,Clear,31.9,38.9,29.5,0.8,Encourage daytime deliveries to maximize clear skies.
+2024-04-24,Gweru,Clear,30.3,75.4,16.7,1.8,Ideal conditions — operate full transport schedule.
+2024-04-25,Beitbridge,Hot,38.5,40.3,35.1,0.2,Schedule heavy traffic routes early morning or evening.
+2024-04-26,Mutare,Rain,40.8,60.8,28.6,16.9,Increase braking distance — roads may be slippery.
+2024-04-27,Mutare,Partly Cloudy,38.4,29.6,32.6,1.3,Ensure headlights and signals are functioning for all routes.
+2024-04-28,Bulawayo,Partly Cloudy,23.2,78.7,4.7,1.6,Plan detours ahead in case of isolated showers.
+2024-04-29,Gweru,Windy,30.6,38.8,1.2,0.1,Secure light cargo and tarpaulins.
+2024-04-30,Chiredzi,Windy,41.2,62.8,27.1,0.2,Secure light cargo and tarpaulins.
+2024-05-01,Hwange,Rain,40.4,85.5,5.4,18.9,Delay low-priority routes in flood-prone areas.
+2024-05-02,Karoi,Rain,34.1,32.7,36.2,15.1,Check wiper and tire conditions before dispatch.
+2024-05-03,Mutare,Clear,39.4,89.7,3.0,0.8,Encourage daytime deliveries to maximize clear skies.
+2024-05-04,Gweru,Clear,27.1,74.3,21.1,0.6,Encourage daytime deliveries to maximize clear skies.
+2024-05-05,Harare,Partly Cloudy,28.2,30.2,13.7,0.5,Ensure headlights and signals are functioning for all routes.
+2024-05-06,Masvingo,Windy,37.9,80.1,16.9,1.9,Secure light cargo and tarpaulins.
+2024-05-07,Chiredzi,Hot,40.0,71.6,15.9,0.7,Check coolant and tire pressure regularly.
+2024-05-08,Mutare,Clear,24.1,50.1,42.3,0.6,Optimal visibility for long-distance haulage.
+2024-05-09,Chiredzi,Partly Cloudy,29.2,74.3,37.5,0.5,Minor visibility concerns — monitor local weather alerts.
+2024-05-10,Harare,Windy,36.3,31.5,12.5,1.9,Train drivers on crosswind handling techniques.
+2024-05-11,Hwange,Hot,21.2,72.2,0.5,0.7,Schedule heavy traffic routes early morning or evening.
+2024-05-12,Bulawayo,Thunderstorms,40.0,37.7,37.8,6.5,Check communication systems for all vehicles.
+2024-05-13,Karoi,Windy,39.6,78.9,38.3,1.4,Train drivers on crosswind handling techniques.
+2024-05-14,Bulawayo,Partly Cloudy,29.6,41.6,6.6,1.7,Plan detours ahead in case of isolated showers.
+2024-05-15,Karoi,Thunderstorms,36.0,60.8,11.5,23.6,Monitor GPS tracking for route disruptions.
+2024-05-16,Harare,Hot,32.8,51.7,3.4,1.7,Avoid overheating — inspect engine components before departure.
+2024-05-17,Mutare,Thunderstorms,31.3,75.2,16.6,15.5,Suspend passenger routes through open terrain — lightning hazard.
+2024-05-18,Bulawayo,Clear,23.1,39.6,19.2,1.5,Optimal visibility for long-distance haulage.
+2024-05-19,Beitbridge,Rain,27.6,62.0,1.3,1.0,Increase braking distance — roads may be slippery.
+2024-05-20,Harare,Windy,35.0,46.4,29.9,1.0,High profile vehicles should avoid exposed highways.
+2024-05-21,Beitbridge,Clear,27.3,76.5,34.5,0.9,Optimal visibility for long-distance haulage.
+2024-05-22,Karoi,Hot,38.7,70.9,6.2,0.1,Check coolant and tire pressure regularly.
+2024-05-23,Bulawayo,Thunderstorms,18.4,62.5,2.2,19.6,Check communication systems for all vehicles.
+2024-05-24,Gweru,Thunderstorms,33.6,85.9,9.7,15.4,Check communication systems for all vehicles.
+2024-05-25,Kwekwe,Hot,32.6,76.6,5.8,0.0,Check coolant and tire pressure regularly.
+2024-05-26,Harare,Clear,36.2,40.2,4.9,1.4,Ideal conditions — operate full transport schedule.
+2024-05-27,Karoi,Partly Cloudy,29.7,29.3,32.3,1.6,Minor visibility concerns — monitor local weather alerts.
+2024-05-28,Kwekwe,Hot,19.4,65.1,1.2,1.5,Avoid overheating — inspect engine components before departure.
+2024-05-29,Hwange,Hot,40.2,86.5,5.3,0.3,Avoid overheating — inspect engine components before departure.
+2024-05-30,Harare,Windy,28.8,71.2,38.8,1.4,Train drivers on crosswind handling techniques.
+2024-05-31,Hwange,Windy,18.0,56.1,8.9,1.0,Secure light cargo and tarpaulins.
+2024-06-01,Karoi,Windy,19.7,74.2,34.3,1.2,High profile vehicles should avoid exposed highways.
+2024-06-02,Bulawayo,Rain,40.7,35.0,4.2,16.0,Increase braking distance — roads may be slippery.
+2024-06-03,Karoi,Hot,32.2,45.3,9.6,1.5,Check coolant and tire pressure regularly.
+2024-06-04,Karoi,Thunderstorms,37.3,59.2,43.7,8.4,Suspend passenger routes through open terrain — lightning hazard.
+2024-06-05,Gweru,Windy,29.0,65.1,34.5,0.7,Secure light cargo and tarpaulins.
+2024-06-06,Harare,Clear,41.9,32.2,28.7,0.5,Optimal visibility for long-distance haulage.
+2024-06-07,Hwange,Rain,33.1,51.2,41.8,23.1,Check wiper and tire conditions before dispatch.
+2024-06-08,Gweru,Clear,26.0,73.8,38.9,0.1,Optimal visibility for long-distance haulage.
+2024-06-09,Bulawayo,Windy,23.8,58.0,42.3,1.2,High profile vehicles should avoid exposed highways.
+2024-06-10,Chiredzi,Rain,37.0,43.1,34.6,17.6,Increase braking distance — roads may be slippery.
+2024-06-11,Beitbridge,Windy,29.8,28.0,3.0,2.0,High profile vehicles should avoid exposed highways.
+2024-06-12,Beitbridge,Windy,39.0,80.1,31.2,0.8,Train drivers on crosswind handling techniques.
+2024-06-13,Gweru,Partly Cloudy,34.2,78.8,2.9,0.8,Minor visibility concerns — monitor local weather alerts.
+2024-06-14,Beitbridge,Hot,31.4,27.2,8.5,0.5,Schedule heavy traffic routes early morning or evening.
+2024-06-15,Mutare,Clear,34.7,63.6,0.6,0.8,Encourage daytime deliveries to maximize clear skies.
+2024-06-16,Beitbridge,Rain,37.4,51.1,44.5,2.5,Increase braking distance — roads may be slippery.
+2024-06-17,Kwekwe,Clear,21.9,63.4,37.9,1.2,Ideal conditions — operate full transport schedule.
+2024-06-18,Bulawayo,Clear,36.0,33.4,28.7,0.6,Ideal conditions — operate full transport schedule.
+2024-06-19,Masvingo,Hot,21.9,79.6,13.6,0.1,Schedule heavy traffic routes early morning or evening.
+2024-06-20,Hwange,Thunderstorms,38.7,45.2,30.0,21.6,Check communication systems for all vehicles.
+2024-06-21,Gweru,Rain,26.9,46.5,6.5,8.5,Increase braking distance — roads may be slippery.
+2024-06-22,Kwekwe,Clear,21.5,72.0,36.8,0.4,Optimal visibility for long-distance haulage.
+2024-06-23,Bulawayo,Windy,27.4,75.5,39.8,0.7,Secure light cargo and tarpaulins.
+2024-06-24,Kwekwe,Thunderstorms,37.4,85.9,3.5,3.4,Check communication systems for all vehicles.
+2024-06-25,Hwange,Windy,32.7,25.0,25.6,0.5,Train drivers on crosswind handling techniques.
+2024-06-26,Masvingo,Windy,33.4,61.4,42.9,1.8,High profile vehicles should avoid exposed highways.
+2024-06-27,Bulawayo,Rain,33.1,63.6,10.8,12.9,Check wiper and tire conditions before dispatch.
+2024-06-28,Kwekwe,Rain,29.1,65.5,24.7,10.5,Check wiper and tire conditions before dispatch.
+2024-06-29,Masvingo,Windy,20.8,82.4,21.8,0.2,High profile vehicles should avoid exposed highways.
+2024-06-30,Chiredzi,Clear,41.0,68.5,1.0,0.4,Optimal visibility for long-distance haulage.
+2024-07-01,Mutare,Hot,29.5,84.2,2.2,1.7,Check coolant and tire pressure regularly.
+2024-07-02,Chiredzi,Windy,35.8,27.9,24.0,0.0,Train drivers on crosswind handling techniques.
+2024-07-03,Beitbridge,Thunderstorms,40.7,40.2,28.6,13.6,Check communication systems for all vehicles.
+2024-07-04,Mutare,Clear,40.5,29.4,2.0,0.1,Ideal conditions — operate full transport schedule.
+2024-07-05,Chiredzi,Hot,34.1,43.0,0.3,0.5,Schedule heavy traffic routes early morning or evening.
+2024-07-06,Masvingo,Hot,36.8,82.8,5.7,1.8,Check coolant and tire pressure regularly.
+2024-07-07,Kwekwe,Thunderstorms,19.2,36.9,30.6,9.1,Monitor GPS tracking for route disruptions.
+2024-07-08,Mutare,Windy,40.8,59.3,21.1,0.0,Secure light cargo and tarpaulins.
+2024-07-09,Harare,Rain,22.5,48.1,9.5,17.8,Delay low-priority routes in flood-prone areas.
+2024-07-10,Bulawayo,Windy,40.8,44.5,29.9,0.3,High profile vehicles should avoid exposed highways.
+2024-07-11,Mutare,Hot,28.9,54.8,33.2,1.2,Schedule heavy traffic routes early morning or evening.
+2024-07-12,Chiredzi,Rain,41.4,59.5,20.3,21.4,Delay low-priority routes in flood-prone areas.
+2024-07-13,Kwekwe,Hot,30.9,38.1,34.1,0.6,Avoid overheating — inspect engine components before departure.
+2024-07-14,Chiredzi,Windy,39.2,88.7,0.8,1.6,Secure light cargo and tarpaulins.
+2024-07-15,Kwekwe,Rain,22.7,28.6,37.9,14.0,Increase braking distance — roads may be slippery.
+2024-07-16,Karoi,Hot,36.2,36.2,40.4,1.2,Avoid overheating — inspect engine components before departure.
+2024-07-17,Chiredzi,Thunderstorms,24.4,62.8,7.2,22.8,Suspend passenger routes through open terrain — lightning hazard.
+2024-07-18,Chiredzi,Thunderstorms,38.1,38.1,1.3,18.8,Monitor GPS tracking for route disruptions.
+2024-07-19,Gweru,Windy,25.6,46.7,4.8,0.1,Train drivers on crosswind handling techniques.
+2024-07-20,Gweru,Windy,30.8,41.0,26.7,1.4,Train drivers on crosswind handling techniques.
+2024-07-21,Beitbridge,Windy,30.1,39.7,21.8,1.8,High profile vehicles should avoid exposed highways.
+2024-07-22,Beitbridge,Thunderstorms,32.1,76.9,6.7,3.5,Check communication systems for all vehicles.
+2024-07-23,Bulawayo,Clear,40.2,80.9,33.0,0.6,Optimal visibility for long-distance haulage.
+2024-07-24,Harare,Windy,22.4,69.8,44.4,1.9,Secure light cargo and tarpaulins.
+2024-07-25,Gweru,Partly Cloudy,20.0,87.5,43.7,0.4,Minor visibility concerns — monitor local weather alerts.
+2024-07-26,Chiredzi,Rain,28.4,37.8,42.9,20.3,Delay low-priority routes in flood-prone areas.
+2024-07-27,Karoi,Clear,27.1,36.9,27.3,1.2,Ideal conditions — operate full transport schedule.
+2024-07-28,Harare,Hot,29.6,53.8,23.1,1.0,Avoid overheating — inspect engine components before departure.
+2024-07-29,Mutare,Thunderstorms,27.1,36.1,28.7,5.8,Suspend passenger routes through open terrain — lightning hazard.
+2024-07-30,Mutare,Thunderstorms,29.9,65.8,17.2,11.0,Monitor GPS tracking for route disruptions.
+2024-07-31,Bulawayo,Clear,33.4,36.8,42.9,1.6,Optimal visibility for long-distance haulage.
+2024-08-01,Harare,Partly Cloudy,20.5,65.4,1.0,1.6,Minor visibility concerns — monitor local weather alerts.
+2024-08-02,Hwange,Partly Cloudy,22.2,86.0,1.2,1.0,Minor visibility concerns — monitor local weather alerts.
+2024-08-03,Gweru,Thunderstorms,39.0,60.1,2.9,15.0,Monitor GPS tracking for route disruptions.
+2024-08-04,Karoi,Partly Cloudy,33.5,86.0,14.4,0.5,Plan detours ahead in case of isolated showers.
+2024-08-05,Gweru,Partly Cloudy,40.0,62.0,22.5,0.9,Ensure headlights and signals are functioning for all routes.
+2024-08-06,Bulawayo,Hot,28.7,59.9,41.8,0.3,Check coolant and tire pressure regularly.
+2024-08-07,Karoi,Thunderstorms,32.4,85.3,34.7,10.1,Check communication systems for all vehicles.
+2024-08-08,Harare,Clear,38.3,40.1,29.2,0.2,Encourage daytime deliveries to maximize clear skies.
+2024-08-09,Beitbridge,Thunderstorms,41.9,88.6,29.5,18.5,Check communication systems for all vehicles.
+2024-08-10,Gweru,Thunderstorms,33.3,53.3,3.4,15.7,Suspend passenger routes through open terrain — lightning hazard.
+2024-08-11,Gweru,Rain,35.9,51.2,41.5,23.7,Check wiper and tire conditions before dispatch.
+2024-08-12,Mutare,Windy,38.5,50.2,29.3,1.5,Train drivers on crosswind handling techniques.
+2024-08-13,Masvingo,Rain,37.6,84.3,23.0,23.3,Increase braking distance — roads may be slippery.
+2024-08-14,Hwange,Rain,36.5,67.0,11.0,22.6,Increase braking distance — roads may be slippery.
+2024-08-15,Harare,Partly Cloudy,24.1,37.4,21.0,0.4,Plan detours ahead in case of isolated showers.
+2024-08-16,Karoi,Rain,27.2,27.4,36.0,14.9,Delay low-priority routes in flood-prone areas.
+2024-08-17,Gweru,Thunderstorms,37.9,70.2,20.3,3.6,Monitor GPS tracking for route disruptions.
+2024-08-18,Mutare,Windy,34.9,65.8,29.1,1.2,High profile vehicles should avoid exposed highways.
+2024-08-19,Masvingo,Clear,38.8,62.8,36.9,1.4,Encourage daytime deliveries to maximize clear skies.
+2024-08-20,Masvingo,Rain,25.0,54.7,34.2,5.9,Check wiper and tire conditions before dispatch.
+2024-08-21,Harare,Thunderstorms,20.1,85.2,29.7,7.7,Check communication systems for all vehicles.
+2024-08-22,Kwekwe,Rain,41.3,65.2,43.0,8.1,Check wiper and tire conditions before dispatch.
+2024-08-23,Chiredzi,Rain,40.3,73.6,9.8,10.8,Check wiper and tire conditions before dispatch.
+2024-08-24,Mutare,Rain,41.8,44.2,31.5,23.9,Increase braking distance — roads may be slippery.
+2024-08-25,Karoi,Hot,37.4,69.8,25.5,1.1,Schedule heavy traffic routes early morning or evening.
+2024-08-26,Masvingo,Windy,19.3,37.4,41.9,0.2,Secure light cargo and tarpaulins.
+2024-08-27,Gweru,Rain,35.2,63.7,38.3,23.4,Delay low-priority routes in flood-prone areas.
+2024-08-28,Gweru,Hot,27.0,76.3,7.6,0.7,Avoid overheating — inspect engine components before departure.
+2024-08-29,Hwange,Thunderstorms,23.5,66.6,15.7,5.1,Check communication systems for all vehicles.
+2024-08-30,Harare,Clear,23.0,40.0,44.6,0.4,Encourage daytime deliveries to maximize clear skies.
+2024-08-31,Hwange,Partly Cloudy,40.2,84.7,36.2,2.0,Plan detours ahead in case of isolated showers.
+2024-09-01,Gweru,Thunderstorms,23.4,77.0,42.5,23.0,Suspend passenger routes through open terrain — lightning hazard.
+2024-09-02,Gweru,Partly Cloudy,25.7,89.0,30.4,0.2,Ensure headlights and signals are functioning for all routes.
+2024-09-03,Mutare,Rain,20.6,30.8,4.4,22.5,Increase braking distance — roads may be slippery.
+2024-09-04,Beitbridge,Thunderstorms,27.7,72.2,41.3,21.9,Suspend passenger routes through open terrain — lightning hazard.
+2024-09-05,Beitbridge,Rain,35.3,88.4,1.5,10.0,Delay low-priority routes in flood-prone areas.
+2024-09-06,Harare,Rain,20.8,60.9,18.8,9.1,Delay low-priority routes in flood-prone areas.
+2024-09-07,Gweru,Clear,33.5,72.0,34.7,1.6,Optimal visibility for long-distance haulage.
+2024-09-08,Mutare,Windy,36.0,83.7,41.5,0.5,Secure light cargo and tarpaulins.
+2024-09-09,Karoi,Hot,39.7,50.4,44.4,0.9,Check coolant and tire pressure regularly.
+2024-09-10,Beitbridge,Thunderstorms,26.5,68.9,29.3,24.1,Monitor GPS tracking for route disruptions.
+2024-09-11,Chiredzi,Clear,30.2,72.5,0.7,1.3,Optimal visibility for long-distance haulage.
+2024-09-12,Karoi,Partly Cloudy,22.7,89.0,34.1,1.3,Ensure headlights and signals are functioning for all routes.
+2024-09-13,Chiredzi,Windy,22.9,47.4,15.0,1.5,Secure light cargo and tarpaulins.
+2024-09-14,Mutare,Rain,37.4,41.5,22.0,5.8,Delay low-priority routes in flood-prone areas.
+2024-09-15,Kwekwe,Hot,34.7,54.2,43.8,1.6,Avoid overheating — inspect engine components before departure.
+2024-09-16,Harare,Windy,29.1,70.5,35.3,0.8,High profile vehicles should avoid exposed highways.
+2024-09-17,Mutare,Hot,38.5,52.5,42.5,1.2,Avoid overheating — inspect engine components before departure.
+2024-09-18,Beitbridge,Windy,26.9,38.9,20.9,0.5,Secure light cargo and tarpaulins.
+2024-09-19,Masvingo,Thunderstorms,28.5,57.0,30.2,7.4,Monitor GPS tracking for route disruptions.
+2024-09-20,Karoi,Clear,34.4,32.3,31.7,1.6,Optimal visibility for long-distance haulage.
+2024-09-21,Karoi,Thunderstorms,27.1,55.1,10.9,18.1,Check communication systems for all vehicles.
+2024-09-22,Bulawayo,Thunderstorms,28.0,41.1,44.3,6.8,Monitor GPS tracking for route disruptions.
+2024-09-23,Kwekwe,Rain,29.7,61.9,2.3,3.6,Delay low-priority routes in flood-prone areas.
+2024-09-24,Chiredzi,Rain,22.1,37.3,16.7,20.9,Increase braking distance — roads may be slippery.
+2024-09-25,Chiredzi,Clear,33.1,78.9,28.7,1.7,Ideal conditions — operate full transport schedule.
+2024-09-26,Masvingo,Thunderstorms,23.2,34.4,29.8,1.1,Check communication systems for all vehicles.

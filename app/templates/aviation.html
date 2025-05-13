@@ -9,66 +9,69 @@
       <p class="text-gray-600 text-lg max-w-3xl">Monitor critical weather conditions affecting air traffic, runway safety, and turbulence using aviation-focused forecasting tools.</p>
     </section>
 
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="space-y-2">
+          {% for category, message in messages %}
+            <div class="px-4 py-2 rounded-lg text-sm {{ 'bg-red-100 text-red-800' if 'error' in category else 'bg-emerald-100 text-emerald-800' }}">
+              {{ message }}
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <form method="POST" action="{{ url_for('forecast.aviation') }}" class="mb-10 space-x-3">
+        <input type="text" name="city" placeholder="Enter City" required class="border px-3 py-2 rounded">
+        <input type="number" name="days" min="1" max="14" value="2" required class="border px-3 py-2 rounded w-20">
+        <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Get Forecast</button>
+    </form>
+
+    {% if city != "" %}
     <!-- Metrics -->
     <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
       <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
         <p class="text-sm text-gray-500">🛫 Wind Shear</p>
-        <h2 class="text-2xl font-bold">Moderate</h2>
-        <p class="text-xs text-gray-400 mt-1">Risk of instability during take-off and landing</p>
+        <h2 class="text-2xl font-bold">{{ first_day.wind_kph }}</h2>
       </div>
       <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
-        <p class="text-sm text-gray-500">☁️ Ceiling</p>
-        <h2 class="text-2xl font-bold">1500 ft</h2>
-        <p class="text-xs text-gray-400 mt-1">Low visibility for smaller aircraft</p>
+        <p class="text-sm text-gray-500">☁️ Condition</p>
+        <h2 class="text-2xl font-bold">{{ first_day.condition }}</h2>
       </div>
       <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
         <p class="text-sm text-gray-500">🌩️ Storm Alert</p>
-        <h2 class="text-2xl font-bold">Yes</h2>
-        <p class="text-xs text-gray-400 mt-1">High chance of delays and reroutes</p>
+        <h2 class="text-2xl font-bold">{{ first_day.chance_of_rain }}</h2>
       </div>
       <div class="bg-white border-l-4 border-blue-500 p-6 rounded-xl shadow-md">
         <p class="text-sm text-gray-500">📡 Visibility</p>
-        <h2 class="text-2xl font-bold">3 km</h2>
-        <p class="text-xs text-gray-400 mt-1">Below optimal for final approach</p>
+        <h2 class="text-2xl font-bold">{{ first_day.vis_km }} km</h2>
       </div>
     </section>
 
     <!-- Forecast Table -->
     <section>
-      <h3 class="text-xl font-semibold mb-4">📅 3-Day Aviation Forecast</h3>
+      <h3 class="text-xl font-semibold mb-4">📅 {{days}}-Day Aviation Forecast</h3>
       <div class="overflow-x-auto">
         <table class="w-full bg-white border border-gray-200 shadow rounded-lg text-sm">
           <thead class="bg-blue-100 text-blue-900">
             <tr>
               <th class="px-4 py-3 text-left">Date</th>
-              <th class="px-4 py-3 text-left">Ceiling</th>
+              <th class="px-4 py-3 text-left">Temperature</th>
               <th class="px-4 py-3 text-left">Wind</th>
               <th class="px-4 py-3 text-left">Visibility</th>
               <th class="px-4 py-3 text-left">Condition</th>
             </tr>
           </thead>
           <tbody class="divide-y divide-gray-100">
-            <tr>
-              <td class="px-4 py-3">24 Apr 2025</td>
-              <td class="px-4 py-3">1200 ft</td>
-              <td class="px-4 py-3">25 km/h</td>
-              <td class="px-4 py-3">3.2 km</td>
-              <td class="px-4 py-3">Showers & Wind Shear</td>
-            </tr>
-            <tr>
-              <td class="px-4 py-3">25 Apr 2025</td>
-              <td class="px-4 py-3">1800 ft</td>
-              <td class="px-4 py-3">20 km/h</td>
-              <td class="px-4 py-3">5.0 km</td>
-              <td class="px-4 py-3">Cloudy</td>
-            </tr>
-            <tr>
-              <td class="px-4 py-3">26 Apr 2025</td>
-              <td class="px-4 py-3">2000 ft</td>
-              <td class="px-4 py-3">18 km/h</td>
-              <td class="px-4 py-3">6.5 km</td>
-              <td class="px-4 py-3">Clearing Skies</td>
-            </tr>
+            {% for day in forecast %}
+              <tr>
+                <td class="px-4 py-2">{{ day.date }}</td>
+                <td class="px-4 py-2">{{ day.temp }}°C</td>
+                <td class="px-4 py-2">{{ day.wind_kph }}</td>
+                <td class="px-4 py-2">{{ day.vis_km }}</td>
+                <td class="px-4 py-2">{{ day.condition }}</td>
+              </tr>
+            {% endfor %}
           </tbody>
         </table>
       </div>
@@ -78,12 +81,11 @@
     <section class="bg-white p-6 rounded-xl shadow-md">
       <h4 class="text-xl font-semibold mb-3">🧠 Aviation Operational Insights</h4>
       <ul class="list-disc list-inside space-y-2 text-gray-700">
-        <li><strong>Pre-flight Checks:</strong> Ensure updated METARs are shared with all pilots pre-departure.</li>
-        <li><strong>Landing Protocol:</strong> Plan alternate landing paths for storm-prone hours.</li>
-        <li><strong>Fuel Planning:</strong> Adjust fuel loads for potential reroutes or delays.</li>
-        <li><strong>Low Visibility:</strong> Use ILS landing systems for all flights arriving during dusk hours.</li>
+        <li><strong>Forecast Tip:</strong>{{tip}}</li>
       </ul>
     </section>
+
+    {% endif %}
 
   </main>
 

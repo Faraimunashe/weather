@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="max-w-7xl mx-auto px-6 py-12 space-y-14">
+  <!-- Page Header -->
+  <section>
+    <h1 class="text-4xl font-extrabold text-gray-800 mb-2">🗣️ User Feedback & Testimonials</h1>
+    <p class="text-gray-600 text-lg max-w-3xl">Hear what our users are saying about the Sector-Based Weather Forecasting System.</p>
+  </section>
+
+  <!-- Feedback Grid -->
+  <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {% set feedbacks = [
+      {'name': 'Tawanda Moyo', 'message': 'This platform has completely changed how we prepare for the planting season. Excellent predictions and very easy to use!', 'role': 'Farmer - Mhondoro'},
+      {'name': 'Rutendo Chikafu', 'message': 'As a pilot, I now rely on this dashboard before every flight. Visibility and wind data are spot on.', 'role': 'Pilot - Air Zimbabwe'},
+      {'name': 'Simba Nyamadzawo', 'message': 'Transport logistics have become so much safer for us. We now reroute based on real-time data.', 'role': 'Fleet Manager - Harare'},
+      {'name': 'Nyasha Dzvukamanja', 'message': 'The mining section helps us reduce downtime during rainy days. Great insights.', 'role': 'Mine Supervisor - Zvishavane'},
+      {'name': 'Chenai Maposa', 'message': 'I’m impressed by the rainfall predictions. Saved my crops from potential floods.', 'role': 'Farmer - Mutoko'},
+      {'name': 'Takudzwa Bhasera', 'message': 'Love the clean interface and accurate updates. Looking forward to more sectors!', 'role': 'Weather Analyst - MSD'}
+    ] %}
+    {% for item in feedbacks %}
+    <div class="bg-white p-6 rounded-xl shadow-lg border-l-4 border-blue-500 space-y-3 hover:scale-105 transition-transform duration-300">
+      <p class="text-gray-700 text-sm italic">“{{ item.message }}”</p>
+      <div>
+        <p class="font-semibold text-gray-800">{{ item.name }}</p>
+        <p class="text-sm text-gray-500">{{ item.role }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+
+  <!-- Feedback Form -->
+  <section class="bg-white p-8 rounded-2xl shadow-xl max-w-4xl mx-auto">
+    <h2 class="text-2xl font-bold text-gray-800 mb-4">💬 Share Your Experience</h2>
+    <form method="POST" action="{{ url_for('feedback.feedback') }}" class="space-y-6">
+      <div>
+        <label for="name" class="block text-sm font-medium text-gray-700">Your Name</label>
+        <input type="text" id="name" name="name" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+      </div>
+
+      <div>
+        <label for="role" class="block text-sm font-medium text-gray-700">Your Role / Sector</label>
+        <input type="text" id="role" name="role" required placeholder="e.g. Farmer - Chinhoyi" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+      </div>
+
+      <div>
+        <label for="message" class="block text-sm font-medium text-gray-700">Your Feedback</label>
+        <textarea id="message" name="message" rows="4" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"></textarea>
+      </div>
+
+      <div class="text-right">
+        <button type="submit" class="inline-block px-6 py-2 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 transition">Submit Feedback</button>
+      </div>
+    </form>
+  </section>
+</div>
+{% endblock %}

@@ -1,0 +1,1001 @@
+Date,Location,Weather_Condition,Temperature_C,Humidity_%,Soil_Moisture_%,Rainfall_mm,Agricultural_Tip
+2022-01-01,Matabeleland South,Clear,35.5,40.6,13.7,0.6,Good conditions for pesticide application in early morning.
+2022-01-02,Masvingo,Hot,20.2,59.4,24.7,0.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-01-03,Mashonaland Central,Hot,29.8,51.6,7.4,1.3,Use mulch to retain soil moisture.
+2022-01-04,Manicaland,Hot,22.5,79.9,5.4,0.7,Consider heat-resistant crop varieties.
+2022-01-05,Bulawayo,Clear,19.6,89.0,36.5,0.2,Good conditions for pesticide application in early morning.
+2022-01-06,Masvingo,Clear,35.9,32.7,11.0,0.6,Good conditions for pesticide application in early morning.
+2022-01-07,Mashonaland West,Clear,21.3,78.1,18.1,0.8,Monitor soil moisture — irrigation may be needed.
+2022-01-08,Mashonaland Central,Partly Cloudy,30.8,55.4,44.7,0.1,Monitor humidity for fungal risk.
+2022-01-09,Manicaland,Windy,29.9,45.3,5.4,1.6,Apply pesticides in early morning or after rain to avoid drift.
+2022-01-10,Mashonaland Central,Windy,35.9,49.1,18.6,0.2,Secure greenhouse structures and materials.
+2022-01-11,Mashonaland Central,Thunderstorms,24.7,73.9,12.7,0.9,Check crop damage after storm and take remedial action.
+2022-01-12,Bulawayo,Partly Cloudy,32.5,31.6,39.0,1.7,Light irrigation may help with seed germination.
+2022-01-13,Masvingo,Thunderstorms,32.0,54.0,24.0,17.0,Ensure water drainage systems are functioning.
+2022-01-14,Matabeleland North,Windy,20.0,90.3,25.6,1.3,Avoid spraying chemicals — high drift risk.
+2022-01-15,Mashonaland West,Windy,33.0,35.4,43.0,0.1,Secure greenhouse structures and materials.
+2022-01-16,Harare,Windy,25.6,51.3,16.2,1.3,Avoid spraying chemicals — high drift risk.
+2022-01-17,Bulawayo,Thunderstorms,21.3,57.8,17.8,4.9,Check crop damage after storm and take remedial action.
+2022-01-18,Mashonaland West,Hot,26.7,88.6,21.2,1.5,Consider heat-resistant crop varieties.
+2022-01-19,Bulawayo,Partly Cloudy,20.3,78.9,37.3,1.6,Light irrigation may help with seed germination.
+2022-01-20,Harare,Windy,18.1,39.3,5.6,1.2,Apply pesticides in early morning or after rain to avoid drift.
+2022-01-21,Midlands,Clear,30.0,54.1,12.6,0.3,Monitor soil moisture — irrigation may be needed.
+2022-01-22,Mashonaland Central,Rain,35.1,30.5,6.7,18.6,Avoid soil compaction by reducing heavy machinery use.
+2022-01-23,Matabeleland North,Clear,22.5,90.4,24.6,1.7,Ideal for field work — consider planting or weeding today.
+2022-01-24,Harare,Windy,33.3,40.6,43.1,1.3,Avoid spraying chemicals — high drift risk.
+2022-01-25,Harare,Partly Cloudy,30.2,42.4,38.8,1.6,Light irrigation may help with seed germination.
+2022-01-26,Matabeleland North,Clear,25.1,82.5,26.4,0.2,Monitor soil moisture — irrigation may be needed.
+2022-01-27,Bulawayo,Hot,22.1,82.1,35.8,0.2,Use mulch to retain soil moisture.
+2022-01-28,Harare,Hot,35.2,67.5,8.8,1.4,Consider heat-resistant crop varieties.
+2022-01-29,Harare,Thunderstorms,19.2,63.7,29.7,14.0,Ensure water drainage systems are functioning.
+2022-01-30,Mashonaland Central,Partly Cloudy,25.3,66.5,27.2,1.3,Monitor humidity for fungal risk.
+2022-01-31,Manicaland,Thunderstorms,27.9,71.7,9.8,5.4,Check crop damage after storm and take remedial action.
+2022-02-01,Mashonaland East,Hot,21.1,42.2,28.1,0.8,Consider heat-resistant crop varieties.
+2022-02-02,Bulawayo,Windy,26.9,81.7,22.8,1.7,Avoid spraying chemicals — high drift risk.
+2022-02-03,Masvingo,Hot,28.6,35.3,20.4,0.9,Consider heat-resistant crop varieties.
+2022-02-04,Matabeleland North,Thunderstorms,37.1,68.4,18.0,2.2,Postpone field activities due to lightning risk.
+2022-02-05,Matabeleland South,Hot,27.1,83.6,38.2,0.6,Use mulch to retain soil moisture.
+2022-02-06,Midlands,Hot,37.6,72.2,32.8,0.1,Use mulch to retain soil moisture.
+2022-02-07,Harare,Rain,30.4,55.8,23.2,5.5,Delay pesticide application until post-rain.
+2022-02-08,Harare,Clear,27.4,82.4,33.2,0.0,Ideal for field work — consider planting or weeding today.
+2022-02-09,Mashonaland West,Rain,23.0,53.5,15.7,18.3,Avoid soil compaction by reducing heavy machinery use.
+2022-02-10,Mashonaland West,Partly Cloudy,34.6,47.2,29.8,0.0,Light irrigation may help with seed germination.
+2022-02-11,Matabeleland South,Hot,35.6,39.1,6.2,1.7,Use mulch to retain soil moisture.
+2022-02-12,Midlands,Windy,24.7,68.2,25.8,0.6,Apply pesticides in early morning or after rain to avoid drift.
+2022-02-13,Bulawayo,Thunderstorms,23.9,48.6,32.2,4.8,Ensure water drainage systems are functioning.
+2022-02-14,Matabeleland North,Clear,32.9,54.1,23.7,1.4,Good conditions for pesticide application in early morning.
+2022-02-15,Mashonaland Central,Hot,30.8,93.4,22.1,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-02-16,Matabeleland North,Windy,22.7,94.0,20.9,1.7,Apply pesticides in early morning or after rain to avoid drift.
+2022-02-17,Midlands,Clear,22.6,93.9,34.6,1.5,Ideal for field work — consider planting or weeding today.
+2022-02-18,Harare,Clear,29.9,35.9,42.0,1.3,Ideal for field work — consider planting or weeding today.
+2022-02-19,Midlands,Clear,19.0,56.6,40.8,1.0,Ideal for field work — consider planting or weeding today.
+2022-02-20,Mashonaland West,Rain,33.8,81.0,7.1,11.7,Spread fertilizer 24 hours before expected rainfall.
+2022-02-21,Midlands,Partly Cloudy,23.6,33.5,11.2,1.1,Suitable for planting drought-resistant crops.
+2022-02-22,Mashonaland West,Rain,23.7,75.8,13.4,7.2,Avoid soil compaction by reducing heavy machinery use.
+2022-02-23,Harare,Hot,27.6,61.1,31.7,0.2,Consider heat-resistant crop varieties.
+2022-02-24,Masvingo,Thunderstorms,22.0,57.0,19.8,5.2,Check crop damage after storm and take remedial action.
+2022-02-25,Harare,Hot,37.8,52.4,8.4,0.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-02-26,Mashonaland Central,Rain,31.2,84.6,37.5,12.9,Spread fertilizer 24 hours before expected rainfall.
+2022-02-27,Matabeleland South,Clear,35.5,31.7,11.2,0.2,Ideal for field work — consider planting or weeding today.
+2022-02-28,Harare,Hot,19.8,53.7,22.6,0.7,Consider heat-resistant crop varieties.
+2022-03-01,Bulawayo,Partly Cloudy,21.9,64.5,18.3,1.3,Monitor humidity for fungal risk.
+2022-03-02,Matabeleland South,Clear,22.4,32.8,8.5,1.6,Ideal for field work — consider planting or weeding today.
+2022-03-03,Bulawayo,Thunderstorms,21.3,30.8,26.0,13.1,Postpone field activities due to lightning risk.
+2022-03-04,Harare,Hot,19.1,88.8,27.2,1.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-03-05,Mashonaland East,Windy,34.5,33.0,35.1,1.6,Apply pesticides in early morning or after rain to avoid drift.
+2022-03-06,Bulawayo,Hot,36.0,39.4,36.7,0.7,Consider heat-resistant crop varieties.
+2022-03-07,Manicaland,Partly Cloudy,35.7,36.4,28.4,0.3,Monitor humidity for fungal risk.
+2022-03-08,Mashonaland Central,Rain,18.4,57.6,36.4,6.8,Delay pesticide application until post-rain.
+2022-03-09,Manicaland,Clear,33.4,61.8,22.1,1.2,Ideal for field work — consider planting or weeding today.
+2022-03-10,Mashonaland Central,Rain,25.3,91.3,13.6,0.5,Avoid soil compaction by reducing heavy machinery use.
+2022-03-11,Bulawayo,Partly Cloudy,24.4,72.1,13.5,0.8,Monitor humidity for fungal risk.
+2022-03-12,Harare,Rain,27.7,84.3,39.8,13.4,Avoid soil compaction by reducing heavy machinery use.
+2022-03-13,Mashonaland East,Windy,20.8,32.8,31.4,0.9,Avoid spraying chemicals — high drift risk.
+2022-03-14,Matabeleland North,Rain,30.9,67.5,33.4,4.4,Spread fertilizer 24 hours before expected rainfall.
+2022-03-15,Masvingo,Hot,22.0,90.1,32.1,1.8,Use mulch to retain soil moisture.
+2022-03-16,Masvingo,Rain,31.1,67.4,13.7,15.1,Avoid soil compaction by reducing heavy machinery use.
+2022-03-17,Matabeleland South,Rain,37.1,78.4,13.5,17.2,Spread fertilizer 24 hours before expected rainfall.
+2022-03-18,Midlands,Clear,27.8,80.8,40.7,1.3,Good conditions for pesticide application in early morning.
+2022-03-19,Mashonaland West,Partly Cloudy,19.7,73.7,23.8,0.7,Monitor humidity for fungal risk.
+2022-03-20,Matabeleland North,Windy,37.5,60.0,24.4,1.8,Secure greenhouse structures and materials.
+2022-03-21,Matabeleland South,Hot,18.4,87.1,24.7,0.5,Consider heat-resistant crop varieties.
+2022-03-22,Midlands,Windy,20.9,50.8,15.7,1.8,Apply pesticides in early morning or after rain to avoid drift.
+2022-03-23,Masvingo,Thunderstorms,33.9,76.1,34.5,18.1,Ensure water drainage systems are functioning.
+2022-03-24,Harare,Clear,18.3,37.5,8.6,0.6,Good conditions for pesticide application in early morning.
+2022-03-25,Mashonaland East,Rain,28.7,78.6,31.9,15.2,Avoid soil compaction by reducing heavy machinery use.
+2022-03-26,Harare,Partly Cloudy,25.7,59.6,37.8,0.3,Light irrigation may help with seed germination.
+2022-03-27,Mashonaland East,Rain,18.6,69.9,20.8,18.2,Spread fertilizer 24 hours before expected rainfall.
+2022-03-28,Midlands,Hot,32.7,51.7,39.2,0.8,Consider heat-resistant crop varieties.
+2022-03-29,Mashonaland West,Hot,18.1,69.0,34.1,0.4,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-03-30,Harare,Hot,29.3,64.0,12.7,0.7,Use mulch to retain soil moisture.
+2022-03-31,Mashonaland West,Clear,32.5,83.1,25.3,1.8,Ideal for field work — consider planting or weeding today.
+2022-04-01,Manicaland,Rain,24.2,84.6,36.3,19.0,Spread fertilizer 24 hours before expected rainfall.
+2022-04-02,Bulawayo,Thunderstorms,28.6,72.8,24.8,3.6,Check crop damage after storm and take remedial action.
+2022-04-03,Mashonaland Central,Windy,28.3,65.2,38.6,1.6,Secure greenhouse structures and materials.
+2022-04-04,Mashonaland East,Thunderstorms,35.3,55.5,32.8,8.0,Check crop damage after storm and take remedial action.
+2022-04-05,Mashonaland Central,Clear,28.4,32.7,29.0,0.6,Ideal for field work — consider planting or weeding today.
+2022-04-06,Mashonaland Central,Partly Cloudy,27.5,68.2,34.0,0.4,Suitable for planting drought-resistant crops.
+2022-04-07,Mashonaland Central,Thunderstorms,19.2,95.0,7.7,17.0,Check crop damage after storm and take remedial action.
+2022-04-08,Mashonaland Central,Partly Cloudy,35.1,44.7,27.7,1.2,Suitable for planting drought-resistant crops.
+2022-04-09,Matabeleland South,Clear,24.0,67.9,10.3,0.7,Monitor soil moisture — irrigation may be needed.
+2022-04-10,Matabeleland North,Partly Cloudy,32.3,37.7,14.3,0.5,Suitable for planting drought-resistant crops.
+2022-04-11,Mashonaland West,Windy,27.6,89.6,26.1,0.7,Secure greenhouse structures and materials.
+2022-04-12,Mashonaland West,Partly Cloudy,18.9,36.3,9.8,0.9,Monitor humidity for fungal risk.
+2022-04-13,Mashonaland Central,Hot,37.4,67.4,27.4,1.5,Consider heat-resistant crop varieties.
+2022-04-14,Manicaland,Rain,35.2,51.3,40.6,15.9,Avoid soil compaction by reducing heavy machinery use.
+2022-04-15,Mashonaland East,Hot,19.9,41.1,23.9,1.2,Use mulch to retain soil moisture.
+2022-04-16,Masvingo,Partly Cloudy,31.6,66.3,21.7,0.3,Monitor humidity for fungal risk.
+2022-04-17,Matabeleland South,Partly Cloudy,32.4,72.5,41.8,0.9,Suitable for planting drought-resistant crops.
+2022-04-18,Masvingo,Hot,28.7,93.8,42.0,0.1,Consider heat-resistant crop varieties.
+2022-04-19,Midlands,Thunderstorms,21.4,37.1,41.7,3.3,Postpone field activities due to lightning risk.
+2022-04-20,Masvingo,Thunderstorms,20.9,74.1,12.1,14.4,Postpone field activities due to lightning risk.
+2022-04-21,Masvingo,Partly Cloudy,31.0,60.1,9.4,0.8,Light irrigation may help with seed germination.
+2022-04-22,Mashonaland Central,Hot,35.0,76.0,34.0,1.8,Consider heat-resistant crop varieties.
+2022-04-23,Matabeleland South,Windy,22.0,75.8,27.3,0.9,Apply pesticides in early morning or after rain to avoid drift.
+2022-04-24,Manicaland,Clear,36.1,42.1,20.7,0.8,Monitor soil moisture — irrigation may be needed.
+2022-04-25,Masvingo,Rain,19.1,35.3,41.7,7.0,Spread fertilizer 24 hours before expected rainfall.
+2022-04-26,Masvingo,Windy,35.6,49.2,24.5,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2022-04-27,Matabeleland North,Partly Cloudy,34.4,40.8,38.1,1.0,Light irrigation may help with seed germination.
+2022-04-28,Mashonaland West,Partly Cloudy,32.8,56.3,43.9,1.7,Monitor humidity for fungal risk.
+2022-04-29,Harare,Windy,27.3,70.4,9.0,1.1,Apply pesticides in early morning or after rain to avoid drift.
+2022-04-30,Matabeleland South,Rain,36.6,77.5,16.1,14.6,Delay pesticide application until post-rain.
+2022-05-01,Matabeleland South,Partly Cloudy,28.3,36.9,39.2,0.7,Suitable for planting drought-resistant crops.
+2022-05-02,Matabeleland South,Clear,21.2,55.5,37.4,1.4,Ideal for field work — consider planting or weeding today.
+2022-05-03,Matabeleland North,Partly Cloudy,30.1,32.3,40.5,0.7,Suitable for planting drought-resistant crops.
+2022-05-04,Mashonaland East,Clear,19.0,67.3,25.2,1.8,Good conditions for pesticide application in early morning.
+2022-05-05,Midlands,Partly Cloudy,18.8,61.6,38.4,0.6,Suitable for planting drought-resistant crops.
+2022-05-06,Masvingo,Hot,20.1,79.0,15.1,0.3,Use mulch to retain soil moisture.
+2022-05-07,Mashonaland Central,Rain,23.3,85.4,39.5,1.3,Delay pesticide application until post-rain.
+2022-05-08,Midlands,Rain,33.0,31.1,9.1,12.6,Avoid soil compaction by reducing heavy machinery use.
+2022-05-09,Matabeleland North,Windy,32.7,58.5,34.5,0.1,Secure greenhouse structures and materials.
+2022-05-10,Mashonaland West,Clear,29.2,46.5,34.5,1.7,Monitor soil moisture — irrigation may be needed.
+2022-05-11,Matabeleland South,Thunderstorms,29.9,51.6,41.0,19.5,Check crop damage after storm and take remedial action.
+2022-05-12,Manicaland,Rain,21.4,78.4,37.1,9.4,Delay pesticide application until post-rain.
+2022-05-13,Manicaland,Rain,37.3,43.6,24.0,3.4,Spread fertilizer 24 hours before expected rainfall.
+2022-05-14,Midlands,Rain,33.1,81.4,27.0,1.8,Spread fertilizer 24 hours before expected rainfall.
+2022-05-15,Mashonaland Central,Hot,21.2,58.7,37.4,1.0,Use mulch to retain soil moisture.
+2022-05-16,Matabeleland North,Rain,30.7,58.7,19.5,11.9,Delay pesticide application until post-rain.
+2022-05-17,Harare,Thunderstorms,22.0,31.5,43.5,19.8,Ensure water drainage systems are functioning.
+2022-05-18,Matabeleland South,Windy,35.1,44.7,12.5,1.1,Avoid spraying chemicals — high drift risk.
+2022-05-19,Manicaland,Partly Cloudy,28.4,30.5,29.6,0.1,Suitable for planting drought-resistant crops.
+2022-05-20,Mashonaland East,Windy,24.8,56.1,35.6,0.9,Secure greenhouse structures and materials.
+2022-05-21,Matabeleland North,Partly Cloudy,19.0,61.6,44.0,0.4,Suitable for planting drought-resistant crops.
+2022-05-22,Harare,Clear,23.8,35.2,35.0,0.4,Monitor soil moisture — irrigation may be needed.
+2022-05-23,Matabeleland North,Clear,22.8,66.8,25.0,1.3,Ideal for field work — consider planting or weeding today.
+2022-05-24,Masvingo,Partly Cloudy,34.3,40.5,13.1,1.4,Monitor humidity for fungal risk.
+2022-05-25,Midlands,Thunderstorms,18.9,45.2,24.1,11.7,Postpone field activities due to lightning risk.
+2022-05-26,Mashonaland Central,Clear,36.7,55.8,35.8,0.8,Monitor soil moisture — irrigation may be needed.
+2022-05-27,Harare,Thunderstorms,22.7,50.4,41.6,7.7,Ensure water drainage systems are functioning.
+2022-05-28,Harare,Clear,21.1,83.8,20.0,1.4,Monitor soil moisture — irrigation may be needed.
+2022-05-29,Mashonaland Central,Windy,30.5,41.4,16.6,0.0,Apply pesticides in early morning or after rain to avoid drift.
+2022-05-30,Mashonaland Central,Clear,29.2,51.9,6.1,0.9,Ideal for field work — consider planting or weeding today.
+2022-05-31,Harare,Windy,19.8,31.8,42.2,0.8,Secure greenhouse structures and materials.
+2022-06-01,Mashonaland Central,Partly Cloudy,36.2,58.7,6.3,0.3,Light irrigation may help with seed germination.
+2022-06-02,Masvingo,Windy,33.5,51.7,8.5,1.6,Apply pesticides in early morning or after rain to avoid drift.
+2022-06-03,Manicaland,Thunderstorms,19.7,64.8,41.3,6.3,Postpone field activities due to lightning risk.
+2022-06-04,Mashonaland Central,Hot,32.3,71.3,29.5,1.1,Consider heat-resistant crop varieties.
+2022-06-05,Harare,Windy,26.4,63.7,28.8,1.1,Avoid spraying chemicals — high drift risk.
+2022-06-06,Mashonaland Central,Partly Cloudy,30.1,90.7,41.3,0.6,Suitable for planting drought-resistant crops.
+2022-06-07,Matabeleland North,Hot,33.1,81.3,10.6,0.8,Consider heat-resistant crop varieties.
+2022-06-08,Mashonaland Central,Windy,22.5,80.3,14.6,1.0,Avoid spraying chemicals — high drift risk.
+2022-06-09,Harare,Clear,26.4,36.6,33.2,1.8,Good conditions for pesticide application in early morning.
+2022-06-10,Masvingo,Windy,22.1,46.2,13.1,1.5,Apply pesticides in early morning or after rain to avoid drift.
+2022-06-11,Mashonaland West,Thunderstorms,24.1,57.3,13.4,10.0,Check crop damage after storm and take remedial action.
+2022-06-12,Matabeleland South,Windy,21.1,90.5,36.5,0.4,Apply pesticides in early morning or after rain to avoid drift.
+2022-06-13,Matabeleland North,Windy,33.2,33.3,20.3,0.8,Avoid spraying chemicals — high drift risk.
+2022-06-14,Masvingo,Hot,37.9,81.2,32.9,0.3,Consider heat-resistant crop varieties.
+2022-06-15,Manicaland,Rain,35.1,54.8,5.2,9.2,Delay pesticide application until post-rain.
+2022-06-16,Mashonaland Central,Thunderstorms,33.0,44.6,39.5,0.3,Ensure water drainage systems are functioning.
+2022-06-17,Matabeleland South,Windy,32.2,57.0,29.6,0.1,Secure greenhouse structures and materials.
+2022-06-18,Harare,Thunderstorms,37.7,46.1,10.5,14.1,Postpone field activities due to lightning risk.
+2022-06-19,Mashonaland Central,Thunderstorms,27.1,85.8,20.4,10.4,Check crop damage after storm and take remedial action.
+2022-06-20,Bulawayo,Partly Cloudy,30.3,90.6,19.9,2.0,Light irrigation may help with seed germination.
+2022-06-21,Masvingo,Partly Cloudy,28.3,41.2,19.5,0.5,Light irrigation may help with seed germination.
+2022-06-22,Matabeleland South,Rain,18.0,88.4,7.2,18.8,Delay pesticide application until post-rain.
+2022-06-23,Mashonaland West,Partly Cloudy,26.6,34.6,35.1,1.7,Light irrigation may help with seed germination.
+2022-06-24,Midlands,Windy,27.0,94.8,35.3,0.5,Apply pesticides in early morning or after rain to avoid drift.
+2022-06-25,Matabeleland North,Thunderstorms,36.4,60.7,6.7,0.3,Check crop damage after storm and take remedial action.
+2022-06-26,Manicaland,Hot,24.4,33.7,26.9,1.4,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-06-27,Mashonaland West,Windy,19.5,71.0,10.3,1.8,Secure greenhouse structures and materials.
+2022-06-28,Midlands,Thunderstorms,35.1,35.0,41.8,9.4,Check crop damage after storm and take remedial action.
+2022-06-29,Mashonaland East,Rain,35.5,38.0,25.3,16.0,Spread fertilizer 24 hours before expected rainfall.
+2022-06-30,Harare,Rain,33.9,33.0,26.4,14.0,Spread fertilizer 24 hours before expected rainfall.
+2022-07-01,Harare,Thunderstorms,29.7,58.9,34.4,10.3,Check crop damage after storm and take remedial action.
+2022-07-02,Bulawayo,Windy,23.2,57.3,26.2,1.7,Apply pesticides in early morning or after rain to avoid drift.
+2022-07-03,Matabeleland North,Clear,23.1,52.4,8.4,1.7,Monitor soil moisture — irrigation may be needed.
+2022-07-04,Matabeleland North,Partly Cloudy,34.6,92.2,6.1,0.5,Monitor humidity for fungal risk.
+2022-07-05,Mashonaland East,Rain,32.5,33.1,32.1,0.4,Delay pesticide application until post-rain.
+2022-07-06,Matabeleland North,Hot,22.0,40.6,27.5,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-07-07,Midlands,Partly Cloudy,33.0,72.7,21.1,0.6,Monitor humidity for fungal risk.
+2022-07-08,Bulawayo,Thunderstorms,30.2,86.4,14.2,11.0,Ensure water drainage systems are functioning.
+2022-07-09,Mashonaland Central,Windy,34.8,53.9,5.5,1.8,Apply pesticides in early morning or after rain to avoid drift.
+2022-07-10,Mashonaland Central,Thunderstorms,37.7,39.5,23.5,1.4,Postpone field activities due to lightning risk.
+2022-07-11,Mashonaland East,Rain,34.5,87.5,14.6,10.1,Delay pesticide application until post-rain.
+2022-07-12,Bulawayo,Hot,30.3,71.3,29.1,1.1,Consider heat-resistant crop varieties.
+2022-07-13,Midlands,Windy,36.9,75.7,26.4,1.9,Secure greenhouse structures and materials.
+2022-07-14,Mashonaland West,Rain,33.9,67.5,38.9,2.0,Spread fertilizer 24 hours before expected rainfall.
+2022-07-15,Mashonaland East,Partly Cloudy,21.8,65.1,37.1,1.8,Suitable for planting drought-resistant crops.
+2022-07-16,Bulawayo,Partly Cloudy,32.5,89.9,28.2,1.9,Light irrigation may help with seed germination.
+2022-07-17,Bulawayo,Clear,22.1,51.9,20.0,0.9,Good conditions for pesticide application in early morning.
+2022-07-18,Harare,Clear,36.1,47.4,37.5,1.4,Ideal for field work — consider planting or weeding today.
+2022-07-19,Harare,Thunderstorms,23.9,47.4,34.5,1.6,Ensure water drainage systems are functioning.
+2022-07-20,Bulawayo,Partly Cloudy,32.3,77.1,10.3,1.9,Monitor humidity for fungal risk.
+2022-07-21,Manicaland,Thunderstorms,34.3,52.9,37.7,2.6,Check crop damage after storm and take remedial action.
+2022-07-22,Harare,Hot,18.2,73.4,32.2,0.5,Consider heat-resistant crop varieties.
+2022-07-23,Masvingo,Clear,21.4,70.2,44.7,0.9,Monitor soil moisture — irrigation may be needed.
+2022-07-24,Midlands,Hot,35.7,43.9,44.0,0.1,Consider heat-resistant crop varieties.
+2022-07-25,Midlands,Rain,33.5,81.4,39.9,19.5,Avoid soil compaction by reducing heavy machinery use.
+2022-07-26,Midlands,Thunderstorms,24.0,83.0,28.2,5.3,Check crop damage after storm and take remedial action.
+2022-07-27,Mashonaland West,Partly Cloudy,22.1,65.0,37.0,0.3,Suitable for planting drought-resistant crops.
+2022-07-28,Mashonaland East,Windy,30.4,74.8,21.1,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2022-07-29,Mashonaland Central,Thunderstorms,37.5,34.1,17.2,1.4,Check crop damage after storm and take remedial action.
+2022-07-30,Matabeleland South,Hot,31.1,77.1,12.7,0.1,Consider heat-resistant crop varieties.
+2022-07-31,Harare,Partly Cloudy,29.3,55.8,19.1,0.4,Monitor humidity for fungal risk.
+2022-08-01,Manicaland,Rain,27.0,77.2,17.4,14.8,Avoid soil compaction by reducing heavy machinery use.
+2022-08-02,Manicaland,Windy,31.1,40.1,44.1,0.9,Secure greenhouse structures and materials.
+2022-08-03,Midlands,Rain,23.2,30.4,9.6,11.2,Delay pesticide application until post-rain.
+2022-08-04,Mashonaland East,Partly Cloudy,20.8,60.9,15.2,0.1,Light irrigation may help with seed germination.
+2022-08-05,Mashonaland Central,Thunderstorms,32.6,60.8,8.6,1.6,Check crop damage after storm and take remedial action.
+2022-08-06,Matabeleland North,Clear,22.3,38.8,15.9,0.1,Monitor soil moisture — irrigation may be needed.
+2022-08-07,Bulawayo,Windy,25.5,73.3,22.5,1.4,Avoid spraying chemicals — high drift risk.
+2022-08-08,Bulawayo,Rain,22.6,33.8,17.0,13.5,Avoid soil compaction by reducing heavy machinery use.
+2022-08-09,Matabeleland South,Clear,36.3,69.4,5.6,0.6,Monitor soil moisture — irrigation may be needed.
+2022-08-10,Mashonaland East,Windy,30.8,62.3,8.1,1.9,Apply pesticides in early morning or after rain to avoid drift.
+2022-08-11,Mashonaland East,Partly Cloudy,34.6,78.0,18.4,0.8,Suitable for planting drought-resistant crops.
+2022-08-12,Matabeleland South,Partly Cloudy,35.3,84.9,24.8,0.8,Suitable for planting drought-resistant crops.
+2022-08-13,Bulawayo,Rain,28.2,76.3,36.8,10.0,Spread fertilizer 24 hours before expected rainfall.
+2022-08-14,Harare,Rain,33.7,62.4,39.0,9.7,Spread fertilizer 24 hours before expected rainfall.
+2022-08-15,Matabeleland North,Rain,27.9,36.9,32.6,17.0,Spread fertilizer 24 hours before expected rainfall.
+2022-08-16,Matabeleland North,Hot,28.6,35.8,43.4,2.0,Consider heat-resistant crop varieties.
+2022-08-17,Mashonaland West,Hot,24.4,53.4,12.3,0.2,Consider heat-resistant crop varieties.
+2022-08-18,Matabeleland South,Windy,28.2,62.7,8.4,1.9,Secure greenhouse structures and materials.
+2022-08-19,Midlands,Clear,27.6,85.9,6.3,0.2,Ideal for field work — consider planting or weeding today.
+2022-08-20,Mashonaland Central,Clear,34.3,93.9,8.0,0.7,Ideal for field work — consider planting or weeding today.
+2022-08-21,Harare,Hot,20.4,41.6,41.5,0.7,Consider heat-resistant crop varieties.
+2022-08-22,Harare,Clear,29.5,69.9,26.8,0.7,Monitor soil moisture — irrigation may be needed.
+2022-08-23,Mashonaland West,Thunderstorms,35.6,73.6,33.5,15.1,Ensure water drainage systems are functioning.
+2022-08-24,Matabeleland South,Windy,29.4,32.5,35.8,0.5,Apply pesticides in early morning or after rain to avoid drift.
+2022-08-25,Mashonaland Central,Partly Cloudy,24.8,36.6,8.0,1.8,Suitable for planting drought-resistant crops.
+2022-08-26,Manicaland,Clear,32.8,55.4,42.8,1.0,Ideal for field work — consider planting or weeding today.
+2022-08-27,Masvingo,Partly Cloudy,37.5,45.5,29.4,0.8,Monitor humidity for fungal risk.
+2022-08-28,Mashonaland East,Hot,34.6,57.4,22.6,0.7,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-08-29,Matabeleland North,Hot,33.2,43.6,21.7,1.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-08-30,Matabeleland North,Windy,37.1,63.4,28.1,0.9,Secure greenhouse structures and materials.
+2022-08-31,Mashonaland Central,Thunderstorms,21.7,63.3,44.6,12.2,Postpone field activities due to lightning risk.
+2022-09-01,Mashonaland Central,Rain,33.7,64.7,8.5,4.9,Spread fertilizer 24 hours before expected rainfall.
+2022-09-02,Mashonaland Central,Thunderstorms,25.0,73.3,20.1,6.2,Ensure water drainage systems are functioning.
+2022-09-03,Mashonaland Central,Windy,23.1,60.0,26.5,1.1,Avoid spraying chemicals — high drift risk.
+2022-09-04,Matabeleland North,Clear,24.3,78.8,36.8,0.0,Good conditions for pesticide application in early morning.
+2022-09-05,Bulawayo,Rain,37.9,67.8,39.7,10.6,Spread fertilizer 24 hours before expected rainfall.
+2022-09-06,Masvingo,Thunderstorms,32.0,79.0,22.5,1.1,Check crop damage after storm and take remedial action.
+2022-09-07,Mashonaland East,Hot,26.9,86.3,42.6,1.8,Use mulch to retain soil moisture.
+2022-09-08,Mashonaland West,Partly Cloudy,23.7,48.5,30.4,0.9,Monitor humidity for fungal risk.
+2022-09-09,Masvingo,Thunderstorms,25.4,61.4,31.6,11.0,Check crop damage after storm and take remedial action.
+2022-09-10,Harare,Rain,32.2,40.2,9.4,1.1,Spread fertilizer 24 hours before expected rainfall.
+2022-09-11,Midlands,Partly Cloudy,30.7,54.6,29.7,0.5,Suitable for planting drought-resistant crops.
+2022-09-12,Midlands,Rain,20.5,55.2,42.5,6.9,Avoid soil compaction by reducing heavy machinery use.
+2022-09-13,Masvingo,Windy,21.2,66.4,14.7,1.4,Avoid spraying chemicals — high drift risk.
+2022-09-14,Mashonaland West,Hot,33.0,83.2,16.1,0.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-09-15,Mashonaland Central,Partly Cloudy,27.6,33.8,8.3,1.2,Monitor humidity for fungal risk.
+2022-09-16,Manicaland,Partly Cloudy,19.0,36.7,31.1,1.9,Monitor humidity for fungal risk.
+2022-09-17,Midlands,Hot,26.4,75.5,17.5,1.0,Consider heat-resistant crop varieties.
+2022-09-18,Mashonaland Central,Rain,26.6,30.6,21.8,0.0,Spread fertilizer 24 hours before expected rainfall.
+2022-09-19,Manicaland,Partly Cloudy,31.6,70.2,7.6,0.5,Monitor humidity for fungal risk.
+2022-09-20,Harare,Clear,27.8,32.6,23.0,1.4,Monitor soil moisture — irrigation may be needed.
+2022-09-21,Manicaland,Clear,25.1,56.0,24.8,1.6,Good conditions for pesticide application in early morning.
+2022-09-22,Mashonaland Central,Partly Cloudy,26.9,90.0,20.6,0.6,Monitor humidity for fungal risk.
+2022-09-23,Bulawayo,Clear,36.8,50.8,33.1,0.9,Monitor soil moisture — irrigation may be needed.
+2022-09-24,Midlands,Thunderstorms,35.2,64.8,20.9,19.4,Check crop damage after storm and take remedial action.
+2022-09-25,Matabeleland North,Thunderstorms,27.3,31.7,16.3,8.0,Postpone field activities due to lightning risk.
+2022-09-26,Matabeleland North,Partly Cloudy,36.1,81.3,33.7,1.9,Monitor humidity for fungal risk.
+2022-09-27,Manicaland,Partly Cloudy,31.2,42.3,35.3,1.3,Monitor humidity for fungal risk.
+2022-09-28,Matabeleland South,Windy,18.7,75.2,20.3,0.7,Apply pesticides in early morning or after rain to avoid drift.
+2022-09-29,Mashonaland West,Clear,20.1,64.4,39.4,1.9,Ideal for field work — consider planting or weeding today.
+2022-09-30,Mashonaland West,Hot,20.5,64.8,23.7,0.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-10-01,Bulawayo,Hot,21.5,59.2,25.3,0.9,Use mulch to retain soil moisture.
+2022-10-02,Mashonaland Central,Windy,37.8,31.3,39.2,1.1,Apply pesticides in early morning or after rain to avoid drift.
+2022-10-03,Manicaland,Rain,32.5,48.4,12.0,2.9,Spread fertilizer 24 hours before expected rainfall.
+2022-10-04,Mashonaland West,Hot,20.1,50.5,11.2,1.6,Use mulch to retain soil moisture.
+2022-10-05,Mashonaland Central,Hot,33.4,76.3,19.9,0.7,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-10-06,Manicaland,Windy,31.1,37.9,34.0,1.1,Apply pesticides in early morning or after rain to avoid drift.
+2022-10-07,Matabeleland North,Thunderstorms,30.0,36.1,24.1,3.3,Postpone field activities due to lightning risk.
+2022-10-08,Midlands,Hot,23.1,40.9,19.3,0.3,Use mulch to retain soil moisture.
+2022-10-09,Manicaland,Thunderstorms,28.1,32.7,26.2,18.3,Ensure water drainage systems are functioning.
+2022-10-10,Mashonaland Central,Thunderstorms,19.9,61.3,38.2,4.1,Postpone field activities due to lightning risk.
+2022-10-11,Midlands,Thunderstorms,29.3,48.4,24.5,6.0,Check crop damage after storm and take remedial action.
+2022-10-12,Masvingo,Clear,24.2,53.1,29.4,1.3,Monitor soil moisture — irrigation may be needed.
+2022-10-13,Manicaland,Thunderstorms,36.3,40.2,5.8,16.7,Check crop damage after storm and take remedial action.
+2022-10-14,Mashonaland Central,Partly Cloudy,24.1,79.9,25.8,0.5,Suitable for planting drought-resistant crops.
+2022-10-15,Mashonaland East,Thunderstorms,35.7,40.3,21.3,16.2,Ensure water drainage systems are functioning.
+2022-10-16,Manicaland,Hot,32.2,87.5,22.8,1.4,Consider heat-resistant crop varieties.
+2022-10-17,Masvingo,Rain,22.4,77.8,19.9,15.9,Avoid soil compaction by reducing heavy machinery use.
+2022-10-18,Matabeleland North,Clear,30.3,31.5,30.0,0.6,Ideal for field work — consider planting or weeding today.
+2022-10-19,Bulawayo,Rain,18.7,34.2,26.3,2.2,Spread fertilizer 24 hours before expected rainfall.
+2022-10-20,Mashonaland West,Windy,20.3,76.6,41.2,1.5,Avoid spraying chemicals — high drift risk.
+2022-10-21,Bulawayo,Rain,28.8,55.6,27.3,12.2,Avoid soil compaction by reducing heavy machinery use.
+2022-10-22,Harare,Partly Cloudy,22.8,68.5,23.0,1.3,Light irrigation may help with seed germination.
+2022-10-23,Manicaland,Windy,37.0,54.1,24.2,0.6,Apply pesticides in early morning or after rain to avoid drift.
+2022-10-24,Mashonaland East,Thunderstorms,31.9,34.5,37.2,4.9,Check crop damage after storm and take remedial action.
+2022-10-25,Masvingo,Rain,28.7,70.4,9.6,6.6,Avoid soil compaction by reducing heavy machinery use.
+2022-10-26,Mashonaland Central,Windy,34.7,65.6,19.9,2.0,Apply pesticides in early morning or after rain to avoid drift.
+2022-10-27,Masvingo,Clear,28.6,59.0,37.7,1.8,Good conditions for pesticide application in early morning.
+2022-10-28,Matabeleland North,Thunderstorms,26.9,77.0,40.6,16.2,Ensure water drainage systems are functioning.
+2022-10-29,Bulawayo,Partly Cloudy,25.0,87.4,15.3,1.5,Suitable for planting drought-resistant crops.
+2022-10-30,Masvingo,Rain,22.5,73.9,7.9,1.4,Delay pesticide application until post-rain.
+2022-10-31,Masvingo,Partly Cloudy,25.1,37.3,42.5,0.8,Suitable for planting drought-resistant crops.
+2022-11-01,Matabeleland South,Rain,37.8,31.5,31.9,16.2,Spread fertilizer 24 hours before expected rainfall.
+2022-11-02,Midlands,Hot,24.7,86.7,30.6,1.7,Consider heat-resistant crop varieties.
+2022-11-03,Mashonaland Central,Clear,34.6,80.9,39.1,1.2,Monitor soil moisture — irrigation may be needed.
+2022-11-04,Mashonaland West,Hot,33.4,69.3,40.7,1.4,Use mulch to retain soil moisture.
+2022-11-05,Bulawayo,Thunderstorms,25.3,84.3,17.8,13.3,Check crop damage after storm and take remedial action.
+2022-11-06,Bulawayo,Hot,26.5,88.3,9.1,1.7,Use mulch to retain soil moisture.
+2022-11-07,Matabeleland South,Clear,21.7,62.1,22.3,1.4,Monitor soil moisture — irrigation may be needed.
+2022-11-08,Mashonaland West,Partly Cloudy,35.0,92.5,34.6,0.1,Monitor humidity for fungal risk.
+2022-11-09,Masvingo,Thunderstorms,21.4,33.6,43.1,7.7,Postpone field activities due to lightning risk.
+2022-11-10,Matabeleland South,Thunderstorms,23.2,40.3,30.2,17.6,Postpone field activities due to lightning risk.
+2022-11-11,Mashonaland East,Hot,29.0,82.8,33.0,0.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-11-12,Harare,Thunderstorms,26.0,74.8,20.3,7.4,Ensure water drainage systems are functioning.
+2022-11-13,Bulawayo,Partly Cloudy,28.5,91.9,6.0,2.0,Suitable for planting drought-resistant crops.
+2022-11-14,Mashonaland Central,Partly Cloudy,34.1,70.3,28.9,1.1,Monitor humidity for fungal risk.
+2022-11-15,Matabeleland South,Hot,36.1,64.6,18.6,0.9,Consider heat-resistant crop varieties.
+2022-11-16,Matabeleland South,Hot,30.0,61.1,43.3,0.6,Use mulch to retain soil moisture.
+2022-11-17,Harare,Thunderstorms,30.1,64.5,32.6,2.1,Check crop damage after storm and take remedial action.
+2022-11-18,Matabeleland South,Thunderstorms,23.7,51.3,19.2,1.3,Postpone field activities due to lightning risk.
+2022-11-19,Matabeleland South,Rain,25.9,63.0,44.4,8.8,Spread fertilizer 24 hours before expected rainfall.
+2022-11-20,Matabeleland South,Partly Cloudy,21.4,62.6,13.2,1.4,Monitor humidity for fungal risk.
+2022-11-21,Harare,Windy,34.7,91.3,38.1,0.5,Secure greenhouse structures and materials.
+2022-11-22,Mashonaland West,Partly Cloudy,34.8,32.4,30.7,1.9,Monitor humidity for fungal risk.
+2022-11-23,Mashonaland East,Rain,29.8,43.5,39.3,18.5,Avoid soil compaction by reducing heavy machinery use.
+2022-11-24,Matabeleland South,Windy,37.1,31.6,23.0,1.6,Avoid spraying chemicals — high drift risk.
+2022-11-25,Midlands,Rain,33.2,53.7,28.9,10.2,Delay pesticide application until post-rain.
+2022-11-26,Matabeleland South,Partly Cloudy,25.4,63.7,43.4,0.4,Monitor humidity for fungal risk.
+2022-11-27,Matabeleland North,Rain,24.8,63.5,22.1,3.3,Delay pesticide application until post-rain.
+2022-11-28,Mashonaland West,Clear,36.3,30.3,29.2,0.3,Good conditions for pesticide application in early morning.
+2022-11-29,Masvingo,Clear,35.0,56.0,39.6,0.6,Good conditions for pesticide application in early morning.
+2022-11-30,Mashonaland West,Hot,26.3,91.3,24.4,1.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2022-12-01,Mashonaland West,Partly Cloudy,19.4,88.9,15.1,1.4,Suitable for planting drought-resistant crops.
+2022-12-02,Midlands,Thunderstorms,30.5,67.0,43.4,2.1,Check crop damage after storm and take remedial action.
+2022-12-03,Bulawayo,Thunderstorms,30.2,46.4,15.4,17.0,Postpone field activities due to lightning risk.
+2022-12-04,Mashonaland West,Windy,29.2,88.0,13.8,0.6,Avoid spraying chemicals — high drift risk.
+2022-12-05,Matabeleland South,Partly Cloudy,24.3,68.5,13.8,1.8,Monitor humidity for fungal risk.
+2022-12-06,Masvingo,Rain,23.8,33.4,24.5,19.5,Avoid soil compaction by reducing heavy machinery use.
+2022-12-07,Manicaland,Hot,29.4,73.7,6.8,0.7,Consider heat-resistant crop varieties.
+2022-12-08,Masvingo,Windy,37.4,40.7,41.7,1.8,Secure greenhouse structures and materials.
+2022-12-09,Mashonaland Central,Thunderstorms,18.5,94.5,20.1,0.9,Ensure water drainage systems are functioning.
+2022-12-10,Manicaland,Clear,36.2,49.6,27.2,1.9,Monitor soil moisture — irrigation may be needed.
+2022-12-11,Mashonaland East,Rain,28.2,32.3,15.1,6.4,Spread fertilizer 24 hours before expected rainfall.
+2022-12-12,Harare,Hot,26.6,40.2,36.8,1.7,Consider heat-resistant crop varieties.
+2022-12-13,Matabeleland South,Thunderstorms,34.0,38.8,32.8,6.8,Postpone field activities due to lightning risk.
+2022-12-14,Mashonaland Central,Thunderstorms,26.9,89.6,21.9,15.1,Check crop damage after storm and take remedial action.
+2022-12-15,Harare,Clear,20.0,44.3,23.4,1.0,Ideal for field work — consider planting or weeding today.
+2022-12-16,Mashonaland East,Thunderstorms,28.7,47.3,34.0,12.9,Postpone field activities due to lightning risk.
+2022-12-17,Harare,Partly Cloudy,18.2,93.6,15.4,0.2,Light irrigation may help with seed germination.
+2022-12-18,Masvingo,Clear,29.6,81.1,11.3,1.0,Monitor soil moisture — irrigation may be needed.
+2022-12-19,Mashonaland Central,Rain,23.2,49.6,32.7,4.0,Spread fertilizer 24 hours before expected rainfall.
+2022-12-20,Matabeleland North,Hot,21.6,53.6,38.3,1.4,Use mulch to retain soil moisture.
+2022-12-21,Bulawayo,Hot,22.5,42.5,24.1,1.5,Use mulch to retain soil moisture.
+2022-12-22,Harare,Hot,21.9,64.2,31.3,1.4,Consider heat-resistant crop varieties.
+2022-12-23,Midlands,Partly Cloudy,18.9,80.2,17.7,0.4,Suitable for planting drought-resistant crops.
+2022-12-24,Bulawayo,Thunderstorms,22.1,56.9,9.2,3.4,Postpone field activities due to lightning risk.
+2022-12-25,Mashonaland Central,Rain,25.2,66.5,8.1,4.8,Delay pesticide application until post-rain.
+2022-12-26,Masvingo,Thunderstorms,27.1,44.3,24.3,17.0,Check crop damage after storm and take remedial action.
+2022-12-27,Mashonaland Central,Clear,19.9,31.3,30.4,1.0,Monitor soil moisture — irrigation may be needed.
+2022-12-28,Midlands,Rain,33.7,60.3,25.9,13.5,Delay pesticide application until post-rain.
+2022-12-29,Midlands,Rain,28.3,72.8,30.8,5.7,Delay pesticide application until post-rain.
+2022-12-30,Mashonaland Central,Rain,33.7,62.8,15.5,3.8,Delay pesticide application until post-rain.
+2022-12-31,Midlands,Thunderstorms,24.8,35.4,17.1,17.7,Ensure water drainage systems are functioning.
+2023-01-01,Mashonaland Central,Partly Cloudy,20.7,79.7,38.3,0.5,Monitor humidity for fungal risk.
+2023-01-02,Midlands,Partly Cloudy,24.8,56.4,10.3,1.6,Light irrigation may help with seed germination.
+2023-01-03,Mashonaland Central,Thunderstorms,22.3,92.2,43.1,18.8,Check crop damage after storm and take remedial action.
+2023-01-04,Masvingo,Windy,34.1,86.1,33.4,1.5,Avoid spraying chemicals — high drift risk.
+2023-01-05,Masvingo,Clear,21.5,83.0,5.6,1.1,Ideal for field work — consider planting or weeding today.
+2023-01-06,Harare,Thunderstorms,29.7,46.9,10.8,8.2,Postpone field activities due to lightning risk.
+2023-01-07,Midlands,Windy,28.1,76.1,44.7,0.9,Avoid spraying chemicals — high drift risk.
+2023-01-08,Matabeleland North,Clear,34.4,36.2,24.3,2.0,Monitor soil moisture — irrigation may be needed.
+2023-01-09,Mashonaland West,Hot,18.2,37.0,23.6,0.8,Use mulch to retain soil moisture.
+2023-01-10,Midlands,Rain,37.9,47.0,20.1,13.6,Spread fertilizer 24 hours before expected rainfall.
+2023-01-11,Harare,Thunderstorms,28.3,90.7,27.6,18.2,Check crop damage after storm and take remedial action.
+2023-01-12,Manicaland,Clear,18.5,52.4,22.4,0.1,Ideal for field work — consider planting or weeding today.
+2023-01-13,Masvingo,Rain,27.6,86.4,40.2,19.8,Avoid soil compaction by reducing heavy machinery use.
+2023-01-14,Mashonaland East,Windy,22.7,77.2,34.9,1.8,Avoid spraying chemicals — high drift risk.
+2023-01-15,Harare,Partly Cloudy,31.4,55.7,16.5,1.9,Monitor humidity for fungal risk.
+2023-01-16,Mashonaland East,Thunderstorms,31.2,36.9,42.4,13.6,Check crop damage after storm and take remedial action.
+2023-01-17,Mashonaland West,Hot,25.9,46.4,9.0,0.9,Use mulch to retain soil moisture.
+2023-01-18,Midlands,Windy,26.0,76.1,9.8,0.7,Apply pesticides in early morning or after rain to avoid drift.
+2023-01-19,Bulawayo,Windy,34.7,73.8,44.6,1.4,Secure greenhouse structures and materials.
+2023-01-20,Harare,Clear,30.3,40.6,23.7,1.6,Ideal for field work — consider planting or weeding today.
+2023-01-21,Bulawayo,Thunderstorms,36.7,48.0,32.3,19.2,Postpone field activities due to lightning risk.
+2023-01-22,Matabeleland North,Windy,22.8,38.2,13.6,1.8,Secure greenhouse structures and materials.
+2023-01-23,Harare,Partly Cloudy,26.5,86.8,12.8,1.9,Light irrigation may help with seed germination.
+2023-01-24,Mashonaland West,Clear,24.2,37.9,38.9,0.1,Ideal for field work — consider planting or weeding today.
+2023-01-25,Mashonaland East,Clear,35.5,82.1,21.0,1.3,Good conditions for pesticide application in early morning.
+2023-01-26,Masvingo,Hot,28.6,67.3,30.0,0.9,Consider heat-resistant crop varieties.
+2023-01-27,Midlands,Clear,23.8,43.3,9.6,0.2,Monitor soil moisture — irrigation may be needed.
+2023-01-28,Midlands,Hot,33.8,53.4,38.7,1.8,Consider heat-resistant crop varieties.
+2023-01-29,Masvingo,Hot,25.9,90.2,18.6,1.7,Consider heat-resistant crop varieties.
+2023-01-30,Bulawayo,Partly Cloudy,28.9,72.7,30.1,1.2,Monitor humidity for fungal risk.
+2023-01-31,Midlands,Windy,30.3,52.7,27.3,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2023-02-01,Mashonaland Central,Rain,27.4,36.0,6.4,16.0,Avoid soil compaction by reducing heavy machinery use.
+2023-02-02,Masvingo,Windy,23.1,81.3,34.5,1.1,Secure greenhouse structures and materials.
+2023-02-03,Harare,Hot,35.4,56.2,18.1,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-02-04,Manicaland,Windy,25.7,40.8,34.7,2.0,Avoid spraying chemicals — high drift risk.
+2023-02-05,Mashonaland West,Windy,21.9,32.8,29.5,0.9,Apply pesticides in early morning or after rain to avoid drift.
+2023-02-06,Masvingo,Thunderstorms,35.1,87.3,35.3,17.7,Ensure water drainage systems are functioning.
+2023-02-07,Mashonaland Central,Partly Cloudy,30.4,71.2,20.4,1.2,Light irrigation may help with seed germination.
+2023-02-08,Midlands,Partly Cloudy,32.2,35.5,28.7,0.6,Light irrigation may help with seed germination.
+2023-02-09,Mashonaland East,Thunderstorms,23.7,56.3,14.9,9.8,Ensure water drainage systems are functioning.
+2023-02-10,Masvingo,Clear,26.1,34.9,44.2,1.6,Monitor soil moisture — irrigation may be needed.
+2023-02-11,Matabeleland South,Partly Cloudy,36.0,52.6,36.0,1.6,Suitable for planting drought-resistant crops.
+2023-02-12,Midlands,Clear,19.3,82.7,39.8,1.6,Monitor soil moisture — irrigation may be needed.
+2023-02-13,Mashonaland Central,Thunderstorms,32.3,45.8,41.9,8.2,Postpone field activities due to lightning risk.
+2023-02-14,Matabeleland South,Thunderstorms,34.5,52.7,44.3,5.1,Postpone field activities due to lightning risk.
+2023-02-15,Manicaland,Thunderstorms,18.5,58.1,25.8,9.3,Ensure water drainage systems are functioning.
+2023-02-16,Mashonaland East,Partly Cloudy,29.1,46.0,37.0,2.0,Monitor humidity for fungal risk.
+2023-02-17,Bulawayo,Windy,23.0,60.9,16.4,1.8,Avoid spraying chemicals — high drift risk.
+2023-02-18,Harare,Hot,35.6,34.8,8.2,1.9,Consider heat-resistant crop varieties.
+2023-02-19,Mashonaland West,Partly Cloudy,28.4,31.3,37.7,1.3,Monitor humidity for fungal risk.
+2023-02-20,Masvingo,Clear,33.9,60.3,15.1,1.8,Monitor soil moisture — irrigation may be needed.
+2023-02-21,Mashonaland West,Thunderstorms,37.0,34.6,32.6,4.8,Check crop damage after storm and take remedial action.
+2023-02-22,Manicaland,Hot,33.5,93.2,22.4,0.4,Consider heat-resistant crop varieties.
+2023-02-23,Mashonaland East,Thunderstorms,34.4,68.3,20.3,10.9,Postpone field activities due to lightning risk.
+2023-02-24,Mashonaland East,Partly Cloudy,38.0,91.1,21.1,0.6,Suitable for planting drought-resistant crops.
+2023-02-25,Bulawayo,Hot,23.0,41.0,41.0,1.2,Consider heat-resistant crop varieties.
+2023-02-26,Midlands,Partly Cloudy,25.9,73.8,37.7,1.9,Light irrigation may help with seed germination.
+2023-02-27,Harare,Thunderstorms,30.3,40.7,8.0,18.8,Postpone field activities due to lightning risk.
+2023-02-28,Masvingo,Thunderstorms,28.4,44.7,12.4,14.1,Ensure water drainage systems are functioning.
+2023-03-01,Matabeleland North,Windy,22.8,69.9,43.3,0.2,Avoid spraying chemicals — high drift risk.
+2023-03-02,Harare,Rain,35.8,38.6,41.4,18.6,Avoid soil compaction by reducing heavy machinery use.
+2023-03-03,Matabeleland South,Rain,29.1,70.6,6.7,8.2,Spread fertilizer 24 hours before expected rainfall.
+2023-03-04,Matabeleland South,Hot,25.6,67.1,28.9,0.2,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-03-05,Midlands,Clear,23.8,71.3,35.1,0.0,Monitor soil moisture — irrigation may be needed.
+2023-03-06,Matabeleland South,Partly Cloudy,22.9,61.8,34.7,0.8,Light irrigation may help with seed germination.
+2023-03-07,Matabeleland South,Hot,27.7,80.5,14.0,0.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-03-08,Mashonaland West,Partly Cloudy,24.4,71.9,23.4,0.4,Light irrigation may help with seed germination.
+2023-03-09,Mashonaland West,Hot,18.6,73.1,25.8,0.1,Use mulch to retain soil moisture.
+2023-03-10,Bulawayo,Rain,19.4,90.8,43.7,16.0,Spread fertilizer 24 hours before expected rainfall.
+2023-03-11,Masvingo,Clear,31.3,77.6,24.7,0.6,Good conditions for pesticide application in early morning.
+2023-03-12,Mashonaland East,Partly Cloudy,25.1,66.1,27.6,0.1,Monitor humidity for fungal risk.
+2023-03-13,Midlands,Partly Cloudy,22.4,64.2,21.2,1.2,Monitor humidity for fungal risk.
+2023-03-14,Bulawayo,Partly Cloudy,36.1,35.9,14.0,0.0,Light irrigation may help with seed germination.
+2023-03-15,Matabeleland North,Rain,25.5,73.8,40.4,8.4,Delay pesticide application until post-rain.
+2023-03-16,Midlands,Thunderstorms,21.5,46.0,12.8,11.6,Postpone field activities due to lightning risk.
+2023-03-17,Matabeleland South,Partly Cloudy,28.0,75.6,15.0,0.0,Light irrigation may help with seed germination.
+2023-03-18,Bulawayo,Thunderstorms,36.8,84.3,26.4,15.4,Postpone field activities due to lightning risk.
+2023-03-19,Manicaland,Thunderstorms,29.4,42.0,11.9,1.3,Ensure water drainage systems are functioning.
+2023-03-20,Mashonaland East,Partly Cloudy,29.1,44.1,42.2,1.2,Monitor humidity for fungal risk.
+2023-03-21,Mashonaland West,Clear,25.9,80.7,25.2,0.4,Monitor soil moisture — irrigation may be needed.
+2023-03-22,Masvingo,Hot,19.1,75.7,11.8,1.6,Consider heat-resistant crop varieties.
+2023-03-23,Matabeleland North,Partly Cloudy,35.2,41.4,16.1,0.8,Monitor humidity for fungal risk.
+2023-03-24,Masvingo,Hot,20.7,74.5,9.0,0.5,Use mulch to retain soil moisture.
+2023-03-25,Matabeleland South,Clear,34.9,33.6,5.7,1.4,Good conditions for pesticide application in early morning.
+2023-03-26,Harare,Windy,25.3,62.0,27.3,0.8,Secure greenhouse structures and materials.
+2023-03-27,Matabeleland South,Hot,23.5,78.9,37.9,0.3,Consider heat-resistant crop varieties.
+2023-03-28,Mashonaland East,Thunderstorms,26.8,84.4,40.5,4.1,Ensure water drainage systems are functioning.
+2023-03-29,Mashonaland West,Windy,31.6,36.4,20.7,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2023-03-30,Matabeleland South,Hot,35.4,69.7,40.3,0.6,Use mulch to retain soil moisture.
+2023-03-31,Manicaland,Rain,24.5,64.8,17.7,18.4,Spread fertilizer 24 hours before expected rainfall.
+2023-04-01,Harare,Windy,36.3,55.6,7.6,0.5,Avoid spraying chemicals — high drift risk.
+2023-04-02,Matabeleland South,Clear,31.9,91.8,26.0,1.7,Monitor soil moisture — irrigation may be needed.
+2023-04-03,Manicaland,Windy,25.6,62.6,15.0,0.3,Apply pesticides in early morning or after rain to avoid drift.
+2023-04-04,Manicaland,Windy,36.6,80.1,23.0,0.4,Apply pesticides in early morning or after rain to avoid drift.
+2023-04-05,Masvingo,Rain,25.8,45.2,41.6,1.8,Avoid soil compaction by reducing heavy machinery use.
+2023-04-06,Mashonaland Central,Hot,25.2,41.8,10.2,0.9,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-04-07,Harare,Thunderstorms,37.5,33.4,23.3,11.5,Ensure water drainage systems are functioning.
+2023-04-08,Mashonaland East,Partly Cloudy,32.4,48.8,18.4,1.8,Monitor humidity for fungal risk.
+2023-04-09,Masvingo,Clear,24.7,76.7,16.1,0.8,Good conditions for pesticide application in early morning.
+2023-04-10,Mashonaland Central,Clear,25.9,72.2,30.0,0.3,Monitor soil moisture — irrigation may be needed.
+2023-04-11,Matabeleland North,Hot,31.5,32.6,41.9,0.2,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-04-12,Mashonaland West,Clear,23.6,51.2,33.7,1.3,Good conditions for pesticide application in early morning.
+2023-04-13,Mashonaland West,Hot,37.1,66.9,9.3,1.5,Use mulch to retain soil moisture.
+2023-04-14,Harare,Hot,24.7,71.2,8.2,0.6,Consider heat-resistant crop varieties.
+2023-04-15,Midlands,Partly Cloudy,27.0,62.5,36.1,0.3,Light irrigation may help with seed germination.
+2023-04-16,Mashonaland Central,Partly Cloudy,26.5,60.1,14.4,0.3,Suitable for planting drought-resistant crops.
+2023-04-17,Mashonaland West,Windy,20.4,79.1,38.1,1.4,Apply pesticides in early morning or after rain to avoid drift.
+2023-04-18,Matabeleland North,Hot,24.6,65.2,15.8,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-04-19,Matabeleland North,Thunderstorms,31.7,80.2,16.9,13.4,Check crop damage after storm and take remedial action.
+2023-04-20,Mashonaland Central,Rain,34.0,78.3,35.5,15.4,Spread fertilizer 24 hours before expected rainfall.
+2023-04-21,Masvingo,Thunderstorms,37.5,86.8,19.8,5.4,Check crop damage after storm and take remedial action.
+2023-04-22,Mashonaland Central,Hot,18.4,33.1,24.2,0.6,Consider heat-resistant crop varieties.
+2023-04-23,Mashonaland West,Windy,29.5,86.9,38.7,0.4,Secure greenhouse structures and materials.
+2023-04-24,Masvingo,Clear,27.1,54.1,32.2,0.3,Good conditions for pesticide application in early morning.
+2023-04-25,Midlands,Hot,34.0,65.3,10.5,1.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-04-26,Matabeleland North,Partly Cloudy,37.4,44.1,9.4,0.7,Suitable for planting drought-resistant crops.
+2023-04-27,Matabeleland South,Thunderstorms,35.5,63.7,29.7,13.6,Postpone field activities due to lightning risk.
+2023-04-28,Mashonaland East,Rain,37.4,75.7,43.1,0.6,Avoid soil compaction by reducing heavy machinery use.
+2023-04-29,Harare,Rain,30.2,68.0,25.3,3.7,Spread fertilizer 24 hours before expected rainfall.
+2023-04-30,Mashonaland East,Hot,37.6,33.2,13.1,0.4,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-01,Midlands,Hot,28.1,81.2,8.1,0.9,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-02,Harare,Hot,23.7,65.0,31.2,1.2,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-03,Harare,Windy,29.3,59.0,10.1,1.2,Apply pesticides in early morning or after rain to avoid drift.
+2023-05-04,Masvingo,Partly Cloudy,29.8,46.3,12.7,1.4,Suitable for planting drought-resistant crops.
+2023-05-05,Bulawayo,Windy,33.9,65.3,9.0,0.6,Secure greenhouse structures and materials.
+2023-05-06,Midlands,Hot,35.9,65.4,39.1,0.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-07,Matabeleland North,Hot,34.9,50.8,34.9,0.4,Use mulch to retain soil moisture.
+2023-05-08,Manicaland,Rain,18.8,47.0,20.5,13.1,Delay pesticide application until post-rain.
+2023-05-09,Midlands,Clear,32.5,33.3,22.0,1.8,Ideal for field work — consider planting or weeding today.
+2023-05-10,Manicaland,Thunderstorms,29.5,46.6,31.5,8.7,Ensure water drainage systems are functioning.
+2023-05-11,Harare,Partly Cloudy,18.3,90.9,29.7,0.4,Monitor humidity for fungal risk.
+2023-05-12,Mashonaland East,Rain,18.6,50.8,31.7,7.5,Delay pesticide application until post-rain.
+2023-05-13,Mashonaland West,Rain,19.8,87.5,40.6,17.0,Spread fertilizer 24 hours before expected rainfall.
+2023-05-14,Mashonaland East,Partly Cloudy,37.6,47.4,6.6,1.4,Light irrigation may help with seed germination.
+2023-05-15,Matabeleland South,Rain,23.0,70.8,7.6,12.3,Spread fertilizer 24 hours before expected rainfall.
+2023-05-16,Mashonaland Central,Hot,26.0,33.7,11.7,0.3,Consider heat-resistant crop varieties.
+2023-05-17,Midlands,Hot,18.0,84.1,27.7,1.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-18,Bulawayo,Hot,35.2,48.8,26.9,1.2,Consider heat-resistant crop varieties.
+2023-05-19,Mashonaland East,Clear,26.6,66.5,16.6,0.4,Good conditions for pesticide application in early morning.
+2023-05-20,Matabeleland South,Thunderstorms,28.1,88.6,33.5,0.4,Check crop damage after storm and take remedial action.
+2023-05-21,Midlands,Clear,24.8,52.4,14.9,1.5,Ideal for field work — consider planting or weeding today.
+2023-05-22,Midlands,Windy,30.5,90.4,11.1,0.7,Secure greenhouse structures and materials.
+2023-05-23,Midlands,Clear,28.6,62.1,21.8,1.9,Monitor soil moisture — irrigation may be needed.
+2023-05-24,Mashonaland West,Rain,23.6,65.0,23.4,5.4,Spread fertilizer 24 hours before expected rainfall.
+2023-05-25,Bulawayo,Windy,34.9,50.1,35.4,0.4,Avoid spraying chemicals — high drift risk.
+2023-05-26,Manicaland,Hot,25.7,67.3,10.8,0.9,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-05-27,Matabeleland North,Thunderstorms,28.1,79.0,32.3,13.4,Ensure water drainage systems are functioning.
+2023-05-28,Manicaland,Windy,33.0,86.9,35.0,0.6,Apply pesticides in early morning or after rain to avoid drift.
+2023-05-29,Matabeleland South,Partly Cloudy,29.3,93.7,40.4,1.4,Suitable for planting drought-resistant crops.
+2023-05-30,Mashonaland Central,Windy,32.7,53.8,38.5,0.9,Secure greenhouse structures and materials.
+2023-05-31,Midlands,Clear,27.7,77.8,30.9,1.8,Ideal for field work — consider planting or weeding today.
+2023-06-01,Masvingo,Partly Cloudy,37.0,90.7,37.7,0.9,Suitable for planting drought-resistant crops.
+2023-06-02,Midlands,Partly Cloudy,27.0,79.1,33.5,0.7,Monitor humidity for fungal risk.
+2023-06-03,Mashonaland Central,Windy,33.0,94.1,17.8,0.2,Avoid spraying chemicals — high drift risk.
+2023-06-04,Bulawayo,Hot,25.1,74.1,25.8,1.7,Consider heat-resistant crop varieties.
+2023-06-05,Manicaland,Hot,32.7,62.7,16.7,1.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-06-06,Matabeleland North,Rain,27.4,30.6,37.9,7.0,Avoid soil compaction by reducing heavy machinery use.
+2023-06-07,Harare,Clear,35.2,42.4,20.6,1.1,Good conditions for pesticide application in early morning.
+2023-06-08,Matabeleland North,Clear,34.4,82.0,33.8,0.4,Monitor soil moisture — irrigation may be needed.
+2023-06-09,Matabeleland South,Thunderstorms,24.9,59.8,18.5,7.0,Ensure water drainage systems are functioning.
+2023-06-10,Mashonaland Central,Hot,21.8,87.6,40.5,0.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-06-11,Matabeleland North,Hot,31.0,77.3,18.5,0.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-06-12,Masvingo,Rain,20.2,64.6,9.5,18.4,Avoid soil compaction by reducing heavy machinery use.
+2023-06-13,Masvingo,Clear,30.4,55.2,28.6,0.9,Ideal for field work — consider planting or weeding today.
+2023-06-14,Matabeleland South,Thunderstorms,25.8,60.8,33.1,13.1,Postpone field activities due to lightning risk.
+2023-06-15,Matabeleland South,Hot,19.3,33.1,17.7,1.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-06-16,Harare,Partly Cloudy,20.5,68.9,23.7,0.6,Monitor humidity for fungal risk.
+2023-06-17,Mashonaland Central,Hot,26.4,84.0,34.1,1.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-06-18,Mashonaland East,Clear,20.1,63.8,27.9,1.2,Good conditions for pesticide application in early morning.
+2023-06-19,Bulawayo,Thunderstorms,30.9,45.3,41.0,8.3,Ensure water drainage systems are functioning.
+2023-06-20,Matabeleland North,Clear,29.0,33.3,14.1,1.5,Ideal for field work — consider planting or weeding today.
+2023-06-21,Midlands,Clear,19.2,57.3,32.4,0.5,Good conditions for pesticide application in early morning.
+2023-06-22,Midlands,Clear,34.8,67.8,9.2,1.1,Ideal for field work — consider planting or weeding today.
+2023-06-23,Midlands,Windy,28.4,48.9,40.5,0.1,Apply pesticides in early morning or after rain to avoid drift.
+2023-06-24,Midlands,Windy,19.5,81.9,16.9,0.3,Apply pesticides in early morning or after rain to avoid drift.
+2023-06-25,Manicaland,Rain,29.5,65.6,36.7,11.1,Delay pesticide application until post-rain.
+2023-06-26,Mashonaland East,Hot,23.0,46.9,17.7,1.5,Consider heat-resistant crop varieties.
+2023-06-27,Midlands,Thunderstorms,36.7,38.5,17.1,7.9,Check crop damage after storm and take remedial action.
+2023-06-28,Matabeleland North,Clear,37.5,73.6,21.1,0.4,Ideal for field work — consider planting or weeding today.
+2023-06-29,Manicaland,Hot,21.5,30.8,16.1,0.9,Consider heat-resistant crop varieties.
+2023-06-30,Harare,Partly Cloudy,35.1,94.0,8.8,2.0,Suitable for planting drought-resistant crops.
+2023-07-01,Bulawayo,Windy,34.1,86.2,26.0,1.2,Apply pesticides in early morning or after rain to avoid drift.
+2023-07-02,Masvingo,Hot,20.3,68.9,11.6,0.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-07-03,Midlands,Hot,22.6,39.5,7.3,0.4,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-07-04,Bulawayo,Windy,32.7,76.2,26.4,0.8,Secure greenhouse structures and materials.
+2023-07-05,Matabeleland North,Thunderstorms,25.3,35.2,6.7,14.5,Check crop damage after storm and take remedial action.
+2023-07-06,Mashonaland Central,Hot,26.1,65.8,42.0,1.5,Consider heat-resistant crop varieties.
+2023-07-07,Mashonaland West,Rain,36.4,56.5,23.4,19.4,Avoid soil compaction by reducing heavy machinery use.
+2023-07-08,Harare,Clear,37.3,37.4,16.2,1.1,Ideal for field work — consider planting or weeding today.
+2023-07-09,Bulawayo,Thunderstorms,31.8,64.7,12.3,16.3,Check crop damage after storm and take remedial action.
+2023-07-10,Mashonaland West,Rain,33.0,83.4,14.7,10.3,Spread fertilizer 24 hours before expected rainfall.
+2023-07-11,Matabeleland South,Rain,37.8,58.6,6.4,7.5,Avoid soil compaction by reducing heavy machinery use.
+2023-07-12,Midlands,Rain,29.0,94.6,8.5,1.5,Delay pesticide application until post-rain.
+2023-07-13,Bulawayo,Hot,34.9,76.5,28.8,0.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-07-14,Midlands,Partly Cloudy,33.1,43.9,18.7,0.3,Light irrigation may help with seed germination.
+2023-07-15,Mashonaland East,Partly Cloudy,21.3,87.5,9.9,1.7,Monitor humidity for fungal risk.
+2023-07-16,Harare,Thunderstorms,18.9,82.0,11.6,4.0,Ensure water drainage systems are functioning.
+2023-07-17,Midlands,Rain,37.8,94.0,33.5,12.8,Spread fertilizer 24 hours before expected rainfall.
+2023-07-18,Mashonaland East,Windy,22.4,43.9,23.2,1.0,Secure greenhouse structures and materials.
+2023-07-19,Mashonaland East,Hot,20.2,39.3,21.1,1.5,Use mulch to retain soil moisture.
+2023-07-20,Matabeleland North,Partly Cloudy,37.0,62.3,33.2,1.3,Monitor humidity for fungal risk.
+2023-07-21,Matabeleland North,Windy,23.5,75.3,31.3,1.8,Apply pesticides in early morning or after rain to avoid drift.
+2023-07-22,Mashonaland East,Windy,18.1,79.7,14.0,1.7,Secure greenhouse structures and materials.
+2023-07-23,Manicaland,Thunderstorms,20.5,72.9,29.0,13.7,Postpone field activities due to lightning risk.
+2023-07-24,Matabeleland North,Rain,22.4,75.4,19.4,7.9,Avoid soil compaction by reducing heavy machinery use.
+2023-07-25,Mashonaland East,Thunderstorms,27.0,30.9,35.7,6.7,Postpone field activities due to lightning risk.
+2023-07-26,Midlands,Partly Cloudy,36.6,62.9,8.6,2.0,Suitable for planting drought-resistant crops.
+2023-07-27,Matabeleland South,Thunderstorms,19.2,41.4,28.7,11.5,Ensure water drainage systems are functioning.
+2023-07-28,Harare,Hot,33.2,60.5,12.9,0.7,Consider heat-resistant crop varieties.
+2023-07-29,Mashonaland Central,Hot,26.0,30.1,17.9,1.4,Consider heat-resistant crop varieties.
+2023-07-30,Matabeleland South,Partly Cloudy,18.9,89.4,24.9,0.4,Monitor humidity for fungal risk.
+2023-07-31,Bulawayo,Thunderstorms,37.6,74.1,30.9,0.0,Check crop damage after storm and take remedial action.
+2023-08-01,Mashonaland West,Rain,20.5,71.1,22.8,10.0,Delay pesticide application until post-rain.
+2023-08-02,Mashonaland West,Partly Cloudy,24.1,92.3,28.4,1.8,Light irrigation may help with seed germination.
+2023-08-03,Mashonaland East,Clear,26.9,40.5,19.2,1.7,Ideal for field work — consider planting or weeding today.
+2023-08-04,Harare,Rain,20.4,66.2,22.5,1.9,Spread fertilizer 24 hours before expected rainfall.
+2023-08-05,Matabeleland South,Thunderstorms,28.2,49.4,10.3,11.7,Check crop damage after storm and take remedial action.
+2023-08-06,Masvingo,Windy,28.7,60.7,26.9,1.1,Apply pesticides in early morning or after rain to avoid drift.
+2023-08-07,Mashonaland West,Thunderstorms,36.3,80.3,26.1,16.3,Ensure water drainage systems are functioning.
+2023-08-08,Mashonaland West,Thunderstorms,35.9,51.5,19.8,16.1,Check crop damage after storm and take remedial action.
+2023-08-09,Midlands,Clear,27.6,76.4,10.8,0.6,Ideal for field work — consider planting or weeding today.
+2023-08-10,Matabeleland South,Partly Cloudy,23.4,55.0,10.1,0.9,Light irrigation may help with seed germination.
+2023-08-11,Matabeleland South,Thunderstorms,26.4,75.4,26.0,9.6,Postpone field activities due to lightning risk.
+2023-08-12,Masvingo,Thunderstorms,27.8,77.9,19.6,5.8,Postpone field activities due to lightning risk.
+2023-08-13,Bulawayo,Clear,32.7,91.6,37.8,0.3,Ideal for field work — consider planting or weeding today.
+2023-08-14,Mashonaland Central,Thunderstorms,25.0,73.6,23.4,13.1,Ensure water drainage systems are functioning.
+2023-08-15,Matabeleland North,Thunderstorms,31.8,52.1,5.1,10.0,Check crop damage after storm and take remedial action.
+2023-08-16,Harare,Hot,29.1,31.7,34.3,1.9,Consider heat-resistant crop varieties.
+2023-08-17,Harare,Thunderstorms,32.2,39.1,17.8,5.0,Postpone field activities due to lightning risk.
+2023-08-18,Matabeleland North,Thunderstorms,18.0,62.9,18.5,7.6,Check crop damage after storm and take remedial action.
+2023-08-19,Matabeleland North,Rain,27.4,51.5,19.0,17.9,Spread fertilizer 24 hours before expected rainfall.
+2023-08-20,Mashonaland East,Windy,27.5,91.1,24.4,1.9,Apply pesticides in early morning or after rain to avoid drift.
+2023-08-21,Mashonaland Central,Hot,23.2,51.1,9.5,1.1,Use mulch to retain soil moisture.
+2023-08-22,Harare,Windy,30.1,53.9,5.7,1.3,Secure greenhouse structures and materials.
+2023-08-23,Matabeleland South,Hot,35.6,83.8,17.0,1.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-08-24,Mashonaland West,Thunderstorms,28.9,90.3,35.4,18.2,Check crop damage after storm and take remedial action.
+2023-08-25,Matabeleland South,Partly Cloudy,20.1,79.4,40.2,0.5,Suitable for planting drought-resistant crops.
+2023-08-26,Mashonaland East,Hot,33.7,77.0,14.1,1.2,Use mulch to retain soil moisture.
+2023-08-27,Masvingo,Hot,30.1,81.7,11.9,1.9,Consider heat-resistant crop varieties.
+2023-08-28,Matabeleland North,Rain,34.0,73.5,21.8,17.3,Delay pesticide application until post-rain.
+2023-08-29,Masvingo,Windy,25.5,86.5,12.1,0.3,Avoid spraying chemicals — high drift risk.
+2023-08-30,Mashonaland West,Thunderstorms,28.0,85.4,31.9,12.9,Ensure water drainage systems are functioning.
+2023-08-31,Mashonaland Central,Partly Cloudy,27.2,65.4,40.8,1.5,Monitor humidity for fungal risk.
+2023-09-01,Matabeleland North,Thunderstorms,37.3,65.0,7.1,2.9,Postpone field activities due to lightning risk.
+2023-09-02,Mashonaland Central,Thunderstorms,25.8,78.5,8.8,13.3,Check crop damage after storm and take remedial action.
+2023-09-03,Harare,Partly Cloudy,18.8,40.4,29.2,0.7,Suitable for planting drought-resistant crops.
+2023-09-04,Midlands,Rain,37.2,52.1,21.5,18.4,Spread fertilizer 24 hours before expected rainfall.
+2023-09-05,Mashonaland West,Rain,22.5,47.0,7.8,8.6,Spread fertilizer 24 hours before expected rainfall.
+2023-09-06,Bulawayo,Hot,28.7,92.8,14.9,0.0,Use mulch to retain soil moisture.
+2023-09-07,Mashonaland West,Thunderstorms,20.1,70.5,15.5,19.0,Postpone field activities due to lightning risk.
+2023-09-08,Manicaland,Rain,32.1,73.6,8.4,13.9,Spread fertilizer 24 hours before expected rainfall.
+2023-09-09,Masvingo,Thunderstorms,28.9,47.9,18.7,10.2,Postpone field activities due to lightning risk.
+2023-09-10,Matabeleland South,Rain,33.3,81.1,17.0,5.1,Spread fertilizer 24 hours before expected rainfall.
+2023-09-11,Midlands,Windy,24.5,68.0,23.4,0.9,Secure greenhouse structures and materials.
+2023-09-12,Mashonaland Central,Thunderstorms,30.2,56.7,34.6,6.1,Check crop damage after storm and take remedial action.
+2023-09-13,Bulawayo,Hot,20.7,50.2,20.4,1.8,Use mulch to retain soil moisture.
+2023-09-14,Bulawayo,Clear,22.9,75.3,23.4,1.7,Monitor soil moisture — irrigation may be needed.
+2023-09-15,Mashonaland West,Thunderstorms,22.3,66.3,37.3,15.7,Postpone field activities due to lightning risk.
+2023-09-16,Bulawayo,Rain,18.7,70.5,17.0,6.6,Avoid soil compaction by reducing heavy machinery use.
+2023-09-17,Harare,Clear,34.3,46.7,30.1,0.2,Ideal for field work — consider planting or weeding today.
+2023-09-18,Bulawayo,Windy,27.7,44.9,29.2,1.9,Secure greenhouse structures and materials.
+2023-09-19,Mashonaland East,Hot,33.6,63.4,31.6,0.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-09-20,Mashonaland Central,Thunderstorms,37.8,67.5,12.3,3.1,Postpone field activities due to lightning risk.
+2023-09-21,Midlands,Hot,34.8,93.6,28.3,1.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-09-22,Manicaland,Partly Cloudy,28.0,43.8,7.3,1.9,Suitable for planting drought-resistant crops.
+2023-09-23,Harare,Clear,31.6,77.3,11.2,0.2,Ideal for field work — consider planting or weeding today.
+2023-09-24,Mashonaland West,Hot,23.2,61.6,27.3,1.7,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-09-25,Mashonaland West,Hot,26.7,41.2,32.0,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-09-26,Matabeleland North,Windy,26.0,30.4,26.5,0.3,Avoid spraying chemicals — high drift risk.
+2023-09-27,Midlands,Partly Cloudy,31.6,47.7,18.9,0.3,Monitor humidity for fungal risk.
+2023-09-28,Bulawayo,Partly Cloudy,36.3,77.7,5.7,1.6,Suitable for planting drought-resistant crops.
+2023-09-29,Mashonaland Central,Hot,37.8,61.2,19.3,0.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-09-30,Bulawayo,Windy,23.3,40.5,33.4,0.0,Secure greenhouse structures and materials.
+2023-10-01,Mashonaland Central,Rain,22.6,73.5,30.1,18.7,Spread fertilizer 24 hours before expected rainfall.
+2023-10-02,Manicaland,Partly Cloudy,26.4,37.5,18.3,0.4,Suitable for planting drought-resistant crops.
+2023-10-03,Bulawayo,Hot,22.4,67.8,14.7,1.4,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-10-04,Mashonaland East,Windy,18.6,52.8,7.0,1.9,Secure greenhouse structures and materials.
+2023-10-05,Mashonaland East,Hot,32.6,34.0,26.6,0.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-10-06,Matabeleland South,Hot,28.0,44.1,26.0,1.7,Consider heat-resistant crop varieties.
+2023-10-07,Mashonaland East,Clear,24.2,87.0,16.1,2.0,Monitor soil moisture — irrigation may be needed.
+2023-10-08,Midlands,Rain,21.6,91.8,29.9,4.3,Avoid soil compaction by reducing heavy machinery use.
+2023-10-09,Matabeleland South,Hot,35.7,48.9,23.3,1.8,Consider heat-resistant crop varieties.
+2023-10-10,Matabeleland North,Partly Cloudy,27.0,80.8,10.7,1.2,Monitor humidity for fungal risk.
+2023-10-11,Matabeleland North,Rain,36.2,39.8,11.6,8.4,Spread fertilizer 24 hours before expected rainfall.
+2023-10-12,Midlands,Rain,35.0,87.6,38.2,12.1,Spread fertilizer 24 hours before expected rainfall.
+2023-10-13,Midlands,Windy,24.0,78.5,18.1,1.6,Secure greenhouse structures and materials.
+2023-10-14,Bulawayo,Rain,28.3,75.7,21.3,3.3,Avoid soil compaction by reducing heavy machinery use.
+2023-10-15,Mashonaland East,Thunderstorms,18.5,93.3,16.7,4.9,Check crop damage after storm and take remedial action.
+2023-10-16,Midlands,Thunderstorms,38.0,46.8,27.3,4.8,Ensure water drainage systems are functioning.
+2023-10-17,Manicaland,Partly Cloudy,33.7,39.3,22.6,0.2,Light irrigation may help with seed germination.
+2023-10-18,Bulawayo,Thunderstorms,33.2,33.0,36.9,2.0,Postpone field activities due to lightning risk.
+2023-10-19,Mashonaland East,Partly Cloudy,23.0,54.7,28.8,0.1,Light irrigation may help with seed germination.
+2023-10-20,Midlands,Windy,33.5,71.9,32.3,0.2,Avoid spraying chemicals — high drift risk.
+2023-10-21,Matabeleland North,Clear,37.5,81.0,29.5,0.8,Good conditions for pesticide application in early morning.
+2023-10-22,Mashonaland East,Clear,28.8,45.8,15.3,0.1,Good conditions for pesticide application in early morning.
+2023-10-23,Harare,Rain,27.1,63.4,25.5,16.5,Delay pesticide application until post-rain.
+2023-10-24,Bulawayo,Hot,22.9,75.6,43.4,0.6,Use mulch to retain soil moisture.
+2023-10-25,Masvingo,Rain,29.6,31.6,29.0,4.2,Avoid soil compaction by reducing heavy machinery use.
+2023-10-26,Masvingo,Clear,34.4,65.2,32.0,0.5,Good conditions for pesticide application in early morning.
+2023-10-27,Matabeleland North,Rain,36.8,58.4,25.0,3.8,Delay pesticide application until post-rain.
+2023-10-28,Harare,Partly Cloudy,28.9,40.4,44.0,0.4,Suitable for planting drought-resistant crops.
+2023-10-29,Midlands,Hot,36.6,84.6,41.4,0.4,Use mulch to retain soil moisture.
+2023-10-30,Bulawayo,Rain,21.6,86.9,11.1,19.5,Spread fertilizer 24 hours before expected rainfall.
+2023-10-31,Masvingo,Windy,27.6,38.4,33.2,0.5,Avoid spraying chemicals — high drift risk.
+2023-11-01,Matabeleland South,Clear,25.4,76.3,9.0,1.2,Ideal for field work — consider planting or weeding today.
+2023-11-02,Harare,Clear,36.1,62.0,10.9,0.2,Ideal for field work — consider planting or weeding today.
+2023-11-03,Matabeleland South,Hot,36.5,69.0,44.5,1.2,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2023-11-04,Bulawayo,Thunderstorms,25.7,43.1,31.8,15.7,Postpone field activities due to lightning risk.
+2023-11-05,Masvingo,Clear,20.3,51.7,27.7,1.3,Monitor soil moisture — irrigation may be needed.
+2023-11-06,Bulawayo,Windy,33.8,85.2,25.0,1.8,Apply pesticides in early morning or after rain to avoid drift.
+2023-11-07,Manicaland,Windy,30.6,63.6,19.5,1.1,Secure greenhouse structures and materials.
+2023-11-08,Midlands,Partly Cloudy,34.1,55.9,6.2,1.6,Monitor humidity for fungal risk.
+2023-11-09,Masvingo,Rain,18.5,72.9,19.4,17.6,Spread fertilizer 24 hours before expected rainfall.
+2023-11-10,Mashonaland West,Clear,20.2,42.4,27.1,1.1,Ideal for field work — consider planting or weeding today.
+2023-11-11,Matabeleland North,Hot,33.2,58.9,36.6,2.0,Consider heat-resistant crop varieties.
+2023-11-12,Bulawayo,Thunderstorms,37.4,77.0,8.7,18.3,Check crop damage after storm and take remedial action.
+2023-11-13,Manicaland,Windy,29.8,47.7,39.1,0.8,Avoid spraying chemicals — high drift risk.
+2023-11-14,Mashonaland West,Rain,27.4,75.8,39.2,4.6,Delay pesticide application until post-rain.
+2023-11-15,Bulawayo,Partly Cloudy,22.8,46.2,8.3,1.2,Light irrigation may help with seed germination.
+2023-11-16,Manicaland,Clear,35.1,33.1,42.3,1.9,Good conditions for pesticide application in early morning.
+2023-11-17,Midlands,Windy,25.4,61.8,11.8,1.2,Apply pesticides in early morning or after rain to avoid drift.
+2023-11-18,Mashonaland Central,Rain,19.8,66.3,24.7,18.6,Delay pesticide application until post-rain.
+2023-11-19,Manicaland,Windy,21.8,46.1,40.7,1.1,Avoid spraying chemicals — high drift risk.
+2023-11-20,Mashonaland Central,Partly Cloudy,25.8,33.4,30.3,1.1,Suitable for planting drought-resistant crops.
+2023-11-21,Matabeleland North,Windy,37.2,76.7,34.7,1.5,Secure greenhouse structures and materials.
+2023-11-22,Matabeleland South,Thunderstorms,24.8,55.1,11.0,12.1,Check crop damage after storm and take remedial action.
+2023-11-23,Midlands,Windy,23.0,40.8,7.3,0.4,Avoid spraying chemicals — high drift risk.
+2023-11-24,Matabeleland North,Partly Cloudy,26.6,58.6,29.4,0.8,Suitable for planting drought-resistant crops.
+2023-11-25,Mashonaland West,Rain,32.9,56.0,9.5,15.9,Delay pesticide application until post-rain.
+2023-11-26,Mashonaland Central,Thunderstorms,24.4,74.4,40.5,19.3,Check crop damage after storm and take remedial action.
+2023-11-27,Masvingo,Rain,20.4,37.6,38.2,3.3,Avoid soil compaction by reducing heavy machinery use.
+2023-11-28,Bulawayo,Thunderstorms,28.8,92.0,12.0,20.0,Check crop damage after storm and take remedial action.
+2023-11-29,Mashonaland Central,Clear,26.5,56.1,40.9,1.3,Good conditions for pesticide application in early morning.
+2023-11-30,Manicaland,Clear,36.5,66.8,41.6,0.1,Ideal for field work — consider planting or weeding today.
+2023-12-01,Masvingo,Windy,31.8,82.8,16.3,1.1,Apply pesticides in early morning or after rain to avoid drift.
+2023-12-02,Masvingo,Rain,34.1,48.3,43.0,14.1,Delay pesticide application until post-rain.
+2023-12-03,Bulawayo,Clear,33.0,82.1,41.1,0.5,Ideal for field work — consider planting or weeding today.
+2023-12-04,Manicaland,Clear,18.9,88.6,21.5,1.8,Good conditions for pesticide application in early morning.
+2023-12-05,Harare,Clear,35.3,64.2,34.2,1.3,Good conditions for pesticide application in early morning.
+2023-12-06,Midlands,Partly Cloudy,23.0,93.0,23.0,0.6,Suitable for planting drought-resistant crops.
+2023-12-07,Matabeleland North,Partly Cloudy,26.6,60.4,16.3,0.9,Light irrigation may help with seed germination.
+2023-12-08,Mashonaland East,Windy,27.7,95.0,39.6,0.4,Apply pesticides in early morning or after rain to avoid drift.
+2023-12-09,Mashonaland East,Clear,24.3,84.5,34.0,1.9,Ideal for field work — consider planting or weeding today.
+2023-12-10,Mashonaland East,Windy,35.2,37.2,15.8,0.7,Secure greenhouse structures and materials.
+2023-12-11,Bulawayo,Windy,19.4,67.3,32.4,1.3,Secure greenhouse structures and materials.
+2023-12-12,Masvingo,Hot,26.0,94.7,32.7,1.1,Consider heat-resistant crop varieties.
+2023-12-13,Harare,Rain,23.9,75.2,33.4,10.6,Spread fertilizer 24 hours before expected rainfall.
+2023-12-14,Matabeleland South,Windy,24.7,89.8,18.0,0.4,Apply pesticides in early morning or after rain to avoid drift.
+2023-12-15,Bulawayo,Thunderstorms,31.3,32.7,41.5,15.3,Postpone field activities due to lightning risk.
+2023-12-16,Matabeleland North,Hot,19.0,53.8,37.6,0.9,Use mulch to retain soil moisture.
+2023-12-17,Mashonaland East,Windy,20.0,87.3,34.5,0.2,Secure greenhouse structures and materials.
+2023-12-18,Masvingo,Clear,25.4,93.5,14.0,0.6,Monitor soil moisture — irrigation may be needed.
+2023-12-19,Mashonaland East,Rain,21.6,44.1,40.2,14.1,Delay pesticide application until post-rain.
+2023-12-20,Matabeleland North,Rain,19.8,36.7,26.5,3.7,Delay pesticide application until post-rain.
+2023-12-21,Masvingo,Clear,36.5,36.6,22.8,1.4,Ideal for field work — consider planting or weeding today.
+2023-12-22,Midlands,Partly Cloudy,35.2,71.8,5.5,0.8,Suitable for planting drought-resistant crops.
+2023-12-23,Midlands,Hot,34.9,45.4,10.5,1.9,Consider heat-resistant crop varieties.
+2023-12-24,Mashonaland East,Partly Cloudy,23.1,52.9,12.2,0.4,Monitor humidity for fungal risk.
+2023-12-25,Bulawayo,Windy,31.4,45.3,7.3,0.2,Apply pesticides in early morning or after rain to avoid drift.
+2023-12-26,Masvingo,Thunderstorms,25.0,57.2,16.8,5.1,Ensure water drainage systems are functioning.
+2023-12-27,Mashonaland West,Partly Cloudy,35.3,90.4,26.0,1.2,Suitable for planting drought-resistant crops.
+2023-12-28,Harare,Windy,37.3,75.1,43.2,1.0,Secure greenhouse structures and materials.
+2023-12-29,Bulawayo,Thunderstorms,20.2,39.8,25.2,12.7,Ensure water drainage systems are functioning.
+2023-12-30,Bulawayo,Partly Cloudy,35.2,92.6,36.9,1.9,Suitable for planting drought-resistant crops.
+2023-12-31,Mashonaland Central,Windy,26.0,84.0,38.5,0.5,Secure greenhouse structures and materials.
+2024-01-01,Midlands,Rain,31.0,75.0,30.7,7.1,Spread fertilizer 24 hours before expected rainfall.
+2024-01-02,Matabeleland North,Clear,34.5,79.5,39.0,1.9,Good conditions for pesticide application in early morning.
+2024-01-03,Bulawayo,Clear,27.1,30.3,18.9,1.6,Monitor soil moisture — irrigation may be needed.
+2024-01-04,Mashonaland East,Rain,23.5,78.8,40.4,1.9,Spread fertilizer 24 hours before expected rainfall.
+2024-01-05,Harare,Partly Cloudy,29.3,32.4,15.8,0.4,Monitor humidity for fungal risk.
+2024-01-06,Mashonaland Central,Rain,18.4,61.4,42.2,19.4,Spread fertilizer 24 hours before expected rainfall.
+2024-01-07,Mashonaland West,Partly Cloudy,20.6,69.6,16.5,1.8,Suitable for planting drought-resistant crops.
+2024-01-08,Masvingo,Hot,26.8,94.0,15.3,1.1,Use mulch to retain soil moisture.
+2024-01-09,Mashonaland Central,Windy,20.2,66.5,20.6,1.1,Secure greenhouse structures and materials.
+2024-01-10,Manicaland,Rain,30.6,47.9,36.4,9.6,Spread fertilizer 24 hours before expected rainfall.
+2024-01-11,Matabeleland North,Rain,30.5,86.8,32.0,12.2,Delay pesticide application until post-rain.
+2024-01-12,Mashonaland East,Partly Cloudy,31.8,41.2,22.2,0.6,Light irrigation may help with seed germination.
+2024-01-13,Bulawayo,Windy,37.4,73.2,16.2,1.9,Secure greenhouse structures and materials.
+2024-01-14,Harare,Windy,33.3,35.5,28.0,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2024-01-15,Midlands,Windy,21.5,61.5,42.6,0.9,Avoid spraying chemicals — high drift risk.
+2024-01-16,Mashonaland East,Partly Cloudy,23.6,31.6,32.1,1.1,Monitor humidity for fungal risk.
+2024-01-17,Mashonaland East,Rain,23.5,69.4,39.7,9.0,Delay pesticide application until post-rain.
+2024-01-18,Matabeleland South,Partly Cloudy,23.4,80.1,41.0,1.9,Monitor humidity for fungal risk.
+2024-01-19,Masvingo,Thunderstorms,35.0,42.3,43.8,13.1,Check crop damage after storm and take remedial action.
+2024-01-20,Manicaland,Partly Cloudy,18.6,38.4,5.1,1.3,Suitable for planting drought-resistant crops.
+2024-01-21,Mashonaland West,Hot,20.0,67.0,27.8,0.4,Consider heat-resistant crop varieties.
+2024-01-22,Mashonaland Central,Hot,23.9,38.7,14.8,0.6,Consider heat-resistant crop varieties.
+2024-01-23,Matabeleland South,Rain,18.2,86.7,17.9,5.6,Avoid soil compaction by reducing heavy machinery use.
+2024-01-24,Matabeleland North,Clear,32.0,59.2,26.4,0.2,Monitor soil moisture — irrigation may be needed.
+2024-01-25,Manicaland,Partly Cloudy,22.3,77.6,33.7,0.7,Monitor humidity for fungal risk.
+2024-01-26,Harare,Rain,26.5,52.3,37.7,15.6,Avoid soil compaction by reducing heavy machinery use.
+2024-01-27,Matabeleland South,Partly Cloudy,20.7,79.9,16.1,0.0,Monitor humidity for fungal risk.
+2024-01-28,Bulawayo,Thunderstorms,26.1,72.9,18.8,7.9,Ensure water drainage systems are functioning.
+2024-01-29,Harare,Rain,30.5,80.2,31.4,5.5,Delay pesticide application until post-rain.
+2024-01-30,Harare,Thunderstorms,37.6,76.4,7.2,14.4,Check crop damage after storm and take remedial action.
+2024-01-31,Mashonaland West,Hot,20.1,34.6,25.4,1.9,Use mulch to retain soil moisture.
+2024-02-01,Matabeleland South,Windy,32.6,78.1,9.9,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2024-02-02,Harare,Thunderstorms,32.5,58.2,36.4,1.6,Check crop damage after storm and take remedial action.
+2024-02-03,Masvingo,Clear,35.9,77.2,15.2,0.7,Monitor soil moisture — irrigation may be needed.
+2024-02-04,Mashonaland West,Clear,20.9,56.6,41.3,1.3,Good conditions for pesticide application in early morning.
+2024-02-05,Manicaland,Windy,32.1,76.9,26.3,0.6,Secure greenhouse structures and materials.
+2024-02-06,Matabeleland South,Thunderstorms,24.0,54.0,15.1,14.4,Check crop damage after storm and take remedial action.
+2024-02-07,Manicaland,Windy,31.1,62.3,38.9,1.9,Secure greenhouse structures and materials.
+2024-02-08,Midlands,Partly Cloudy,19.5,65.2,19.5,1.9,Light irrigation may help with seed germination.
+2024-02-09,Harare,Thunderstorms,28.6,78.3,34.3,16.2,Check crop damage after storm and take remedial action.
+2024-02-10,Matabeleland North,Partly Cloudy,22.5,83.5,10.9,1.0,Suitable for planting drought-resistant crops.
+2024-02-11,Masvingo,Clear,37.1,72.0,13.7,0.3,Monitor soil moisture — irrigation may be needed.
+2024-02-12,Matabeleland North,Hot,24.9,58.2,19.8,1.3,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-02-13,Mashonaland East,Hot,30.6,94.7,24.6,1.9,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-02-14,Matabeleland North,Hot,34.2,56.8,15.6,0.3,Consider heat-resistant crop varieties.
+2024-02-15,Masvingo,Hot,18.9,37.3,24.4,0.8,Use mulch to retain soil moisture.
+2024-02-16,Matabeleland South,Clear,33.7,67.8,38.4,1.6,Ideal for field work — consider planting or weeding today.
+2024-02-17,Matabeleland North,Clear,33.6,38.2,11.7,0.9,Good conditions for pesticide application in early morning.
+2024-02-18,Mashonaland East,Windy,22.4,30.2,6.0,0.6,Avoid spraying chemicals — high drift risk.
+2024-02-19,Mashonaland West,Clear,27.1,41.8,37.7,0.6,Ideal for field work — consider planting or weeding today.
+2024-02-20,Harare,Partly Cloudy,22.1,56.6,21.5,1.2,Light irrigation may help with seed germination.
+2024-02-21,Mashonaland West,Clear,27.8,76.2,32.5,0.3,Good conditions for pesticide application in early morning.
+2024-02-22,Masvingo,Clear,33.9,61.7,35.5,1.4,Ideal for field work — consider planting or weeding today.
+2024-02-23,Matabeleland North,Hot,36.5,91.0,17.0,0.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-02-24,Matabeleland South,Partly Cloudy,28.5,79.9,41.3,0.8,Suitable for planting drought-resistant crops.
+2024-02-25,Bulawayo,Partly Cloudy,32.8,39.9,36.2,1.0,Suitable for planting drought-resistant crops.
+2024-02-26,Masvingo,Thunderstorms,32.5,88.0,15.4,16.0,Check crop damage after storm and take remedial action.
+2024-02-27,Bulawayo,Rain,25.5,90.6,11.6,2.0,Delay pesticide application until post-rain.
+2024-02-28,Midlands,Hot,34.3,31.9,12.4,2.0,Consider heat-resistant crop varieties.
+2024-02-29,Manicaland,Hot,23.1,57.9,31.1,1.7,Consider heat-resistant crop varieties.
+2024-03-01,Bulawayo,Hot,27.0,51.7,7.7,1.3,Use mulch to retain soil moisture.
+2024-03-02,Bulawayo,Rain,37.5,56.9,43.3,12.1,Avoid soil compaction by reducing heavy machinery use.
+2024-03-03,Manicaland,Windy,32.0,71.2,40.9,0.8,Avoid spraying chemicals — high drift risk.
+2024-03-04,Mashonaland East,Windy,37.0,34.9,44.7,0.9,Avoid spraying chemicals — high drift risk.
+2024-03-05,Manicaland,Partly Cloudy,24.1,47.2,9.6,1.5,Suitable for planting drought-resistant crops.
+2024-03-06,Mashonaland West,Hot,23.1,92.2,42.9,0.8,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-03-07,Manicaland,Hot,34.5,68.9,10.5,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-03-08,Midlands,Clear,22.0,68.9,20.9,1.8,Ideal for field work — consider planting or weeding today.
+2024-03-09,Midlands,Clear,32.3,51.2,41.7,1.3,Monitor soil moisture — irrigation may be needed.
+2024-03-10,Midlands,Clear,37.7,31.1,31.1,0.7,Good conditions for pesticide application in early morning.
+2024-03-11,Manicaland,Clear,34.6,59.2,8.6,0.1,Monitor soil moisture — irrigation may be needed.
+2024-03-12,Mashonaland East,Windy,18.5,90.9,40.0,0.7,Apply pesticides in early morning or after rain to avoid drift.
+2024-03-13,Midlands,Rain,26.0,33.2,42.0,4.4,Spread fertilizer 24 hours before expected rainfall.
+2024-03-14,Manicaland,Partly Cloudy,20.0,56.6,27.8,1.5,Monitor humidity for fungal risk.
+2024-03-15,Midlands,Clear,26.9,33.2,35.9,0.5,Good conditions for pesticide application in early morning.
+2024-03-16,Harare,Windy,29.2,72.1,10.2,1.7,Avoid spraying chemicals — high drift risk.
+2024-03-17,Mashonaland Central,Thunderstorms,22.9,50.0,33.5,2.2,Postpone field activities due to lightning risk.
+2024-03-18,Bulawayo,Hot,21.2,83.2,24.4,0.9,Use mulch to retain soil moisture.
+2024-03-19,Bulawayo,Partly Cloudy,21.1,84.2,25.9,1.7,Light irrigation may help with seed germination.
+2024-03-20,Masvingo,Thunderstorms,30.0,47.2,8.2,5.8,Postpone field activities due to lightning risk.
+2024-03-21,Matabeleland South,Hot,23.8,78.2,44.1,0.1,Use mulch to retain soil moisture.
+2024-03-22,Matabeleland South,Hot,30.1,62.0,20.3,1.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-03-23,Harare,Partly Cloudy,21.9,43.8,29.9,0.7,Light irrigation may help with seed germination.
+2024-03-24,Mashonaland West,Partly Cloudy,22.1,82.8,13.1,1.3,Light irrigation may help with seed germination.
+2024-03-25,Mashonaland East,Clear,28.2,35.2,16.8,0.1,Monitor soil moisture — irrigation may be needed.
+2024-03-26,Manicaland,Hot,24.9,52.4,32.1,0.7,Consider heat-resistant crop varieties.
+2024-03-27,Matabeleland North,Partly Cloudy,33.7,91.3,28.1,1.7,Suitable for planting drought-resistant crops.
+2024-03-28,Masvingo,Clear,20.2,83.0,34.3,1.2,Ideal for field work — consider planting or weeding today.
+2024-03-29,Harare,Partly Cloudy,33.9,65.3,9.5,1.8,Light irrigation may help with seed germination.
+2024-03-30,Mashonaland East,Thunderstorms,36.9,61.5,44.6,15.3,Postpone field activities due to lightning risk.
+2024-03-31,Mashonaland Central,Rain,33.5,30.9,15.0,14.4,Avoid soil compaction by reducing heavy machinery use.
+2024-04-01,Matabeleland North,Thunderstorms,27.2,45.0,19.3,9.2,Ensure water drainage systems are functioning.
+2024-04-02,Manicaland,Windy,28.8,71.2,23.7,1.2,Avoid spraying chemicals — high drift risk.
+2024-04-03,Masvingo,Rain,25.8,55.1,24.1,3.2,Delay pesticide application until post-rain.
+2024-04-04,Mashonaland East,Thunderstorms,35.6,32.2,25.4,12.7,Ensure water drainage systems are functioning.
+2024-04-05,Midlands,Clear,37.2,36.4,5.8,0.5,Ideal for field work — consider planting or weeding today.
+2024-04-06,Mashonaland Central,Partly Cloudy,18.3,74.8,29.6,1.0,Suitable for planting drought-resistant crops.
+2024-04-07,Masvingo,Clear,27.7,72.0,26.7,1.4,Good conditions for pesticide application in early morning.
+2024-04-08,Manicaland,Windy,32.3,79.6,30.0,0.3,Avoid spraying chemicals — high drift risk.
+2024-04-09,Matabeleland South,Windy,37.1,79.5,42.1,2.0,Avoid spraying chemicals — high drift risk.
+2024-04-10,Mashonaland West,Clear,23.6,60.1,9.2,0.2,Ideal for field work — consider planting or weeding today.
+2024-04-11,Matabeleland North,Rain,26.5,62.7,36.1,17.6,Spread fertilizer 24 hours before expected rainfall.
+2024-04-12,Masvingo,Partly Cloudy,31.6,60.3,27.2,1.0,Suitable for planting drought-resistant crops.
+2024-04-13,Masvingo,Thunderstorms,26.1,58.0,33.5,0.2,Check crop damage after storm and take remedial action.
+2024-04-14,Mashonaland East,Thunderstorms,20.1,39.5,36.4,12.2,Check crop damage after storm and take remedial action.
+2024-04-15,Matabeleland North,Partly Cloudy,25.4,49.0,5.6,1.1,Monitor humidity for fungal risk.
+2024-04-16,Mashonaland West,Windy,37.8,57.9,15.5,0.6,Apply pesticides in early morning or after rain to avoid drift.
+2024-04-17,Mashonaland West,Hot,25.0,53.9,24.0,1.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-04-18,Mashonaland Central,Partly Cloudy,21.6,60.7,29.3,0.0,Light irrigation may help with seed germination.
+2024-04-19,Bulawayo,Windy,20.1,40.2,18.0,0.9,Secure greenhouse structures and materials.
+2024-04-20,Mashonaland Central,Hot,35.7,76.0,39.1,1.5,Consider heat-resistant crop varieties.
+2024-04-21,Harare,Hot,36.7,48.2,34.9,1.0,Use mulch to retain soil moisture.
+2024-04-22,Manicaland,Partly Cloudy,21.5,82.1,39.7,0.6,Suitable for planting drought-resistant crops.
+2024-04-23,Mashonaland West,Hot,25.3,76.4,11.7,0.7,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-04-24,Bulawayo,Clear,26.2,81.5,34.6,1.7,Monitor soil moisture — irrigation may be needed.
+2024-04-25,Mashonaland West,Hot,21.1,33.1,14.4,0.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-04-26,Bulawayo,Hot,19.5,58.4,38.4,1.6,Use mulch to retain soil moisture.
+2024-04-27,Mashonaland East,Partly Cloudy,32.0,49.8,43.8,1.6,Suitable for planting drought-resistant crops.
+2024-04-28,Mashonaland West,Rain,23.0,33.9,5.5,9.8,Spread fertilizer 24 hours before expected rainfall.
+2024-04-29,Masvingo,Hot,34.8,83.9,30.4,0.0,Consider heat-resistant crop varieties.
+2024-04-30,Matabeleland South,Hot,23.7,30.8,19.3,0.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-05-01,Midlands,Hot,20.0,69.6,12.5,1.2,Use mulch to retain soil moisture.
+2024-05-02,Midlands,Rain,25.8,39.5,9.7,0.5,Avoid soil compaction by reducing heavy machinery use.
+2024-05-03,Mashonaland West,Partly Cloudy,32.4,75.5,16.3,1.7,Monitor humidity for fungal risk.
+2024-05-04,Midlands,Windy,33.7,58.1,37.0,1.4,Secure greenhouse structures and materials.
+2024-05-05,Manicaland,Rain,23.2,37.5,21.2,6.8,Spread fertilizer 24 hours before expected rainfall.
+2024-05-06,Masvingo,Thunderstorms,29.6,34.6,27.9,18.7,Ensure water drainage systems are functioning.
+2024-05-07,Mashonaland East,Hot,23.0,90.5,10.5,1.3,Consider heat-resistant crop varieties.
+2024-05-08,Mashonaland East,Rain,18.3,79.0,12.7,13.0,Delay pesticide application until post-rain.
+2024-05-09,Harare,Partly Cloudy,25.5,90.7,33.5,1.4,Monitor humidity for fungal risk.
+2024-05-10,Bulawayo,Rain,19.6,57.7,42.9,18.6,Delay pesticide application until post-rain.
+2024-05-11,Mashonaland Central,Thunderstorms,34.2,82.8,38.5,13.1,Postpone field activities due to lightning risk.
+2024-05-12,Mashonaland Central,Rain,20.1,45.8,28.3,11.9,Delay pesticide application until post-rain.
+2024-05-13,Masvingo,Rain,33.8,43.3,30.5,19.9,Delay pesticide application until post-rain.
+2024-05-14,Bulawayo,Rain,29.2,45.8,9.6,16.5,Avoid soil compaction by reducing heavy machinery use.
+2024-05-15,Mashonaland West,Hot,37.8,91.2,14.0,1.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-05-16,Mashonaland Central,Thunderstorms,32.5,32.8,11.0,13.4,Ensure water drainage systems are functioning.
+2024-05-17,Mashonaland West,Rain,24.1,86.6,17.2,14.5,Delay pesticide application until post-rain.
+2024-05-18,Mashonaland Central,Windy,37.5,69.8,19.7,1.3,Secure greenhouse structures and materials.
+2024-05-19,Midlands,Hot,25.3,56.3,12.1,0.7,Use mulch to retain soil moisture.
+2024-05-20,Mashonaland West,Thunderstorms,24.3,40.1,35.8,19.5,Check crop damage after storm and take remedial action.
+2024-05-21,Mashonaland Central,Thunderstorms,32.7,30.0,24.2,0.8,Postpone field activities due to lightning risk.
+2024-05-22,Mashonaland East,Clear,34.0,50.0,23.0,0.5,Monitor soil moisture — irrigation may be needed.
+2024-05-23,Matabeleland North,Hot,24.2,78.2,15.6,0.3,Use mulch to retain soil moisture.
+2024-05-24,Mashonaland West,Thunderstorms,26.6,48.3,16.3,3.1,Postpone field activities due to lightning risk.
+2024-05-25,Harare,Rain,37.0,70.2,23.9,19.0,Avoid soil compaction by reducing heavy machinery use.
+2024-05-26,Masvingo,Partly Cloudy,27.4,80.6,39.1,0.8,Suitable for planting drought-resistant crops.
+2024-05-27,Mashonaland East,Windy,34.8,67.4,12.6,0.1,Avoid spraying chemicals — high drift risk.
+2024-05-28,Mashonaland West,Hot,30.3,94.0,32.6,1.1,Use mulch to retain soil moisture.
+2024-05-29,Masvingo,Partly Cloudy,23.6,31.8,16.2,1.7,Monitor humidity for fungal risk.
+2024-05-30,Masvingo,Hot,25.0,75.7,33.1,0.4,Use mulch to retain soil moisture.
+2024-05-31,Mashonaland West,Partly Cloudy,37.8,77.3,8.2,0.2,Suitable for planting drought-resistant crops.
+2024-06-01,Midlands,Rain,35.1,47.4,43.3,15.5,Delay pesticide application until post-rain.
+2024-06-02,Bulawayo,Windy,21.2,57.5,42.4,0.6,Secure greenhouse structures and materials.
+2024-06-03,Mashonaland Central,Clear,25.2,89.9,42.9,1.8,Monitor soil moisture — irrigation may be needed.
+2024-06-04,Matabeleland North,Rain,24.9,54.9,37.5,3.9,Avoid soil compaction by reducing heavy machinery use.
+2024-06-05,Bulawayo,Clear,25.5,70.8,10.1,1.2,Ideal for field work — consider planting or weeding today.
+2024-06-06,Masvingo,Windy,32.3,40.0,40.9,1.0,Avoid spraying chemicals — high drift risk.
+2024-06-07,Manicaland,Thunderstorms,24.9,53.9,25.5,16.3,Check crop damage after storm and take remedial action.
+2024-06-08,Midlands,Thunderstorms,29.0,83.0,35.3,12.8,Ensure water drainage systems are functioning.
+2024-06-09,Matabeleland North,Windy,25.8,77.8,28.6,0.3,Avoid spraying chemicals — high drift risk.
+2024-06-10,Masvingo,Partly Cloudy,29.9,79.0,21.0,1.5,Monitor humidity for fungal risk.
+2024-06-11,Harare,Partly Cloudy,24.6,46.9,33.7,1.4,Light irrigation may help with seed germination.
+2024-06-12,Matabeleland North,Windy,26.7,33.2,16.2,0.4,Apply pesticides in early morning or after rain to avoid drift.
+2024-06-13,Mashonaland West,Windy,22.3,60.3,26.9,0.5,Apply pesticides in early morning or after rain to avoid drift.
+2024-06-14,Mashonaland Central,Windy,36.2,70.3,31.2,0.9,Avoid spraying chemicals — high drift risk.
+2024-06-15,Masvingo,Thunderstorms,31.7,84.1,40.1,1.3,Ensure water drainage systems are functioning.
+2024-06-16,Matabeleland North,Windy,23.2,90.2,15.7,1.2,Secure greenhouse structures and materials.
+2024-06-17,Bulawayo,Rain,27.7,78.1,19.6,10.3,Avoid soil compaction by reducing heavy machinery use.
+2024-06-18,Masvingo,Thunderstorms,29.8,60.4,43.4,2.4,Postpone field activities due to lightning risk.
+2024-06-19,Harare,Clear,31.1,81.1,28.3,1.0,Monitor soil moisture — irrigation may be needed.
+2024-06-20,Mashonaland Central,Rain,28.2,33.0,25.7,19.1,Avoid soil compaction by reducing heavy machinery use.
+2024-06-21,Mashonaland Central,Partly Cloudy,35.9,64.1,25.7,1.4,Monitor humidity for fungal risk.
+2024-06-22,Harare,Rain,20.4,81.9,42.7,8.9,Spread fertilizer 24 hours before expected rainfall.
+2024-06-23,Mashonaland West,Thunderstorms,21.0,89.7,27.9,11.6,Ensure water drainage systems are functioning.
+2024-06-24,Masvingo,Rain,34.7,92.2,31.5,8.7,Spread fertilizer 24 hours before expected rainfall.
+2024-06-25,Matabeleland North,Clear,32.1,65.8,13.0,1.8,Ideal for field work — consider planting or weeding today.
+2024-06-26,Matabeleland South,Clear,31.9,53.7,39.1,1.2,Ideal for field work — consider planting or weeding today.
+2024-06-27,Bulawayo,Rain,33.1,50.2,35.7,15.4,Avoid soil compaction by reducing heavy machinery use.
+2024-06-28,Masvingo,Clear,26.1,52.7,9.1,0.2,Monitor soil moisture — irrigation may be needed.
+2024-06-29,Matabeleland South,Rain,32.6,65.8,36.7,0.6,Avoid soil compaction by reducing heavy machinery use.
+2024-06-30,Matabeleland North,Rain,30.4,64.4,21.2,10.1,Avoid soil compaction by reducing heavy machinery use.
+2024-07-01,Matabeleland North,Partly Cloudy,26.5,80.5,34.5,1.7,Monitor humidity for fungal risk.
+2024-07-02,Masvingo,Partly Cloudy,36.8,70.4,41.4,1.8,Suitable for planting drought-resistant crops.
+2024-07-03,Mashonaland East,Hot,20.8,58.7,35.1,0.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-07-04,Manicaland,Hot,22.0,84.4,37.2,1.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-07-05,Manicaland,Rain,26.3,81.2,9.6,19.6,Spread fertilizer 24 hours before expected rainfall.
+2024-07-06,Matabeleland South,Thunderstorms,37.5,68.4,28.4,4.4,Check crop damage after storm and take remedial action.
+2024-07-07,Manicaland,Partly Cloudy,33.6,65.3,24.2,1.4,Light irrigation may help with seed germination.
+2024-07-08,Midlands,Clear,32.5,59.4,12.0,1.3,Ideal for field work — consider planting or weeding today.
+2024-07-09,Midlands,Rain,22.5,87.2,28.6,15.8,Delay pesticide application until post-rain.
+2024-07-10,Harare,Partly Cloudy,37.5,83.0,31.0,2.0,Suitable for planting drought-resistant crops.
+2024-07-11,Matabeleland North,Hot,27.4,34.5,31.3,1.8,Use mulch to retain soil moisture.
+2024-07-12,Bulawayo,Thunderstorms,19.3,37.3,25.3,13.4,Ensure water drainage systems are functioning.
+2024-07-13,Mashonaland West,Partly Cloudy,28.5,82.0,11.2,0.7,Suitable for planting drought-resistant crops.
+2024-07-14,Matabeleland South,Partly Cloudy,33.2,59.6,40.0,0.8,Monitor humidity for fungal risk.
+2024-07-15,Matabeleland North,Partly Cloudy,22.3,59.2,30.2,1.4,Light irrigation may help with seed germination.
+2024-07-16,Harare,Hot,21.1,47.0,22.0,0.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-07-17,Masvingo,Hot,29.8,61.3,19.2,1.3,Consider heat-resistant crop varieties.
+2024-07-18,Matabeleland South,Clear,31.6,38.3,36.8,0.4,Ideal for field work — consider planting or weeding today.
+2024-07-19,Matabeleland North,Windy,35.6,38.1,32.4,1.1,Secure greenhouse structures and materials.
+2024-07-20,Mashonaland West,Rain,35.4,72.6,43.6,16.3,Avoid soil compaction by reducing heavy machinery use.
+2024-07-21,Mashonaland East,Partly Cloudy,18.5,84.6,43.5,1.5,Monitor humidity for fungal risk.
+2024-07-22,Mashonaland East,Thunderstorms,37.2,52.3,33.8,15.8,Ensure water drainage systems are functioning.
+2024-07-23,Manicaland,Windy,18.7,69.5,13.1,0.3,Apply pesticides in early morning or after rain to avoid drift.
+2024-07-24,Harare,Windy,34.5,44.8,9.2,1.0,Apply pesticides in early morning or after rain to avoid drift.
+2024-07-25,Mashonaland West,Hot,29.7,87.6,8.4,0.5,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-07-26,Masvingo,Rain,18.3,60.4,10.2,14.5,Spread fertilizer 24 hours before expected rainfall.
+2024-07-27,Matabeleland South,Windy,18.4,74.8,40.4,0.9,Avoid spraying chemicals — high drift risk.
+2024-07-28,Mashonaland Central,Clear,22.1,84.0,33.0,1.8,Monitor soil moisture — irrigation may be needed.
+2024-07-29,Bulawayo,Windy,30.5,44.1,38.4,1.2,Apply pesticides in early morning or after rain to avoid drift.
+2024-07-30,Manicaland,Partly Cloudy,21.7,80.3,29.0,1.5,Suitable for planting drought-resistant crops.
+2024-07-31,Harare,Hot,28.5,68.9,25.2,2.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-08-01,Manicaland,Windy,36.3,75.8,35.1,1.5,Apply pesticides in early morning or after rain to avoid drift.
+2024-08-02,Masvingo,Rain,35.4,46.9,11.8,0.8,Spread fertilizer 24 hours before expected rainfall.
+2024-08-03,Mashonaland West,Partly Cloudy,26.0,47.8,40.6,0.4,Monitor humidity for fungal risk.
+2024-08-04,Bulawayo,Windy,29.6,40.4,17.7,0.8,Avoid spraying chemicals — high drift risk.
+2024-08-05,Mashonaland Central,Rain,24.7,73.0,39.9,6.8,Spread fertilizer 24 hours before expected rainfall.
+2024-08-06,Matabeleland North,Partly Cloudy,28.8,82.4,33.1,0.1,Light irrigation may help with seed germination.
+2024-08-07,Matabeleland North,Clear,35.7,60.2,8.9,1.3,Ideal for field work — consider planting or weeding today.
+2024-08-08,Bulawayo,Partly Cloudy,20.1,34.5,8.7,0.9,Monitor humidity for fungal risk.
+2024-08-09,Bulawayo,Thunderstorms,19.7,47.5,15.0,13.4,Ensure water drainage systems are functioning.
+2024-08-10,Midlands,Hot,31.3,55.6,20.2,1.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-08-11,Mashonaland East,Thunderstorms,34.8,71.0,8.3,8.0,Check crop damage after storm and take remedial action.
+2024-08-12,Mashonaland West,Clear,37.0,90.2,11.2,2.0,Good conditions for pesticide application in early morning.
+2024-08-13,Masvingo,Hot,25.1,68.9,26.0,1.2,Consider heat-resistant crop varieties.
+2024-08-14,Harare,Hot,21.1,90.6,32.8,1.7,Consider heat-resistant crop varieties.
+2024-08-15,Mashonaland West,Thunderstorms,28.5,85.4,39.3,11.8,Ensure water drainage systems are functioning.
+2024-08-16,Midlands,Partly Cloudy,22.1,41.0,31.0,0.4,Light irrigation may help with seed germination.
+2024-08-17,Matabeleland South,Hot,33.8,68.0,37.4,1.5,Use mulch to retain soil moisture.
+2024-08-18,Mashonaland Central,Hot,19.5,80.4,39.6,1.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-08-19,Matabeleland South,Hot,32.9,59.2,41.4,0.5,Consider heat-resistant crop varieties.
+2024-08-20,Masvingo,Rain,32.0,94.4,32.5,3.2,Spread fertilizer 24 hours before expected rainfall.
+2024-08-21,Matabeleland North,Clear,21.3,44.1,38.1,1.1,Good conditions for pesticide application in early morning.
+2024-08-22,Matabeleland North,Rain,20.6,69.2,43.9,2.5,Delay pesticide application until post-rain.
+2024-08-23,Mashonaland East,Hot,21.4,78.2,27.5,1.7,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-08-24,Bulawayo,Windy,21.1,57.1,20.7,1.5,Apply pesticides in early morning or after rain to avoid drift.
+2024-08-25,Mashonaland West,Thunderstorms,29.0,70.2,14.7,18.3,Ensure water drainage systems are functioning.
+2024-08-26,Harare,Hot,23.2,44.4,36.5,0.6,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-08-27,Mashonaland Central,Partly Cloudy,18.1,65.5,22.6,0.2,Monitor humidity for fungal risk.
+2024-08-28,Bulawayo,Thunderstorms,29.4,92.7,21.1,1.5,Ensure water drainage systems are functioning.
+2024-08-29,Matabeleland North,Partly Cloudy,30.2,61.8,12.9,0.9,Suitable for planting drought-resistant crops.
+2024-08-30,Harare,Partly Cloudy,26.9,70.6,40.9,0.1,Suitable for planting drought-resistant crops.
+2024-08-31,Matabeleland South,Hot,27.9,38.8,21.3,1.1,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-09-01,Mashonaland Central,Windy,37.8,36.6,9.3,1.7,Secure greenhouse structures and materials.
+2024-09-02,Midlands,Thunderstorms,27.1,82.0,36.2,3.7,Postpone field activities due to lightning risk.
+2024-09-03,Bulawayo,Clear,34.2,53.9,8.3,0.7,Monitor soil moisture — irrigation may be needed.
+2024-09-04,Mashonaland East,Windy,21.5,87.5,32.2,0.9,Secure greenhouse structures and materials.
+2024-09-05,Matabeleland North,Thunderstorms,23.1,70.6,42.3,16.0,Postpone field activities due to lightning risk.
+2024-09-06,Manicaland,Partly Cloudy,25.8,70.2,35.9,1.1,Monitor humidity for fungal risk.
+2024-09-07,Masvingo,Rain,29.4,36.1,32.7,8.4,Avoid soil compaction by reducing heavy machinery use.
+2024-09-08,Mashonaland East,Thunderstorms,37.9,53.0,38.8,5.3,Postpone field activities due to lightning risk.
+2024-09-09,Bulawayo,Clear,21.1,33.8,44.5,0.0,Monitor soil moisture — irrigation may be needed.
+2024-09-10,Bulawayo,Thunderstorms,20.1,49.9,14.6,15.3,Ensure water drainage systems are functioning.
+2024-09-11,Mashonaland West,Rain,19.6,64.1,9.3,9.8,Spread fertilizer 24 hours before expected rainfall.
+2024-09-12,Mashonaland East,Hot,19.8,91.2,5.7,1.0,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-09-13,Bulawayo,Hot,32.8,75.6,26.9,0.2,Irrigate during cool hours (5-8 AM or 6-9 PM).
+2024-09-14,Masvingo,Rain,32.1,67.7,19.3,1.9,Avoid soil compaction by reducing heavy machinery use.
+2024-09-15,Harare,Partly Cloudy,25.8,83.6,12.1,1.1,Suitable for planting drought-resistant crops.
+2024-09-16,Mashonaland Central,Thunderstorms,31.2,91.7,38.2,17.7,Ensure water drainage systems are functioning.
+2024-09-17,Mashonaland East,Clear,32.7,73.2,13.2,0.7,Good conditions for pesticide application in early morning.
+2024-09-18,Harare,Hot,26.0,71.4,18.0,2.0,Use mulch to retain soil moisture.
+2024-09-19,Mashonaland East,Hot,36.6,30.9,25.9,1.3,Use mulch to retain soil moisture.
+2024-09-20,Midlands,Clear,34.8,87.3,20.2,0.5,Good conditions for pesticide application in early morning.
+2024-09-21,Manicaland,Clear,30.6,57.6,11.8,0.6,Monitor soil moisture — irrigation may be needed.
+2024-09-22,Mashonaland Central,Hot,35.0,58.4,27.2,0.8,Consider heat-resistant crop varieties.
+2024-09-23,Masvingo,Clear,24.1,91.8,34.4,0.5,Ideal for field work — consider planting or weeding today.
+2024-09-24,Matabeleland North,Rain,30.2,78.2,37.4,5.2,Avoid soil compaction by reducing heavy machinery use.
+2024-09-25,Mashonaland West,Partly Cloudy,18.4,31.6,43.1,1.2,Light irrigation may help with seed germination.
+2024-09-26,Masvingo,Windy,28.0,31.7,39.4,1.3,Avoid spraying chemicals — high drift risk.

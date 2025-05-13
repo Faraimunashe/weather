@@ -8,32 +8,47 @@
       <h1 class="text-4xl font-extrabold text-gray-800 mb-2">🌿 Agriculture Forecast Dashboard</h1>
       <p class="text-gray-600 text-lg max-w-2xl">Weather insights designed for farmers: plan, protect, and prosper with real-time environmental intelligence.</p>
     </section>
-
-    <!-- Section: Metric Cards -->
-    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-      {% set metrics = [
-        {'label': 'Rainfall Prediction', 'value': '12.5 mm', 'sub': 'Next 24 hrs', 'icon': '🌧️', 'border': 'emerald'},
-        {'label': 'Soil Moisture', 'value': '68%', 'sub': 'Favourable', 'icon': '🌱', 'border': 'green'},
-        {'label': 'Wind Speed', 'value': '15 km/h', 'sub': 'Moderate breeze', 'icon': '💨', 'border': 'yellow'},
-        {'label': 'Temperature', 'value': '30°C', 'sub': 'Above average', 'icon': '🔥', 'border': 'red'}
-      ] %}
-      {% for metric in metrics %}
-      <div class="bg-white/80 backdrop-blur shadow-xl border-l-4 border-{{ metric.border }}-500 rounded-xl p-5 transition hover:scale-105 duration-300">
-        <div class="flex items-center justify-between">
-          <div>
-            <p class="text-sm text-gray-500">{{ metric.label }}</p>
-            <h2 class="text-2xl font-bold">{{ metric.value }}</h2>
-            <p class="text-xs text-gray-400 mt-1">{{ metric.sub }}</p>
-          </div>
-          <div class="text-3xl">{{ metric.icon }}</div>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="space-y-2">
+          {% for category, message in messages %}
+            <div class="px-4 py-2 rounded-lg text-sm {{ 'bg-red-100 text-red-800' if 'Error' in category else 'bg-red-100 text-red-800' }}">
+              {{ message }}
+            </div>
+          {% endfor %}
         </div>
+      {% endif %}
+    {% endwith %}
+
+    <form method="POST" action="{{ url_for('forecast.agriculture') }}" class="mb-10 space-x-3">
+        <input type="text" name="city" placeholder="Enter City" required class="border px-3 py-2 rounded">
+        <input type="number" name="days" min="1" max="14" value="2" required class="border px-3 py-2 rounded w-20">
+        <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Get Forecast</button>
+    </form>
+
+    {% if city != "" %}
+
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌧️ Rainfall</p>
+        <h2 class="text-2xl font-bold">{{first_day.rainfall}}mm</h2>
       </div>
-      {% endfor %}
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🌱 Moisture</p>
+        <h2 class="text-2xl font-bold">{{first_day.himidity}}</h2>
+      </div>
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">💨 Wind Speed</p>
+        <h2 class="text-2xl font-bold">{{first_day.wind_kph}} km</h2>
+      </div>
+      <div class="bg-white border-l-4 border-gray-700 p-6 rounded-xl shadow-md">
+        <p class="text-sm text-gray-500">🔥 Temperature</p>
+        <h2 class="text-2xl font-bold">{{ first_day.temp }}°C</h2>
+      </div>
     </section>
 
-    <!-- Section: 5-Day Forecast Table -->
     <section>
-      <h2 class="text-2xl font-semibold mb-5">📅 5-Day Agricultural Weather Outlook</h2>
+      <h2 class="text-2xl font-semibold mb-5">📅 {{days}}-Day Agricultural Weather Outlook</h2>
       <div class="overflow-x-auto">
         <table class="w-full border border-gray-200 rounded-lg overflow-hidden shadow-md bg-white text-sm">
           <thead class="bg-blue-100 text-blue-900">
@@ -41,19 +56,21 @@
               <th class="px-4 py-3 text-left">Date</th>
               <th class="px-4 py-3 text-left">Temperature</th>
               <th class="px-4 py-3 text-left">Rainfall</th>
+              <th class="px-4 py-3 text-left">Wind</th>
               <th class="px-4 py-3 text-left">Humidity</th>
               <th class="px-4 py-3 text-left">Condition</th>
             </tr>
           </thead>
           <tbody class="text-gray-700 divide-y divide-gray-200">
-            {% for day in ['24 Apr', '25 Apr', '26 Apr', '27 Apr', '28 Apr'] %}
-            <tr>
-              <td class="px-4 py-2">{{ day }} 2025</td>
-              <td class="px-4 py-2">{{ 28 + loop.index }}°C</td>
-              <td class="px-4 py-2">{{ (10 - loop.index) * 1.3 | round(1) }} mm</td>
-              <td class="px-4 py-2">{{ 60 + loop.index * 4 }}%</td>
-              <td class="px-4 py-2">{{ ['Cloudy', 'Rainy', 'Sunny', 'Showers', 'Thunderstorm'][loop.index0] }}</td>
-            </tr>
+            {% for day in forecast %}
+              <tr>
+                <td class="px-4 py-2">{{ day.date }}</td>
+                <td class="px-4 py-2">{{ day.temp }}°C</td>
+                <td class="px-4 py-2">{{ day.rainfall }} mm</td>
+                <td class="px-4 py-2">{{ day.wind_kph }}</td>
+                <td class="px-4 py-2">{{ day.humidity }}</td>
+                <td class="px-4 py-2">{{ day.condition }}</td>
+              </tr>
             {% endfor %}
           </tbody>
         </table>
@@ -64,13 +81,10 @@
     <section class="bg-white shadow-lg rounded-2xl p-6">
       <h3 class="text-xl font-semibold mb-3">🌾 Strategic Farming Tips</h3>
       <ul class="list-disc list-inside space-y-2 text-gray-700">
-        <li><strong>Soil Moisture:</strong> Ideal for germination — consider planting drought-resistant seeds midweek.</li>
-        <li><strong>Rain Patterns:</strong> Spread fertilizer 24 hours before rainfall to maximise nutrient absorption.</li>
-        <li><strong>Wind Conditions:</strong> Apply pesticides early morning or post-rain to minimise drift loss.</li>
-        <li><strong>Heat Stress:</strong> Irrigate during cool hours (5–8 AM or 6–9 PM) to reduce evapotranspiration.</li>
+        <li><strong>Forecast Tip:</strong> {{tip}}</li>
       </ul>
     </section>
-
+    {% endif %}
   </div>
 
 {% endblock %}

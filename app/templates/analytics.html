@@ -1,0 +1,172 @@
+{% extends "base.html" %}
+{% block content %}
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-box-and-violin-plot/build/Chart.BoxPlot.js"></script>
+
+<div class="max-w-7xl mx-auto px-6 py-12 space-y-14">
+  <div class="flex justify-between items-center">
+    <h1 class="text-3xl font-bold text-blue-700">{{ selected.capitalize() }} Dataset Analysis</h1>
+    <form method="get">
+      <select name="dataset" onchange="this.form.submit()" class="p-2 border rounded">
+        {% for d in datasets %}
+          <option value="{{ d }}" {% if d == selected %}selected{% endif %}>{{ d.capitalize() }}</option>
+        {% endfor %}
+      </select>
+    </form>
+  </div>
+
+  <div class="bg-white p-4 shadow rounded">
+    <h2 class="text-xl font-semibold">🎯 Accuracy</h2>
+    <p class="text-lg">{{ accuracy }}%</p>
+  </div>
+
+  <div class="bg-white p-4 shadow rounded overflow-x-auto">
+    <h2 class="text-xl font-semibold mb-2">📄 Dataset Preview</h2>
+    <table class="table-auto w-full text-sm">
+      <thead class="bg-gray-200">
+        <tr>
+          {% for col in head[0].keys() %}
+            <th class="px-4 py-2">{{ col }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in head %}
+          <tr class="border-t">
+            {% for val in row.values() %}
+              <td class="px-4 py-2">{{ val }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="bg-white p-4 shadow rounded">
+    <h2 class="text-xl font-semibold">🔄 Confusion Matrix</h2>
+    <table class="table-auto text-xs border mt-2">
+      <tbody>
+        {% for row in conf_matrix %}
+          <tr>
+            {% for val in row %}
+              <td class="border px-2 py-1 text-center">{{ val }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+    <div class="bg-white p-4 shadow rounded">
+      <h2 class="text-xl font-semibold mb-2">📊 Feature Importance</h2>
+      <canvas id="barChart"></canvas>
+    </div>
+
+    <div class="bg-white p-4 shadow rounded">
+      <h2 class="text-xl font-semibold mb-2">🌧️ Daily Rainfall</h2>
+      <canvas id="rainChart"></canvas>
+    </div>
+
+    
+  <div class="bg-white p-4 shadow rounded">
+      <h2 class="text-xl font-semibold mb-2">🌡️ Daily Temperature</h2>
+      <canvas id="tempChart"></canvas>
+    </div>
+
+  <div class="bg-white p-4 shadow rounded">
+    <h2 class="text-xl font-semibold mb-2">📊 Correlation Heatmap</h2>
+    <img src="data:image/png;base64,{{ correlation_image }}" alt="Correlation Heatmap" class="w-full">
+  </div>
+</div>
+
+<script>
+const chartData = {{ chart_data | safe }};
+
+new Chart(document.getElementById("barChart"), {
+  type: "bar",
+  data: {
+    labels: chartData.feature.labels,
+    datasets: [{
+      label: "Feature Importance",
+      data: chartData.feature.values,
+      backgroundColor: "rgba(59,130,246,0.7)"
+    }]
+  }
+});
+
+new Chart(document.getElementById("rainChart"), {
+  type: "line",
+  data: {
+    labels: chartData.daily.labels,
+    datasets: [{
+      label: "Rainfall (mm)",
+      data: chartData.daily.rainfall,
+      borderColor: "rgba(34,197,94,0.9)",
+      tension: 0.4,
+      fill: false
+    }]
+  }
+});
+
+new Chart(document.getElementById("tempChart"), {
+  type: "line",
+  data: {
+    labels: chartData.daily.labels,
+    datasets: [{
+      label: "Temperature (°C)",
+      data: chartData.daily.temperature,
+      borderColor: "rgba(234,88,12,1)",
+      tension: 0.4,
+      fill: false
+    }]
+  }
+});
+
+new Chart(document.getElementById("boxPlot"), {
+  type: 'boxplot',
+  data: {
+    labels: Object.keys(chartData.boxplot),
+    datasets: [{
+      label: 'Monthly Temperature Distribution',
+      data: Object.values(chartData.boxplot),
+      backgroundColor: 'rgba(99,102,241,0.5)'
+    }]
+  }
+});
+
+new Chart(document.getElementById("radarChart"), {
+  type: "radar",
+  data: {
+    labels: chartData.radar.labels,
+    datasets: chartData.radar.datasets
+  }
+});
+
+new Chart(document.getElementById("pieChart"), {
+  type: "pie",
+  data: {
+    labels: chartData.pie.labels,
+    datasets: [{
+      label: "Weather Conditions",
+      data: chartData.pie.values,
+      backgroundColor: [
+        "#f87171", "#fb923c", "#facc15", "#4ade80", "#60a5fa", "#a78bfa"
+      ]
+    }]
+  }
+});
+
+new Chart(document.getElementById("geoChart"), {
+  type: "bar",
+  data: {
+    labels: chartData.geo.labels,
+    datasets: [{
+      label: "Observations",
+      data: chartData.geo.values,
+      backgroundColor: "rgba(96,165,250,0.7)"
+    }]
+  }
+});
+</script>
+{% endblock %}
